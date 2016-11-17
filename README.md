@@ -396,6 +396,9 @@ https://github.com/dotnet-architecture/eShopOnContainers
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
 http://tirania.org/blog/archive/2017/Jan-18.html
 
+Automating Windows Applications Using the WCF Equipped Injected Component  
+https://www.codeproject.com/Articles/17924/Automating-Windows-Applications-Using-the-WCF-Equi
+
 ## Git
 
 ### Learning
