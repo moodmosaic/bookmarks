@@ -132,6 +132,9 @@ https://github.com/dungpa/fantomas
 The Gamma - Experiments in tooling for data-driven storytelling  
 https://github.com/the-gamma
 
+Free monads - A terrible way of separating pure and impure code  
+http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-type#comment70551788_41668459
+
 ## .NET ##
 
 ### Learning
