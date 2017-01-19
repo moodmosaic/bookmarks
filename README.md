@@ -127,6 +127,11 @@ http://scaladays.org/
 fantomas - F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
 https://github.com/dungpa/fantomas
 
+### Learning
+
+The Gamma - Experiments in tooling for data-driven storytelling  
+https://github.com/the-gamma
+
 ## .NET ##
 
 ### Learning
