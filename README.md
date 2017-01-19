@@ -50,3 +50,8 @@ https://cryptowat.ch/
 
 Why Time Flies - Maximilian Kiener  
 http://www.maximiliankiener.com/digitalprojects/time/
+
+### High fidelity
+
+Dynamic Range Database  
+http://dr.loudness-war.info/
