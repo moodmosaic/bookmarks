@@ -40,6 +40,11 @@ https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
 Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
 https://github.com/ambiata/disorder.hs
 
+### Prettyprint
+
+hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
+https://github.com/danstiner/hfmt
+
 ## Scala
 
 ### Conferences
