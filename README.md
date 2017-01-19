@@ -114,6 +114,11 @@ https://github.com/dungpa/fantomas
 
 ## .NET ##
 
+### Documentation
+
+docs.microsoft.com is Microsoft's new unified technical documentation experience
+https://docs.microsoft.com/en-us/
+
 ### Platforms
 
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
