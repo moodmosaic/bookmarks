@@ -59,6 +59,13 @@ http://scaladays.org/
 fantomas - F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
 https://github.com/dungpa/fantomas
 
+## .NET ##
+
+### Platforms
+
+If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
+http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
+
 ## Cryptocurrencies
 
 ### Price charts
