@@ -16,6 +16,11 @@ https://github.com/snowdriftcoop/snowdrift/pull/330#issuecomment-220034237
 Protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks  
 https://github.com/ambiata/mafia
 
+### Hackage
+
+Reverse Dependencies - You choose a package and it tells you its reverse dependencies: those packages that depend upon it. It also tells you which packages are incompatible with the current version of the package  
+http://packdeps.haskellers.com/reverse
+
 ### Parsec
 
 An introduction to parsing text in Haskell with Parsec  
