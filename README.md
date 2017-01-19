@@ -15,3 +15,6 @@ http://unbui.lt/#!/post/haskell-parsec-basics
 
 Real World Haskell - Chapter 16. Using Parsec  
 http://book.realworldhaskell.org/read/using-parsec.html
+
+Parsec, a fast combinator parser  
+https://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec.pdf
