@@ -34,5 +34,5 @@ https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
 
 ### Conferences
 
-Scala Days
+Scala Days  
 http://scaladays.org/
