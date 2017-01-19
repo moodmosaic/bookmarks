@@ -1,6 +1,34 @@
 # bookmarks
 Contains a selection of the links I find interesting over time.
 
+## Table of Contents
+
+* [Haskell](#haskell)
+ * [GHC](#ghc)
+ * [Cabal](#cabal)
+ * [Platforms](#platforms)
+ * [Hackage](#hackage)
+ * [Parsec](#parsec)
+ * [QuickCheck](#quickcheck)
+ * [Prettyprint](#prettyprint)
+ * [Learning](#learning)
+* [Scala](#scala)
+ * [Conferences](#conferences)
+* [F#](#f)
+ * [Prettyprint](#prettyprint-1)
+ * [Learning](#learning-1)
+* [.NET](#net)
+ * [Learning](#learning-2)
+ * [Platforms](#platforms-1)
+* [Git](#git)
+ * [Learning](#learning-3)
+* [Cryptocurrencies](#cryptocurrencies)
+ * [Price charts](#price-charts)
+* [Leisure](#leisure)
+ * [Life](#life)
+ * [High fidelity](#high-fidelity)
+ * [Juno Records](#juno-records)
+
 ## Haskell
 
 ### GHC
@@ -135,7 +163,7 @@ https://github.com/the-gamma
 Free monads - A terrible way of separating pure and impure code  
 http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-type#comment70551788_41668459
 
-## .NET ##
+## .NET
 
 ### Learning
 
@@ -147,7 +175,7 @@ https://docs.microsoft.com/en-us/
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
 
-## Git ##
+## Git
 
 ### Learning
 
