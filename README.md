@@ -84,3 +84,13 @@ http://www.maximiliankiener.com/digitalprojects/time/
 
 Dynamic Range Database  
 http://dr.loudness-war.info/
+
+### Juno Records
+
+*(Latest checked)*
+FIREFLY / KANO  
+Love (Is Gonna Be On Your Side) (12" repress)  
+Emergency US  
+Cat: EMDS 6515  
+02 Jan 17
+Disco / Nu-Disco
