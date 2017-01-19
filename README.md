@@ -12,3 +12,6 @@ http://unbui.lt/#!/post/haskell-language-extensions/
 
 An introduction to parsing text in Haskell with Parsec  
 http://unbui.lt/#!/post/haskell-parsec-basics
+
+Real World Haskell - Chapter 16. Using Parsec  
+http://book.realworldhaskell.org/read/using-parsec.html
