@@ -29,3 +29,10 @@ https://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec.pdf
 
 An Introduction to the Parsec Library  
 https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
+
+## Scala
+
+### Conferences
+
+Scala Days
+http://scaladays.org/
