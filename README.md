@@ -56,7 +56,7 @@ http://scaladays.org/
 
 ### Prettyprint
 
-F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
+fantomas - F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
 https://github.com/dungpa/fantomas
 
 ## Cryptocurrencies
