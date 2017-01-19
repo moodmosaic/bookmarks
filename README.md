@@ -139,6 +139,13 @@ https://docs.microsoft.com/en-us/
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
 
+## Git ##
+
+### Learning
+
+Use git add --patch for better commit history and mitigating bugs  
+https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and-mitigating-bugs
+
 ## Cryptocurrencies
 
 ### Price charts
