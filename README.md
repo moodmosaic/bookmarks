@@ -89,6 +89,9 @@ https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
 Impact on style of GHC -Wall (re-learned to write parsers in Applicative style)  
 http://stackoverflow.com/a/4176570/467754
 
+Intro to Parsing with Parsec in Haskell  
+http://jakewheat.github.io/intro_to_parsing/
+
 ### QuickCheck
 
 Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
