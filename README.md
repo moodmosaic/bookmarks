@@ -36,3 +36,10 @@ https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
 
 Scala Days  
 http://scaladays.org/
+
+## Cryptocurrencies
+
+### Price charts
+
+Live price charts and market data for Bitcoin, Ethereum, and more  
+https://cryptowat.ch/
