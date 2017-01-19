@@ -45,6 +45,11 @@ https://github.com/ambiata/disorder.hs
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
 https://github.com/danstiner/hfmt
 
+### Learning
+
+Lined-up Haskell types  
+https://chris-martin.github.io/haskell-aligned/
+
 ## Scala
 
 ### Conferences
