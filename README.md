@@ -35,6 +35,9 @@ https://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec.pdf
 An Introduction to the Parsec Library  
 https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
 
+Impact on style of GHC -Wall (re-learned to write parsers in Applicative style)  
+http://stackoverflow.com/a/4176570/467754
+
 ### QuickCheck
 
 Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
