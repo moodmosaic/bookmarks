@@ -35,6 +35,11 @@ https://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec.pdf
 An Introduction to the Parsec Library  
 https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/
 
+### QuickCheck
+
+Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
+https://github.com/ambiata/disorder.hs
+
 ## Scala
 
 ### Conferences
