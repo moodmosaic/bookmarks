@@ -43,3 +43,10 @@ http://scaladays.org/
 
 Live price charts and market data for Bitcoin, Ethereum, and more  
 https://cryptowat.ch/
+
+## Leisure
+
+### Life
+
+Why Time Flies - Maximilian Kiener  
+http://www.maximiliankiener.com/digitalprojects/time/
