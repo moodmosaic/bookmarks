@@ -107,6 +107,9 @@ https://chris-martin.github.io/haskell-aligned/
 CSCI 360: Programming Languages (Fall 2016)  
 http://ozark.hendrix.edu/~yorgey/360/f16/
 
+The Curse of the Excluded Middle - "Mostly functional" programming does not work  
+http://queue.acm.org/detail.cfm?id=2611829
+
 ## Scala
 
 ### Conferences
