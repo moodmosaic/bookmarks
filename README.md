@@ -18,6 +18,9 @@ https://github.com/ambiata/mafia
 
 ### Platforms
 
+JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
+http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html
+
 HaskellPlatform-7.10.3-x86_64-setup  
 https://downloads.haskell.org/~platform/7.10.3/HaskellPlatform-7.10.3-x86_64-setup.exe
 
