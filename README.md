@@ -101,6 +101,9 @@ https://github.com/danstiner/hfmt
 Lined-up Haskell types  
 https://chris-martin.github.io/haskell-aligned/
 
+CSCI 360: Programming Languages (Fall 2016)  
+http://ozark.hendrix.edu/~yorgey/360/f16/
+
 ## Scala
 
 ### Conferences
@@ -117,7 +120,7 @@ https://github.com/dungpa/fantomas
 
 ## .NET ##
 
-### Documentation
+### Learning
 
 docs.microsoft.com is Microsoft's new unified technical documentation experience
 https://docs.microsoft.com/en-us/
