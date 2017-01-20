@@ -182,6 +182,9 @@ https://docs.microsoft.com/en-us/
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
 
+How .NET Standard relates to .NET Platforms?  
+https://gist.github.com/davidfowl/8939f305567e1755412d6dc0b8baf1b7
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
