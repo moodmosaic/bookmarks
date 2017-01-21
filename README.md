@@ -15,6 +15,7 @@ Contains a selection of the links I find interesting over time.
 * [Scala](#scala)
  * [Conferences](#conferences)
 * [F#](#f)
+ * [Ionide](#ionide)
  * [Prettyprint](#prettyprint-1)
  * [Learning](#learning-1)
 * [.NET](#net)
@@ -150,6 +151,11 @@ Scala Days
 http://scaladays.org/
 
 ## F# ##
+
+### Ionide
+
+Expecto test-runner in Ionide (integration point)  
+https://github.com/ionide/ionide-vscode-fsharp/blob/master/src/Components/Expecto.fs
 
 ### Prettyprint
 
