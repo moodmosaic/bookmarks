@@ -18,6 +18,7 @@ Contains a selection of the links I find interesting over time.
  * [Prettyprint](#prettyprint-1)
  * [Learning](#learning-1)
 * [.NET](#net)
+ * [Interop](#interop)
  * [Learning](#learning-2)
  * [Platforms](#platforms-1)
 * [Git](#git)
