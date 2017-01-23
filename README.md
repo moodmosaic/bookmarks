@@ -167,13 +167,18 @@ http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-
 
 ### Learning
 
-docs.microsoft.com is Microsoft's new unified technical documentation experience
+docs.microsoft.com is Microsoft's new unified technical documentation experience  
 https://docs.microsoft.com/en-us/
 
 ### Platforms
 
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
+
+### Interop
+
+Creating .NET Bindings for C Libraries with ObjectiveSharpie  
+http://tirania.org/blog/archive/2017/Jan-18.html
 
 ## Git
 
