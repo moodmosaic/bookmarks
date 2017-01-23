@@ -29,6 +29,7 @@ Contains a selection of the links I find interesting over time.
 * [Leisure](#leisure)
  * [Life](#life)
  * [High fidelity](#high-fidelity)
+ * [Furniture](#furniture)
  * [Juno Records](#juno-records)
 
 ## Haskell
@@ -215,6 +216,11 @@ http://www.maximiliankiener.com/digitalprojects/time/
 
 Dynamic Range Database  
 http://dr.loudness-war.info/
+
+### Furniture
+
+Hoerboard – Pro Audio & DJ Furniture | The Customized DJ Table  
+http://www.hoerboard.com/furniture/nineteen/
 
 ### Juno Records
 
