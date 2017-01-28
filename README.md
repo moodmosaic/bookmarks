@@ -123,6 +123,9 @@ http://stackoverflow.com/a/4176570/467754
 Intro to Parsing with Parsec in Haskell  
 http://jakewheat.github.io/intro_to_parsing/
 
+A nice example of using parsec to parse XML files
+https://static.charlieharvey.org.uk/writings/ReadXML.hs.txt
+
 ### QuickCheck
 
 Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
