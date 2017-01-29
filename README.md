@@ -42,6 +42,10 @@ http://unbui.lt/#!/post/haskell-language-extensions/
 GHCi's pretty-printer can be switched  
 https://twitter.com/thumphriees/status/819783361614876672
 
+The Glorious Glasgow Haskell Compilation System User's Guide, Version 7.10.3  
+Warnings and sanity-checking  
+https://downloads.haskell.org/~ghc/7.10.3/docs/html/users_guide/options-sanity.html
+
 ### Cabal
 
 *"Well, regarding the name, Cabal is indeed the library that all tools use, e.g. the .cabal file in a project. The bad name here is the build tool "cabal-install" because that has confused the hell out of everyone. There's three things here: a library called Cabal, a build tool called "Stack", and a build tool that should be called "some-haskell-build-tool" like maybe "haskbuilder" but is instead called "cabal-install" because it is some-build-tool-that-uses-the-Cabal-library (although that description works for Stack too). So the two tools with cabal in the name confuse everyone."*  
@@ -123,7 +127,7 @@ http://stackoverflow.com/a/4176570/467754
 Intro to Parsing with Parsec in Haskell  
 http://jakewheat.github.io/intro_to_parsing/
 
-A nice example of using parsec to parse XML files
+A nice example of using parsec to parse XML files  
 https://static.charlieharvey.org.uk/writings/ReadXML.hs.txt
 
 ### QuickCheck
