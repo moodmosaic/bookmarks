@@ -54,6 +54,9 @@ https://github.com/snowdriftcoop/snowdrift/pull/330#issuecomment-220034237
 Protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks  
 https://github.com/ambiata/mafia
 
+Build your Haskell project continuously  
+https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
+
 ### Platforms
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
