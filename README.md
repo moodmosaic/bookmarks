@@ -14,6 +14,7 @@ Contains a selection of the links I find interesting over time.
  * [Learning](#learning)
 * [Scala](#scala)
  * [Conferences](#conferences)
+ * [Learning](#learning-1)
 * [F#](#f)
  * [Ionide](#ionide)
  * [Prettyprint](#prettyprint-1)
