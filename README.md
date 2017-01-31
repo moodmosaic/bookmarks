@@ -205,6 +205,9 @@ https://gist.github.com/davidfowl/8939f305567e1755412d6dc0b8baf1b7
 Working with Multiple .NET Core SDKs - both project.json and msbuild/csproj  
 http://www.hanselman.com/blog/WorkingWithMultipleNETCoreSDKsBothProjectjsonAndMsbuildcsproj.aspx
 
+This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.  
+https://github.com/dotnet/coreclr
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
