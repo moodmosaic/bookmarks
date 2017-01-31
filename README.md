@@ -154,6 +154,9 @@ http://ozark.hendrix.edu/~yorgey/360/f16/
 The Curse of the Excluded Middle - "Mostly functional" programming does not work  
 http://queue.acm.org/detail.cfm?id=2611829
 
+How much space does an 8-bit integer occupy in C and Haskell?  
+https://ro-che.info/articles/2017-01-25-word8-space
+
 ## Scala
 
 ### Conferences
