@@ -167,6 +167,11 @@ https://gist.github.com/jfischoff/924c6608bc3284a72112ee4e13645a82
 Scala Days  
 http://scaladays.org/
 
+### Learning
+
+Asynchronous Programming and Scala, via @alexelcu  
+https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html
+
 ## F# ##
 
 ### Ionide
