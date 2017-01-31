@@ -157,6 +157,9 @@ http://queue.acm.org/detail.cfm?id=2611829
 How much space does an 8-bit integer occupy in C and Haskell?  
 https://ro-che.info/articles/2017-01-25-word8-space
 
+This guy wrote the TCP state transitions in #Haskell with the hope that he would remember them better ... might have worked:  
+https://gist.github.com/jfischoff/924c6608bc3284a72112ee4e13645a82
+
 ## Scala
 
 ### Conferences
