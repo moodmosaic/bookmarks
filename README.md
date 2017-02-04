@@ -200,6 +200,9 @@ http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-
 docs.microsoft.com is Microsoft's new unified technical documentation experience  
 https://docs.microsoft.com/en-us/
 
+The .NET Language Strategy  
+https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
+
 ### Platforms
 
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
