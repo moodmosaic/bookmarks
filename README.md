@@ -180,6 +180,9 @@ https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html
 Expecto test-runner in Ionide (integration point)  
 https://github.com/ionide/ionide-vscode-fsharp/blob/master/src/Components/Expecto.fs
 
+Create an F# project in Visual Studio Code  
+https://codurance.com/2017/01/26/create-an-fsharp-project-in-vscode/
+
 ### Prettyprint
 
 fantomas - F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
