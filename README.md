@@ -220,6 +220,9 @@ http://www.hanselman.com/blog/WorkingWithMultipleNETCoreSDKsBothProjectjsonAndMs
 This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.  
 https://github.com/dotnet/coreclr
 
+The Book of the Runtime (BOTR) for the .NET Runtime  
+https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
