@@ -17,6 +17,7 @@ Contains a selection of the links I find interesting over time.
  * [Learning](#learning-1)
 * [F#](#f)
  * [Ionide](#ionide)
+ * [FAKE](#fake)
  * [Prettyprint](#prettyprint-1)
  * [Learning](#learning-1)
 * [.NET](#net)
@@ -182,6 +183,11 @@ https://github.com/ionide/ionide-vscode-fsharp/blob/master/src/Components/Expect
 
 Create an F# project in Visual Studio Code  
 https://codurance.com/2017/01/26/create-an-fsharp-project-in-vscode/
+
+### Fake
+
+Specifying FAKE targets  
+http://www.davesquared.net/2017/02/fake-targets.html
 
 ### Prettyprint
 
