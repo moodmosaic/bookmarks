@@ -28,6 +28,8 @@ Contains a selection of the links I find interesting over time.
  * [Learning](#learning-3)
 * [Cryptocurrencies](#cryptocurrencies)
  * [Price charts](#price-charts)
+* [Category theory](#category-theory)
+ * [Learning](#learning-4)
 * [Leisure](#leisure)
  * [Life](#life)
  * [High fidelity](#high-fidelity)
@@ -247,6 +249,13 @@ https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and
 
 Live price charts and market data for Bitcoin, Ethereum, and more  
 https://cryptowat.ch/
+
+## Category theory
+
+### Learning
+
+What is Category Theory Anyway?  
+http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## Leisure
 
