@@ -170,6 +170,9 @@ http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html
 Haskell Bits #2: Application Beginnings  
 http://www.kovach.me/posts/2017-02-03-haskell-bits-application-beginnings.html
 
+Haskell Bits #3: Connecting to Databases  
+http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html
+
 ## Scala
 
 ### Conferences
