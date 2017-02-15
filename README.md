@@ -167,6 +167,9 @@ https://gist.github.com/jfischoff/924c6608bc3284a72112ee4e13645a82
 Haskell Bits #1: Randomness  
 http://www.kovach.me/posts/2017-01-30-haskell-bits-randomness.html
 
+Haskell Bits #2: Application Beginnings  
+http://www.kovach.me/posts/2017-02-03-haskell-bits-application-beginnings.html
+
 ## Scala
 
 ### Conferences
