@@ -61,6 +61,9 @@ https://github.com/ambiata/mafia
 Build your Haskell project continuously  
 https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 
+QuickCheck in Test-suite type "detailed"  
+https://www.schoolofhaskell.com/user/griba/quickCheck-in-test-suite-type-detailed
+
 ### Platforms
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
