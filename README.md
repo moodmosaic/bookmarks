@@ -35,6 +35,7 @@ Contains a selection of the links I find interesting over time.
  * [High fidelity](#high-fidelity)
  * [Furniture](#furniture)
  * [Juno Records](#juno-records)
+ * [Tracklists](#tracklists)
 
 ## Haskell
 
@@ -298,3 +299,9 @@ Emergency US
 Cat: EMDS 6515  
 02 Jan 17
 Disco / Nu-Disco
+
+### Tracklists
+
+'We Love' Desyn Masiello live set archive  
+http://www.inthemix.com.au/forum/showthread.php?t=152076
+
