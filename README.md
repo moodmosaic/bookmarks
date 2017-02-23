@@ -280,6 +280,9 @@ http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 Why Time Flies - Maximilian Kiener  
 http://www.maximiliankiener.com/digitalprojects/time/
 
+How to organize a meetup  
+http://www.jefclaes.be/2017/02/how-to-organize-meetup.html
+
 ### High fidelity
 
 Dynamic Range Database  
