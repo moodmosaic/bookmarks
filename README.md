@@ -247,6 +247,9 @@ https://github.com/dotnet/coreclr
 The Book of the Runtime (BOTR) for the .NET Runtime  
 https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 
+dotnet new angular and dotnet new react  
+https://www.hanselman.com/blog/dotnetNewAngularAndDotnetNewReact.aspx
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
