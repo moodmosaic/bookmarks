@@ -250,6 +250,9 @@ https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 dotnet new angular and dotnet new react  
 https://www.hanselman.com/blog/dotnetNewAngularAndDotnetNewReact.aspx
 
+@DamianEdwards NDC London talk w/ @davidfowl on #aspnetcore patterns & anti-patterns  
+https://vimeo.com/204080268
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
