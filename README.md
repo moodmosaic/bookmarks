@@ -51,6 +51,9 @@ The Glorious Glasgow Haskell Compilation System User's Guide, Version 7.10.3
 Warnings and sanity-checking  
 https://downloads.haskell.org/~ghc/7.10.3/docs/html/users_guide/options-sanity.html
 
+Submitting a pull request to GHC  
+https://chris-martin.org/2017/phabricator-ghc-pull-request
+
 ### Cabal
 
 *"Well, regarding the name, Cabal is indeed the library that all tools use, e.g. the .cabal file in a project. The bad name here is the build tool "cabal-install" because that has confused the hell out of everyone. There's three things here: a library called Cabal, a build tool called "Stack", and a build tool that should be called "some-haskell-build-tool" like maybe "haskbuilder" but is instead called "cabal-install" because it is some-build-tool-that-uses-the-Cabal-library (although that description works for Stack too). So the two tools with cabal in the name confuse everyone."*  
