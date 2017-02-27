@@ -223,6 +223,9 @@ https://github.com/the-gamma
 Free monads - A terrible way of separating pure and impure code  
 http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-type#comment70551788_41668459
 
+Tour of F#  
+https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour
+
 ## .NET
 
 ### Learning
