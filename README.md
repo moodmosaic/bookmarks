@@ -262,6 +262,9 @@ https://vimeo.com/204080268
 OpenID Connect from ASP.NET Core - on Mac OSX  
 https://grean.com/easyid/aspnetcore/oidc/2017/02/25/aspnet-core-and-easyid.html
 
+WordPress Running on .NET Core  
+http://www.peachpie.io/2017/02/wordpress-announcement.html
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
