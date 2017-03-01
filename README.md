@@ -259,6 +259,9 @@ https://www.hanselman.com/blog/dotnetNewAngularAndDotnetNewReact.aspx
 @DamianEdwards NDC London talk w/ @davidfowl on #aspnetcore patterns & anti-patterns  
 https://vimeo.com/204080268
 
+OpenID Connect from ASP.NET Core - on Mac OSX  
+https://grean.com/easyid/aspnetcore/oidc/2017/02/25/aspnet-core-and-easyid.html
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
