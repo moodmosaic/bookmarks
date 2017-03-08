@@ -180,6 +180,9 @@ http://www.kovach.me/posts/2017-02-03-haskell-bits-application-beginnings.html
 Haskell Bits #3: Connecting to Databases  
 http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html
 
+Haskell Bits #4: Environment Variables  
+http://www.kovach.me/posts/2017-02-22-environment-variables.html
+
 How to make illegal values unrepresentable?  
 http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unrepresentable
 
