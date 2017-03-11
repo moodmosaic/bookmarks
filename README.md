@@ -156,6 +156,8 @@ https://github.com/danstiner/hfmt
 
 ### Learning
 
+**Warning: This section probably needs cleanup.**
+
 Lined-up Haskell types  
 https://chris-martin.github.io/haskell-aligned/
 
@@ -188,6 +190,9 @@ http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unreprese
 
 (A simple) REST API in Haskell  
 http://maciek.io/rest-api-in-haskell/
+
+Deploying a Haskell Web Service to Kubernetes  
+http://code.haleby.se/2017/03/10/deploying-a-haskell-web-service-to-kubernetes/
 
 ## Scala
 
