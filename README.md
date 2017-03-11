@@ -241,6 +241,8 @@ https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
 
 ### Platforms
 
+**Warning: This section probably needs cleanup.**
+
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
 
@@ -270,6 +272,9 @@ http://www.peachpie.io/2017/02/wordpress-announcement.html
 
 F# and .NET Core SDK working together  
 https://github.com/dotnet/netcorecli-fsc
+
+.NET Core landing page  
+https://docs.microsoft.com/en-us/dotnet/articles/core/
 
 ### Interop
 
