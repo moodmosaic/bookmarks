@@ -186,6 +186,9 @@ http://www.kovach.me/posts/2017-02-22-environment-variables.html
 How to make illegal values unrepresentable?  
 http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unrepresentable
 
+(A simple) REST API in Haskell  
+http://maciek.io/rest-api-in-haskell/
+
 ## Scala
 
 ### Conferences
