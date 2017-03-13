@@ -11,6 +11,7 @@ Contains a selection of the links I find interesting over time.
  * [Parsec](#parsec)
  * [QuickCheck](#quickcheck)
  * [Prettyprint](#prettyprint)
+ * [FFI](#ffi)
  * [Learning](#learning)
 * [Scala](#scala)
  * [Conferences](#conferences)
@@ -154,9 +155,12 @@ https://github.com/ambiata/disorder.hs
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
 https://github.com/danstiner/hfmt
 
-### Learning
+### FFI
 
-**Warning: This section probably needs cleanup.**
+Haskell foreign import stdcall on DLL function  
+http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function
+
+### Learning
 
 Lined-up Haskell types  
 https://chris-martin.github.io/haskell-aligned/
@@ -187,12 +191,6 @@ http://www.kovach.me/posts/2017-02-22-environment-variables.html
 
 How to make illegal values unrepresentable?  
 http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unrepresentable
-
-(A simple) REST API in Haskell  
-http://maciek.io/rest-api-in-haskell/
-
-Deploying a Haskell Web Service to Kubernetes  
-http://code.haleby.se/2017/03/10/deploying-a-haskell-web-service-to-kubernetes/
 
 ## Scala
 
@@ -249,8 +247,6 @@ https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
 
 ### Platforms
 
-**Warning: This section probably needs cleanup.**
-
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
 
@@ -280,9 +276,6 @@ http://www.peachpie.io/2017/02/wordpress-announcement.html
 
 F# and .NET Core SDK working together  
 https://github.com/dotnet/netcorecli-fsc
-
-.NET Core landing page  
-https://docs.microsoft.com/en-us/dotnet/articles/core/
 
 ### Interop
 
