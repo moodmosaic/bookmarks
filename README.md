@@ -192,6 +192,9 @@ http://www.kovach.me/posts/2017-02-22-environment-variables.html
 How to make illegal values unrepresentable?  
 http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unrepresentable
 
+Master the command line, in one page (in case I use neovim)  
+https://github.com/jlevy/the-art-of-command-line
+
 ## Scala
 
 ### Conferences
@@ -214,6 +217,9 @@ https://github.com/ionide/ionide-vscode-fsharp/blob/master/src/Components/Expect
 Create an F# project in Visual Studio Code  
 https://codurance.com/2017/01/26/create-an-fsharp-project-in-vscode/
 
+Using VS Code for F# development? Collection of helpful tips and tricks for VS Code  
+https://github.com/Microsoft/vscode-tips-and-tricks
+
 ### Fake
 
 Specifying FAKE targets  
@@ -234,6 +240,12 @@ http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-
 
 Tour of F#  
 https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour
+
+Why 'object-programming' (see Twitter link below) matters in F#  
+https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f/
+
+Why object-programming matters in F# (Twitter discussion)  
+https://twitter.com/dsyme/status/843849405212098560
 
 ## .NET
 
@@ -277,6 +289,9 @@ http://www.peachpie.io/2017/02/wordpress-announcement.html
 F# and .NET Core SDK working together  
 https://github.com/dotnet/netcorecli-fsc
 
+Announcing Nightly Releases for the Visual F# Tools  
+https://blogs.msdn.microsoft.com/dotnet/2017/03/14/announcing-nightly-releases-for-the-visual-f-tools/
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
@@ -285,6 +300,9 @@ http://tirania.org/blog/archive/2017/Jan-18.html
 ## Git
 
 ### Learning
+
+Flight rules for git - A guide for astronauts (now, programmers using git) about what to do when things go wrong  
+https://github.com/k88hudson/git-flight-rules
 
 Use git add --patch for better commit history and mitigating bugs  
 https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and-mitigating-bugs
