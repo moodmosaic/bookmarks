@@ -307,6 +307,9 @@ https://github.com/k88hudson/git-flight-rules
 Use git add --patch for better commit history and mitigating bugs  
 https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and-mitigating-bugs
 
+Visualize how common Git operations affect the commit graph  
+https://github.com/git-school/visualizing-git
+
 ## Cryptocurrencies
 
 ### Price charts
