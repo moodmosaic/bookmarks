@@ -310,6 +310,9 @@ https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and
 Visualize how common Git operations affect the commit graph  
 https://github.com/git-school/visualizing-git
 
+Roadmap to becoming a web developer in 2017 (Git required for any path, so...)  
+https://github.com/kamranahmedse/developer-roadmap
+
 ## Cryptocurrencies
 
 ### Price charts
