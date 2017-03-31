@@ -247,6 +247,9 @@ https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f/
 Why object-programming matters in F# (Twitter discussion)  
 https://twitter.com/dsyme/status/843849405212098560
 
+A reusable ApiController Adapter  
+http://blog.ploeh.dk/2017/03/30/a-reusable-apicontroller-adapter/
+
 ## .NET
 
 ### Learning
