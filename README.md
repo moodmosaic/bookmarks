@@ -250,6 +250,9 @@ https://twitter.com/dsyme/status/843849405212098560
 A reusable ApiController Adapter  
 http://blog.ploeh.dk/2017/03/30/a-reusable-apicontroller-adapter/
 
+A reusable ApiController Adapter (GitHub issue)  
+https://github.com/ploeh/ploeh.github.com/issues/276
+
 ## .NET
 
 ### Learning
