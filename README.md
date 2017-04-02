@@ -27,6 +27,7 @@ Contains a selection of the links I find interesting over time.
   * [Platforms](#platforms-1)
 * [Git](#git)
   * [Learning](#learning-4)
+* [CLI](#cli)
 * [Cryptocurrencies](#cryptocurrencies)
   * [Price charts](#price-charts)
 * [Category theory](#category-theory)
@@ -318,6 +319,11 @@ https://github.com/git-school/visualizing-git
 
 Roadmap to becoming a web developer in 2017 (Git required for any path, so...)  
 https://github.com/kamranahmedse/developer-roadmap
+
+## CLI
+
+fzf - A command-line fuzzy finder written in Go  
+https://github.com/junegunn/fzf
 
 ## Cryptocurrencies
 
