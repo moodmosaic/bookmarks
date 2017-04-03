@@ -53,6 +53,10 @@ The Glorious Glasgow Haskell Compilation System User's Guide, Version 7.10.3
 Warnings and sanity-checking  
 https://downloads.haskell.org/~ghc/7.10.3/docs/html/users_guide/options-sanity.html
 
+The Glorious Glasgow Haskell Compilation System User's Guide, Version 8.0.1  
+Warnings and sanity-checking  
+https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/using-warnings.html#options-sanity
+
 Submitting a pull request to GHC  
 https://chris-martin.org/2017/phabricator-ghc-pull-request
 
