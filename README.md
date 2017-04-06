@@ -280,6 +280,9 @@ https://docs.microsoft.com/en-us/
 The .NET Language Strategy  
 https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
 
+**[REMOVE]** Announcing the .NET Framework 4.7  
+https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/
+
 ### Platforms
 
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
