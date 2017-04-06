@@ -297,6 +297,9 @@ https://grean.com/easyid/aspnetcore/oidc/2017/02/25/aspnet-core-and-easyid.html
 WordPress Running on .NET Core  
 http://www.peachpie.io/2017/02/wordpress-announcement.html
 
+ILLink (a .NET Core build of the mono linker) now ships with .NET Core and trims non-public unreachable IL and metadata  
+https://github.com/dotnet/corefx/pull/17825
+
 F# and .NET Core SDK working together  
 https://github.com/dotnet/netcorecli-fsc
 
