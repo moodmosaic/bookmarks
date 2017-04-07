@@ -122,10 +122,16 @@ After that, use Stack for everything else.
 stack-1.3.2-windows-x86_64-installer  
 https://github.com/commercialhaskell/stack/releases/download/v1.3.2/stack-1.3.2-windows-x86_64-installer.exe
 
+Deploying Haskell on AWS Lambda  
+http://engineers.irisconnect.net/posts/2017-03-16-deploying-haskell-on-aws-lambda.html
+
 ### Hackage
 
 Reverse Dependencies - You choose a package and it tells you its reverse dependencies: those packages that depend upon it. It also tells you which packages are incompatible with the current version of the package  
 http://packdeps.haskellers.com/reverse
+
+Haskell Tools  
+http://haskelltools.com/
 
 ### Parsec
 
@@ -199,6 +205,12 @@ http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unreprese
 
 Master the command line, in one page (in case I use neovim)  
 https://github.com/jlevy/the-art-of-command-line
+
+A Gentle Introduction to Monad Transformers or, Values as Exceptions  
+https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md
+
+kqr/gists/articles/simple-syntax-of-haskell.hs  
+https://github.com/kqr/gists/blob/master/articles/simple-syntax-of-haskell.hs  
 
 ## Scala
 
