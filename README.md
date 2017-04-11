@@ -74,6 +74,9 @@ https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.
 QuickCheck in Test-suite type "detailed"  
 https://www.schoolofhaskell.com/user/griba/quickCheck-in-test-suite-type-detailed
 
+Introduction to Nix (for users of Stack)  
+https://chris-martin.org/2017/nix-for-stack-users
+
 ### Platforms
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
