@@ -834,3 +834,6 @@ http://www.inthemix.com.au/forum/showthread.php?t=152076
 
 LUKE FAIR dj sets by bringthebeats | Free Listening on SoundCloud  
 https://soundcloud.com/bringthebeats/sets/luke-fair-dj-sets
+
+audiokeychain - AudioKeychain: Song Key Finder | Online musical key and tempo estimation  
+https://www.audiokeychain.com/
