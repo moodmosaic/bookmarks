@@ -400,6 +400,9 @@ https://twitter.com/CoolSWEng/status/863090134232821761
 fzf - A command-line fuzzy finder written in Go  
 https://github.com/junegunn/fzf
 
+iTerm2 - A replacement for Terminal and the successor to iTerm  
+https://www.iterm2.com/
+
 ## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
