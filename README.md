@@ -305,6 +305,9 @@ https://gist.github.com/swlaschin/7b9dfe7c41df9d1ac92a544117a934df
 Domain Modeling Made Functional - Tackle Software Complexity with Domain-Driven Design and F# (Scott Wlaschin)  
 https://pragprog.com/book/swdddf/domain-modeling-made-functional
 
+(Nearly) Everything You Ever Wanted to Know About F# Active Patterns but were Afraid to Ask  
+https://www.youtube.com/watch?v=AQ-8_8hfmGE
+
 ## .NET
 
 ### Learning
