@@ -273,6 +273,9 @@ http://blog.ploeh.dk/2017/03/30/a-reusable-apicontroller-adapter/
 A reusable ApiController Adapter (GitHub issue)  
 https://github.com/ploeh/ploeh.github.com/issues/276
 
+Fixing Real Life Problems from the Ivory Tower - Audience Level: Advanced  
+https://skillsmatter.com/skillscasts/9883-fixing-real-life-problems-from-the-ivory-tower
+
 ## .NET
 
 ### Learning
