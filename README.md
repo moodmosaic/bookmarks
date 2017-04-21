@@ -388,11 +388,11 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-RAHAAN / TED EMPLETON  
-Dessert Island Discs (180 gram vinyl 12")  
-Dessert Island Discs  
-Cat: DID 017  
-01 Jan 17  
+GALAXIANS  
+Out They Minds (12")  
+Dither Down US  
+Cat: DD 0024  
+13 Feb 17  
 Disco / Nu-Disco
 
 ### Tracklists
