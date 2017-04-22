@@ -388,12 +388,12 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-GALAXIANS  
-Out They Minds (12")  
-Dither Down US  
-Cat: DD 0024  
-13 Feb 17  
-Disco / Nu-Disco
+PARAMIDA  
+Tehran Bomb (limited 12" repress)  
+Love On The Rocks  
+Cat: LOTR 009  
+27 Feb 17  
+Deep House
 
 ### Tracklists
 
