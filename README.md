@@ -388,12 +388,12 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-PARAMIDA  
-Tehran Bomb (limited 12" repress)  
-Love On The Rocks  
-Cat: LOTR 009  
-27 Feb 17  
-Deep House
+SORDID SOUND SYSTEM  
+Fear Eats The Soul EP (hand-numbered 12" limited to 250 copies)  
+Invisible Inc  
+Cat: INVINC 12  
+27 Mar 17  
+Disco / Nu-Disco
 
 ### Tracklists
 
