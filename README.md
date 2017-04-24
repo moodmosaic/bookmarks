@@ -388,13 +388,12 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-SORDID SOUND SYSTEM  
-Fear Eats The Soul EP (hand-numbered 12" limited to 250 copies)  
-Invisible Inc  
-Cat: INVINC 12  
-27 Mar 17  
+GOODY GOODY  
+#1 Dee Jay (warehouse find) (12" repress)  
+Atlantic US  
+Cat: DSKO 150  
+24 Apr 17  
 Disco / Nu-Disco
-
 ### Tracklists
 
 'We Love' Desyn Masiello live set archive  
