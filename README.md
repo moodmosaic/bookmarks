@@ -203,6 +203,9 @@ http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html
 Haskell Bits #4: Environment Variables  
 http://www.kovach.me/posts/2017-02-22-environment-variables.html
 
+selda: Type-safe, high-level EDSL for interacting with relational databases  
+https://hackage.haskell.org/package/selda
+
 How to make illegal values unrepresentable?  
 http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unrepresentable
 
