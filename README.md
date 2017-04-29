@@ -279,6 +279,9 @@ https://github.com/ploeh/ploeh.github.com/issues/276
 Fixing Real Life Problems from the Ivory Tower - Audience Level: Advanced  
 https://skillsmatter.com/skillscasts/9883-fixing-real-life-problems-from-the-ivory-tower
 
+Functional Track talks from NDC London 2017  
+https://gist.github.com/swlaschin/7b9dfe7c41df9d1ac92a544117a934df
+
 ## .NET
 
 ### Learning
