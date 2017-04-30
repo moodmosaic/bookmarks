@@ -216,7 +216,12 @@ A Gentle Introduction to Monad Transformers or, Values as Exceptions
 https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md
 
 kqr/gists/articles/simple-syntax-of-haskell.hs  
-https://github.com/kqr/gists/blob/master/articles/simple-syntax-of-haskell.hs  
+https://github.com/kqr/gists/blob/master/articles/simple-syntax-of-haskell.hs
+
+Constrained checkboxes. How would you implement? - In @elmlang you maintain invariants with data structures!  
+*Didn't know where to put this?! Need to cleanup my bookmarks at this point.*  
+https://twitter.com/czaplic/status/859065124006445056
+
 
 ## Scala
 
