@@ -164,6 +164,9 @@ https://static.charlieharvey.org.uk/writings/ReadXML.hs.txt
 Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
 https://github.com/ambiata/disorder.hs
 
+kolmodin/binary/tests/Action.hs  
+https://github.com/kolmodin/binary/blob/master/tests/Action.hs
+
 ### Prettyprint
 
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
