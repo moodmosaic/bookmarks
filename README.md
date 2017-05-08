@@ -28,6 +28,7 @@ Contains a selection of the links I find interesting over time.
 * [Git](#git)
   * [Learning](#learning-4)
 * [CLI](#cli)
+* [Ubuntu](#ubuntu)
 * [Cryptocurrencies](#cryptocurrencies)
   * [Price charts](#price-charts)
 * [Category theory](#category-theory)
@@ -366,6 +367,14 @@ https://github.com/kamranahmedse/developer-roadmap
 
 fzf - A command-line fuzzy finder written in Go  
 https://github.com/junegunn/fzf
+
+## Ubuntu
+
+How do I mount shared folders in Ubuntu using VMware tools?  
+https://askubuntu.com/a/41386
+
+How do I install a .deb file via the command line?  
+https://askubuntu.com/a/40781
 
 ## Cryptocurrencies
 
