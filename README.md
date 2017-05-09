@@ -1,6 +1,8 @@
 # bookmarks
 Contains a selection of the links I find interesting over time.
 
+*If it ain't down there it might be worth looking at https://libraries.io/*
+
 ## Table of Contents
 
 * [Haskell](#haskell)
@@ -82,6 +84,10 @@ https://chris-martin.org/2017/nix-for-stack-users
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
 http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html
+
+[Elm](http://elm-lang.org) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API  
+https://github.com/rtfeldman/elm-spa-example
+https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa
 
 HaskellPlatform-7.10.3-x86_64-setup  
 https://downloads.haskell.org/~platform/7.10.3/HaskellPlatform-7.10.3-x86_64-setup.exe
@@ -226,6 +232,8 @@ Constrained checkboxes. How would you implement? - In @elmlang you maintain inva
 *Didn't know where to put this?! Need to cleanup my bookmarks at this point.*  
 https://twitter.com/czaplic/status/859065124006445056
 
+One of those situations where Haskell knowledge is applied elsewhere—A monadic parser for JSON written in JavaScript (using Free Monads)  
+https://www.reddit.com/r/haskell/comments/68nspj/a_jsonstream_parser_in_750_bytes_thanks_free/
 
 ## Scala
 
@@ -264,6 +272,9 @@ https://github.com/dungpa/fantomas
 
 ### Learning
 
+Notes and Guidance on FSharp.Core  
+https://fsharp.github.io/2015/04/18/fsharp-core-notes.html
+
 The Gamma - Experiments in tooling for data-driven storytelling  
 https://github.com/the-gamma
 
@@ -297,6 +308,9 @@ https://gist.github.com/swlaschin/7b9dfe7c41df9d1ac92a544117a934df
 
 docs.microsoft.com is Microsoft's new unified technical documentation experience  
 https://docs.microsoft.com/en-us/
+
+High-performance .NET by example: Filtering bot traffic **Was popular on Twitter**  
+https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/
 
 The .NET Language Strategy  
 https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
@@ -399,6 +413,9 @@ http://www.maximiliankiener.com/digitalprojects/time/
 
 How to organize a meetup  
 http://www.jefclaes.be/2017/02/how-to-organize-meetup.html
+
+A great demonstration of why we need to plot the data and never trust statistics tables!  
+https://www.autodeskresearch.com/publications/samestats
 
 ### High fidelity
 
