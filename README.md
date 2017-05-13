@@ -379,6 +379,9 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ## CLI
 
+Now color-coded! Two diagrams of the Unix architecture, 50 years apart. What they tell us and how I drew them.  
+https://twitter.com/CoolSWEng/status/863090134232821761
+
 fzf - A command-line fuzzy finder written in Go  
 https://github.com/junegunn/fzf
 
