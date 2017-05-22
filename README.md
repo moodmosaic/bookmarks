@@ -774,6 +774,9 @@ https://txhighway.com/
 The Hopepage  
 https://www.thehopepage.org/
 
+miscreant - Misuse-resistant symmetric encryption library with AES-SIV (RFC 5297) and AES-PMAC-SIV support  
+https://github.com/miscreant/miscreant
+
 ## Leisure
 
 mermaid - A simple markdown-like script language for generating charts from text via javascript  
