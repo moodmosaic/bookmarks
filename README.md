@@ -318,6 +318,9 @@ https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
 **[REMOVE]** Announcing the .NET Framework 4.7  
 https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/
 
+Difference between decimal, float and double in .NET?  
+https://stackoverflow.com/a/618596/467754
+
 ### Platforms
 
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
