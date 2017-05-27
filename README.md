@@ -324,6 +324,12 @@ https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-
 Difference between decimal, float and double in .NET?  
 https://stackoverflow.com/a/618596/467754
 
+HTTPS on Stack Overflow: The End of a Long Road (don't know where else to put this one)  
+https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/
+
+Moving Past the Scaling Myth (Michael Feathers) (don't know where else to put this one either)  
+https://www.infoq.com/presentations/scalability-variant-structuring
+
 ### Platforms
 
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
