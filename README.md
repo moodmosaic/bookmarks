@@ -362,6 +362,9 @@ https://github.com/dotnet/netcorecli-fsc
 Announcing Nightly Releases for the Visual F# Tools  
 https://blogs.msdn.microsoft.com/dotnet/2017/03/14/announcing-nightly-releases-for-the-visual-f-tools/
 
+dotnet-architecture/eShopOnContainers - Easy to get started sample reference microservice and container based application  
+https://github.com/dotnet-architecture/eShopOnContainers
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
