@@ -302,6 +302,9 @@ https://skillsmatter.com/skillscasts/9883-fixing-real-life-problems-from-the-ivo
 Functional Track talks from NDC London 2017  
 https://gist.github.com/swlaschin/7b9dfe7c41df9d1ac92a544117a934df
 
+Domain Modeling Made Functional - Tackle Software Complexity with Domain-Driven Design and F# (Scott Wlaschin)  
+https://pragprog.com/book/swdddf/domain-modeling-made-functional
+
 ## .NET
 
 ### Learning
