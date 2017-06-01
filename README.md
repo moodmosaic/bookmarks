@@ -703,6 +703,9 @@ https://askubuntu.com/a/40781
 ConEmu - Major changes since last Stable  
 https://github.com/Maximus5/ConEmu/issues/1523
 
+Linus Torvalds' Micro-emacs  
+https://news.ycombinator.com/item?id=951461
+
 ## Cryptocurrencies
 
 State Machine Testing with Echidna
