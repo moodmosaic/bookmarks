@@ -572,6 +572,9 @@ http://www.jefclaes.be/2017/02/how-to-organize-meetup.html
 A great demonstration of why we need to plot the data and never trust statistics tables!  
 https://www.autodeskresearch.com/publications/samestats
 
+Roadmap to becoming a web developer in 2017  
+https://github.com/kamranahmedse/developer-roadmap
+
 ### High fidelity
 
 The Internet Archive has digitized 25,000 78rpm Gramophone records  
