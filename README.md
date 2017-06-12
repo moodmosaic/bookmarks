@@ -12,6 +12,7 @@ Contains a selection of the links I find interesting over time.
   * [Hackage](#hackage)
   * [Parsec](#parsec)
   * [QuickCheck](#quickcheck)
+  * [Hedgehog](#hedgehog)
   * [Prettyprint](#prettyprint)
   * [FFI](#ffi)
   * [Learning](#learning)
@@ -174,6 +175,13 @@ https://github.com/ambiata/disorder.hs
 kolmodin/binary/tests/Action.hs  
 https://github.com/kolmodin/binary/blob/master/tests/Action.hs
 
+
+### Hedgehog
+
+Jacob Stanley - YOW! Lambda Jam 2017 Sydney - Gens N' Roses: Appetite for Reduction    
+http://lambdajam.yowconference.com.au/speakers/jacob-stanley-2/
+http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Stanley-GensNRoses.pdf
+
 ### Prettyprint
 
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
@@ -234,6 +242,12 @@ https://twitter.com/czaplic/status/859065124006445056
 
 One of those situations where Haskell knowledge is applied elsewhere—A monadic parser for JSON written in JavaScript (using Free Monads)  
 https://www.reddit.com/r/haskell/comments/68nspj/a_jsonstream_parser_in_750_bytes_thanks_free/
+
+Can't see the four-est for the trees  
+http://gigamonkeys.com/trees/
+
+Continuations From the Ground Up  
+http://blog.ielliott.io/continuations-from-the-ground-up/
 
 ## Scala
 
@@ -307,6 +321,9 @@ https://pragprog.com/book/swdddf/domain-modeling-made-functional
 
 (Nearly) Everything You Ever Wanted to Know About F# Active Patterns but were Afraid to Ask  
 https://www.youtube.com/watch?v=AQ-8_8hfmGE
+
+Encapsulation - C# vs F# vs Haskell, equivalent result  
+http://blog.stermon.com/articles/2017/05/31/encapsulation-csharp-vs-fsharp-vs-haskell-equivalent-result
 
 ## .NET
 
