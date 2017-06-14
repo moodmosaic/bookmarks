@@ -426,6 +426,9 @@ https://github.com/junegunn/fzf
 iTerm2 - A replacement for Terminal and the successor to iTerm  
 https://www.iterm2.com/
 
+clustergit - run git commands on multiple git clones  
+https://github.com/mnagel/clustergit
+
 ## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
