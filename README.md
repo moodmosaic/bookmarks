@@ -249,6 +249,9 @@ http://gigamonkeys.com/trees/
 Continuations From the Ground Up  
 http://blog.ielliott.io/continuations-from-the-ground-up/
 
+This is a pretty sweet-looking static site generator, straightforward Haskell makes me happy  
+https://github.com/ChrisPenner/SitePipe
+
 ## Scala
 
 ### Conferences
