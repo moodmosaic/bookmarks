@@ -451,6 +451,9 @@ https://cryptowat.ch/
 
 ### Learning
 
+Bartosz Milewski's Category Theory for Programmers  
+https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
 What is Category Theory Anyway?  
 http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
