@@ -252,6 +252,9 @@ http://blog.ielliott.io/continuations-from-the-ground-up/
 This is a pretty sweet-looking static site generator, straightforward Haskell makes me happy  
 https://github.com/ChrisPenner/SitePipe
 
+Modern FP with mtl  
+https://gist.github.com/ocharles/6b1b9440b3513a5e225e
+
 ## Scala
 
 ### Conferences
