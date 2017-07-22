@@ -353,6 +353,9 @@ https://medium.com/@edgarsanchezg/accessing-a-relational-db-with-f-type-provider
 docs.microsoft.com is Microsoft's new unified technical documentation experience  
 https://docs.microsoft.com/en-us/
 
+.NET Application Architecture  
+https://www.microsoft.com/net/learn/architecture
+
 High-performance .NET by example: Filtering bot traffic **Was popular on Twitter**  
 https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/
 
