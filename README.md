@@ -490,12 +490,13 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-GOODY GOODY  
-#1 Dee Jay (warehouse find) (12" repress)  
-Atlantic US  
-Cat: DSKO 150  
-24 Apr 17  
-Disco / Nu-Disco
+DJ INFORM
+Beats From The Box (cassette)
+Hobo Camp
+Cat: CHOBO 004. Rel: 24 Jul 17
+Beats From The Box (part 1) (30:02)
+Beats From The Box (part 2) (30:03)
+
 ### Tracklists
 
 'We Love' Desyn Masiello live set archive  
