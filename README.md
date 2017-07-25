@@ -182,6 +182,10 @@ Jacob Stanley - YOW! Lambda Jam 2017 Sydney - Gens N' Roses: Appetite for Reduct
 http://lambdajam.yowconference.com.au/speakers/jacob-stanley-2/
 http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Stanley-GensNRoses.pdf
 
+State machine testing with Hedgehog  
+http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html  
+https://gist.github.com/thumphries/2e68275819e05a0d5e27ecb5dcd85dce
+
 ### Prettyprint
 
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
