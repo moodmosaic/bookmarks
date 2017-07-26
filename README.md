@@ -404,6 +404,9 @@ https://blogs.msdn.microsoft.com/dotnet/2017/03/14/announcing-nightly-releases-f
 dotnet-architecture/eShopOnContainers - Easy to get started sample reference microservice and container based application  
 https://github.com/dotnet-architecture/eShopOnContainers
 
+Who's actually using .net core in production?  
+https://www.reddit.com/r/dotnet/comments/6m88q7/whos_actually_using_net_core_in_production/
+
 ### Interop
 
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
