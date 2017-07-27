@@ -186,6 +186,10 @@ State machine testing with Hedgehog
 http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html  
 https://gist.github.com/thumphries/2e68275819e05a0d5e27ecb5dcd85dce
 
+Moving Beyond Types (I wrote a bit about why starting from types is the wrong API for property-based testing)  
+https://twitter.com/DRMacIver/status/886863724103032832/  
+http://hypothesis.works/articles/types-and-properties/
+
 ### Prettyprint
 
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
