@@ -342,6 +342,10 @@ https://www.youtube.com/watch?v=AQ-8_8hfmGE
 Encapsulation - C# vs F# vs Haskell, equivalent result  
 http://blog.stermon.com/articles/2017/05/31/encapsulation-csharp-vs-fsharp-vs-haskell-equivalent-result
 
+A great post on using F# type providers for database access on Linux  
+https://twitter.com/dsyme/status/888121310420754432  
+https://medium.com/@edgarsanchezg/accessing-a-relational-db-with-f-type-providers-7263d88aa640/
+
 ## .NET
 
 ### Learning
