@@ -475,6 +475,9 @@ https://cryptowat.ch/
 Bartosz Milewski's Category Theory for Programmers  
 https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 
+Jan-Willem Buurlage's Notes on Category Theory and Haskell  
+https://github.com/jwbuurlage/category-theory-programmers/
+
 What is Category Theory Anyway?  
 http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
