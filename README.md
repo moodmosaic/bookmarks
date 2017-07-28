@@ -508,11 +508,11 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-DJ INFORM
-Beats From The Box (cassette)
-Hobo Camp
-Cat: CHOBO 004. Rel: 24 Jul 17
-Beats From The Box (part 1) (30:02)
+DJ INFORM  
+Beats From The Box (cassette)  
+Hobo Camp  
+Cat: CHOBO 004. Rel: 24 Jul 17  
+Beats From The Box (part 1) (30:02)  
 Beats From The Box (part 2) (30:03)
 
 ### Tracklists
