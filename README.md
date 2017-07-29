@@ -229,6 +229,9 @@ http://www.kovach.me/posts/2017-02-08-connecting-to-databases.html
 Haskell Bits #4: Environment Variables  
 http://www.kovach.me/posts/2017-02-22-environment-variables.html
 
+Super Simple Scotty Site  
+https://github.com/arcticmatt/happy-site
+
 selda: Type-safe, high-level EDSL for interacting with relational databases  
 https://hackage.haskell.org/package/selda
 
