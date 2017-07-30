@@ -235,6 +235,9 @@ https://github.com/arcticmatt/happy-site
 Retrieve bitcoin price index from coindesk  
 https://github.com/lashtear/coindesk-bpi
 
+Relationship between fmap and bind  
+https://stackoverflow.com/questions/44105493/relationship-between-fmap-and-bind/44105828#44105828
+
 selda: Type-safe, high-level EDSL for interacting with relational databases  
 https://hackage.haskell.org/package/selda
 
