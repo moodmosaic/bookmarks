@@ -232,6 +232,9 @@ http://www.kovach.me/posts/2017-02-22-environment-variables.html
 Super Simple Scotty Site  
 https://github.com/arcticmatt/happy-site
 
+Retrieve bitcoin price index from coindesk  
+https://github.com/lashtear/coindesk-bpi
+
 selda: Type-safe, high-level EDSL for interacting with relational databases  
 https://hackage.haskell.org/package/selda
 
