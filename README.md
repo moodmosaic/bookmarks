@@ -175,6 +175,8 @@ https://github.com/ambiata/disorder.hs
 kolmodin/binary/tests/Action.hs  
 https://github.com/kolmodin/binary/blob/master/tests/Action.hs
 
+Erlang Factory SF 2016 - Thomas Arts - Testing Asynchronous APIs With QuickCheck  
+https://www.youtube.com/watch?v=iW2J7Of8jsE&feature=youtu.be&t=16m10s
 
 ### Hedgehog
 
