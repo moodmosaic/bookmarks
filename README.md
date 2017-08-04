@@ -20,6 +20,7 @@ Contains a selection of the links I find interesting over time.
   * [Conferences](#conferences)
   * [Learning](#learning-1)
 * [F#](#f)
+  * [Type Providers](#type-providers)
   * [Ionide](#ionide)
   * [FAKE](#fake)
   * [Prettyprint](#prettyprint-1)
@@ -290,6 +291,11 @@ Asynchronous Programming and Scala, via @alexelcu
 https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html
 
 ## F# ##
+
+### Type Providers
+
+Rezoom.SQL statically typechecks a common SQL dialect and translates it to various RDBMS backends  
+https://github.com/rspeele/Rezoom.SQL
 
 ### Ionide
 
