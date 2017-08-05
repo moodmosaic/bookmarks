@@ -278,6 +278,9 @@ https://gist.github.com/ocharles/6b1b9440b3513a5e225e
 "[..] we can get the signature of foldr by reversing the arrows of unfoldr, and vice versa."  
 https://kseo.github.io/posts/2016-12-12-unfold-and-fold.html
 
+chrisdone/wish - A trivial web browser written in Haskell  
+https://github.com/chrisdone/wish
+
 ## Scala
 
 ### Conferences
