@@ -476,6 +476,9 @@ https://www.iterm2.com/
 clustergit - run git commands on multiple git clones  
 https://github.com/mnagel/clustergit
 
+tonsky/FiraCode - Monospaced font with programming ligatures  
+https://github.com/tonsky/FiraCode
+
 ## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
