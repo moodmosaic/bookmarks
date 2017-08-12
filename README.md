@@ -525,6 +525,10 @@ https://www.autodeskresearch.com/publications/samestats
 
 ### High fidelity
 
+The Internet Archive has digitized 25,000 78rpm Gramophone records  
+http://great78.archive.org/preservation/
+http://n-gate.com/
+
 Dynamic Range Database  
 http://dr.loudness-war.info/
 
