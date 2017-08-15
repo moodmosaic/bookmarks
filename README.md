@@ -497,6 +497,9 @@ https://askubuntu.com/a/40781
 Live price charts and market data for Bitcoin, Ethereum, and more  
 https://cryptowat.ch/
 
+TradingView — free stock charts and quotes online  
+https://www.tradingview.com/
+
 ## Category theory
 
 ### Learning
