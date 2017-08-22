@@ -281,6 +281,12 @@ https://kseo.github.io/posts/2016-12-12-unfold-and-fold.html
 chrisdone/wish - A trivial web browser written in Haskell  
 https://github.com/chrisdone/wish
 
+How do I modify a variable in Haskell?  
+http://www.michaelburge.us/2017/08/15/how-do-i-modify-a-variable-in-haskell.html
+
+Rolling your Own Blockchain in Haskell  
+http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html
+
 ## Scala
 
 ### Conferences
@@ -499,6 +505,9 @@ https://cryptowat.ch/
 
 TradingView — free stock charts and quotes online  
 https://www.tradingview.com/
+
+Rolling your Own Blockchain in Haskell  
+http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html
 
 ## Category theory
 
