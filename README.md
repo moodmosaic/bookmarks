@@ -506,9 +506,6 @@ https://cryptowat.ch/
 TradingView — free stock charts and quotes online  
 https://www.tradingview.com/
 
-Rolling your Own Blockchain in Haskell  
-http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html
-
 ## Category theory
 
 ### Learning
