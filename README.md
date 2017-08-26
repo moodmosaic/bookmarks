@@ -506,6 +506,9 @@ https://cryptowat.ch/
 TradingView — free stock charts and quotes online  
 https://www.tradingview.com/
 
+The Definitive Crypto guide – For Beginners and Veterans Alike  
+https://mycrypto.guide/
+
 ## Category theory
 
 ### Learning
