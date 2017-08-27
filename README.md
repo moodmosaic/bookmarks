@@ -544,6 +544,9 @@ http://n-gate.com/
 Dynamic Range Database  
 http://dr.loudness-war.info/
 
+High Fidelity Phonograph Cartridge - Technical Seminar  
+http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-cartridge-technical-seminar
+
 ### Furniture
 
 Hoerboard – Pro Audio & DJ Furniture | The Customized DJ Table  
