@@ -34,6 +34,7 @@ Contains a selection of the links I find interesting over time.
 * [CLI](#cli)
 * [Ubuntu](#ubuntu)
 * [Cryptocurrencies](#cryptocurrencies)
+  * [Theory](#theory)
   * [Price charts](#price-charts)
 * [Category theory](#category-theory)
   * [Learning](#learning-5)
@@ -498,6 +499,11 @@ https://askubuntu.com/a/40781
 
 ## Cryptocurrencies
 
+### Theory
+
+The Definitive Crypto guide – For Beginners and Veterans Alike  
+https://mycrypto.guide/
+
 ### Price charts
 
 Live price charts and market data for Bitcoin, Ethereum, and more  
@@ -505,9 +511,6 @@ https://cryptowat.ch/
 
 TradingView — free stock charts and quotes online  
 https://www.tradingview.com/
-
-The Definitive Crypto guide – For Beginners and Veterans Alike  
-https://mycrypto.guide/
 
 ## Category theory
 
