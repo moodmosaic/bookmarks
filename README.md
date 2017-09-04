@@ -501,8 +501,23 @@ https://askubuntu.com/a/40781
 
 ### Theory
 
-The Definitive Crypto guide – For Beginners and Veterans Alike  
+My Crypto Guide - The Definitive Crypto guide for Beginners and Veterans Alike  
 https://mycrypto.guide/
+
+CCRG - The Cryptocurrency Research Group  
+http://ccrg.org/
+
+Why Haskellers should be interested in 'Smart Contracts'  
+http://www.stephendiehl.com/posts/smart_contracts.html
+
+About Ethereum  
+https://consensys.net/ethereum/
+
+Bitcoin: A Peer-to-Peer Electronic Cash System, Satoshi Nakamoto, October 31, 2008  
+http://nakamotoinstitute.org/bitcoin/
+
+Blockchain 101 - A Visual Demo  
+https://anders.com/blockchain/
 
 ### Price charts
 
