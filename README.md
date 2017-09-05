@@ -285,8 +285,8 @@ https://github.com/chrisdone/wish
 How do I modify a variable in Haskell?  
 http://www.michaelburge.us/2017/08/15/how-do-i-modify-a-variable-in-haskell.html
 
-Rolling your Own Blockchain in Haskell  
-http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html
+Roll your Own Bitcoin Exchange in Haskell  
+http://www.michaelburge.us/2017/08/31/roll-your-own-bitcoin-exchange.html
 
 ## Scala
 
