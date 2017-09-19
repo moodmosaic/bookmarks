@@ -489,6 +489,9 @@ https://github.com/mnagel/clustergit
 tonsky/FiraCode - Monospaced font with programming ligatures  
 https://github.com/tonsky/FiraCode
 
+Linux intro course - A gentle introduction to programming networked services on linux  
+https://github.com/haf/linux-intro-course
+
 ## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
