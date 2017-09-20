@@ -302,6 +302,22 @@ https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html
 
 ## F# ##
 
+### Visual Studio 2017
+
+Q: How can I work with F# in Visual Studio 2017 Version 15.3?
+
+A: You should use nightly build of Visual F# Tool as described [here](https://blogs.msdn.microsoft.com/dotnet/2017/03/14/announcing-nightly-releases-for-the-visual-f-tools/):
+
+> 1. Open Tools -> Extensions and Updates.
+> 2. Click "Change your Extensions and Updates settings" on the bottom-left corner.
+> 3. Click "Add" under "Additional Extension Galleries".
+> 4. Under "Name", enter anything you like. Under "URL", enter https://dotnet.myget.org/F/fsharp/vsix
+> 5. Click "Apply".
+> 6. Click "OK".
+>  
+> It may take a few minutes for VS to refresh the feed, depending on your machine. Once that has happened, you can open Tools -> Extensions and Updates and notice that there is an update to the Visual F# tools!
+https://stackoverflow.com/a/45709605/467754
+
 ### Type Providers
 
 Rezoom.SQL statically typechecks a common SQL dialect and translates it to various RDBMS backends  
