@@ -393,6 +393,9 @@ A great post on using F# type providers for database access on Linux
 https://twitter.com/dsyme/status/888121310420754432  
 https://medium.com/@edgarsanchezg/accessing-a-relational-db-with-f-type-providers-7263d88aa640/
 
+An end-to-end, functional-first stack for cloud-ready web development that emphasizes type-safe programming  
+https://safe-stack.github.io/
+
 ## .NET
 
 ### Learning
