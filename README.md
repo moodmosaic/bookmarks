@@ -545,6 +545,9 @@ http://nakamotoinstitute.org/bitcoin/
 Blockchain 101 - A Visual Demo  
 https://anders.com/blockchain/
 
+Thomas Dietert - Introduction to Cryptocurrencies in Haskell  
+https://youtu.be/wjyiOXRuUdo
+
 ### Price charts
 
 Live price charts and market data for Bitcoin, Ethereum, and more  
