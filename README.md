@@ -548,6 +548,9 @@ https://anders.com/blockchain/
 Thomas Dietert - Introduction to Cryptocurrencies in Haskell  
 https://youtu.be/wjyiOXRuUdo
 
+Adjoint Blog  
+https://www.adjoint.io/posts.html
+
 ### Price charts
 
 Live price charts and market data for Bitcoin, Ethereum, and more  
