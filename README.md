@@ -547,6 +547,7 @@ https://anders.com/blockchain/
 
 Thomas Dietert - Introduction to Cryptocurrencies in Haskell  
 https://youtu.be/wjyiOXRuUdo
+https://github.com/tdietert/nanocoin-pres
 
 Adjoint Blog  
 https://www.adjoint.io/posts.html
