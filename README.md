@@ -292,6 +292,9 @@ tfausak/grawlix - Comment on Haskell documentation
 https://github.com/tfausak/grawlix
 https://grawlix.herokuapp.com/
 
+Monoids talk  
+https://docs.google.com/presentation/d/1_sD9a5-u3urGbJPuxebBQXrDtoqvKlEII3brnm0ZWb0
+
 ## Scala
 
 ### Conferences
