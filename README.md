@@ -295,6 +295,9 @@ https://grawlix.herokuapp.com/
 Monoids talk  
 https://docs.google.com/presentation/d/1_sD9a5-u3urGbJPuxebBQXrDtoqvKlEII3brnm0ZWb0
 
+Monoidal Parsing - Edward Kmett  
+https://www.youtube.com/watch?v=Txf7swrcLYs
+
 ## Scala
 
 ### Conferences
