@@ -83,6 +83,9 @@ https://www.schoolofhaskell.com/user/griba/quickCheck-in-test-suite-type-detaile
 Introduction to Nix (for users of Stack)  
 https://chris-martin.org/2017/nix-for-stack-users
 
+Which package version do I have?  
+https://stackoverflow.com/q/33914073/467754
+
 ### Platforms
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
