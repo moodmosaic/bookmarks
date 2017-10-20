@@ -405,6 +405,12 @@ https://medium.com/@edgarsanchezg/accessing-a-relational-db-with-f-type-provider
 An end-to-end, functional-first stack for cloud-ready web development that emphasizes type-safe programming  
 https://safe-stack.github.io/
 
+How to transform OO calls into a some generic function calls  
+https://stackoverflow.com/q/46792722/467754
+
+F# how to pass equivalent of interface (Free Monad / `DoSomethingInstruction<'a>`)  
+https://stackoverflow.com/a/45545737/467754
+
 ## .NET
 
 ### Learning
