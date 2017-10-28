@@ -141,6 +141,9 @@ https://github.com/commercialhaskell/stack/releases/download/v1.3.2/stack-1.3.2-
 Deploying Haskell on AWS Lambda  
 http://engineers.irisconnect.net/posts/2017-03-16-deploying-haskell-on-aws-lambda.html
 
+Experimental mobile haskell hackage overlay  
+http://hackage.mobilehaskell.org/
+
 ### Hackage
 
 Reverse Dependencies - You choose a package and it tells you its reverse dependencies: those packages that depend upon it. It also tells you which packages are incompatible with the current version of the package  
