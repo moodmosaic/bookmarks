@@ -16,6 +16,7 @@ Contains a selection of the links I find interesting over time.
   * [Prettyprint](#prettyprint)
   * [FFI](#ffi)
   * [Learning](#learning)
+  * [OOPH](#OOPH)
 * [Scala](#scala)
   * [Conferences](#conferences)
   * [Learning](#learning-1)
@@ -312,6 +313,11 @@ https://www.youtube.com/watch?v=Txf7swrcLYs
 
 What does Free buy us?  
 http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+
+### OOPH
+
+OOPH: Data Inheritance  
+http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html
 
 ## Scala
 
