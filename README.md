@@ -310,6 +310,9 @@ https://docs.google.com/presentation/d/1_sD9a5-u3urGbJPuxebBQXrDtoqvKlEII3brnm0Z
 Monoidal Parsing - Edward Kmett  
 https://www.youtube.com/watch?v=Txf7swrcLYs
 
+What does Free buy us?  
+http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+
 ## Scala
 
 ### Conferences
