@@ -263,6 +263,7 @@ http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unreprese
 
 Master the command line, in one page (in case I use neovim)  
 https://github.com/jlevy/the-art-of-command-line
+https://pragprog.com/book/modvim/modern-vim
 
 A Gentle Introduction to Monad Transformers or, Values as Exceptions  
 https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md
