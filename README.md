@@ -430,6 +430,9 @@ https://stackoverflow.com/q/46792722/467754
 F# how to pass equivalent of interface (Free Monad / `DoSomethingInstruction<'a>`)  
 https://stackoverflow.com/a/45545737/467754
 
+choice_vs_result.fs  
+https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50
+
 ## .NET
 
 ### Learning
