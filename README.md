@@ -633,7 +633,8 @@ http://great78.archive.org/preservation/
 http://n-gate.com/
 
 Dynamic Range Database  
-http://dr.loudness-war.info/
+http://dr.loudness-war.info/  
+http://dynamicrange.de/
 
 High Fidelity Phonograph Cartridge - Technical Seminar  
 http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-cartridge-technical-seminar
