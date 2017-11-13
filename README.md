@@ -607,6 +607,9 @@ https://www.tradingview.com/
 Bartosz Milewski's Category Theory for Programmers  
 https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 
+From design patterns to category theory  
+http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+
 Jan-Willem Buurlage's Notes on Category Theory and Haskell  
 https://github.com/jwbuurlage/category-theory-programmers/
 
