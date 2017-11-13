@@ -555,6 +555,9 @@ Master the command line, in one page (in case I use neovim)
 https://github.com/jlevy/the-art-of-command-line  
 https://pragprog.com/book/modvim/modern-vim  
 
+ShellProgressBar - display progress in your console application  
+https://github.com/Mpdreamz/shellprogressbar
+
 ## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
