@@ -261,10 +261,6 @@ https://hackage.haskell.org/package/selda
 How to make illegal values unrepresentable?  
 http://stackoverflow.com/questions/42341535/how-to-make-illegal-values-unrepresentable
 
-Master the command line, in one page (in case I use neovim)  
-https://github.com/jlevy/the-art-of-command-line
-https://pragprog.com/book/modvim/modern-vim
-
 A Gentle Introduction to Monad Transformers or, Values as Exceptions  
 https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md
 
@@ -543,6 +539,9 @@ https://github.com/junegunn/fzf
 iTerm2 - A replacement for Terminal and the successor to iTerm  
 https://www.iterm2.com/
 
+tmux - a "terminal multiplexer". It enables a number of terminals to be accessed and controlled from a single terminal.  
+https://github.com/tmux/tmux
+
 clustergit - run git commands on multiple git clones  
 https://github.com/mnagel/clustergit
 
@@ -551,6 +550,10 @@ https://github.com/tonsky/FiraCode
 
 Linux intro course - A gentle introduction to programming networked services on linux  
 https://github.com/haf/linux-intro-course
+
+Master the command line, in one page (in case I use neovim)  
+https://github.com/jlevy/the-art-of-command-line  
+https://pragprog.com/book/modvim/modern-vim  
 
 ## Ubuntu
 
