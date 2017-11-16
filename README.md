@@ -374,6 +374,9 @@ https://github.com/dungpa/fantomas
 
 ### Learning
 
+F# language evolution  
+https://en.wikipedia.org/wiki/F_Sharp_(programming_language)#Versions
+
 Notes and Guidance on FSharp.Core  
 https://fsharp.github.io/2015/04/18/fsharp-core-notes.html
 
