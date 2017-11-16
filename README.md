@@ -436,6 +436,10 @@ https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50
 
 ### Learning
 
+C# language evolution  
+https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
+https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#Versions
+
 docs.microsoft.com is Microsoft's new unified technical documentation experience  
 https://docs.microsoft.com/en-us/
 
