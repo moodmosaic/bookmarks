@@ -24,6 +24,7 @@ Contains a selection of the links I find interesting over time.
   * [Type Providers](#type-providers)
   * [Ionide](#ionide)
   * [FAKE](#fake)
+  * [FsCheck](#fscheck)
   * [Prettyprint](#prettyprint-1)
   * [Learning](#learning-2)
 * [.NET](#net)
@@ -367,6 +368,11 @@ https://github.com/Microsoft/vscode-tips-and-tricks
 Specifying FAKE targets  
 http://www.davesquared.net/2017/02/fake-targets.html
 
+### FsCheck
+
+Going Down the Property Based Testing Rabbit Hole  
+http://blog.mavnn.co.uk/going-down-the-property-based-testing-rabbit-hole/
+
 ### Prettyprint
 
 fantomas - F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
@@ -410,8 +416,17 @@ https://gist.github.com/swlaschin/7b9dfe7c41df9d1ac92a544117a934df
 Domain Modeling Made Functional - Tackle Software Complexity with Domain-Driven Design and F# (Scott Wlaschin)  
 https://pragprog.com/book/swdddf/domain-modeling-made-functional
 
+Understanding Functional Programming  
+https://leanpub.com/understandingfunctionalprogramming/
+
+Question of the day for you all: If we revise FSharp.Core (in a backwards-compatible way), what additions should we make?  
+https://twitter.com/dsyme/status/930489150050054144
+
 (Nearly) Everything You Ever Wanted to Know About F# Active Patterns but were Afraid to Ask  
 https://www.youtube.com/watch?v=AQ-8_8hfmGE
+
+From Dependency Injection to Dependency Rejection  
+https://youtu.be/2qxzDOHrdqs?t=14269
 
 Encapsulation - C# vs F# vs Haskell, equivalent result  
 http://blog.stermon.com/articles/2017/05/31/encapsulation-csharp-vs-fsharp-vs-haskell-equivalent-result
