@@ -5,6 +5,7 @@ Contains a selection of the links I find interesting over time.
 
 ## Table of Contents
 
+* [C](#c)
 * [Haskell](#haskell)
   * [GHC](#ghc)
   * [Cabal](#cabal)
@@ -17,6 +18,7 @@ Contains a selection of the links I find interesting over time.
   * [FFI](#ffi)
   * [Learning](#learning)
   * [OOPH](#OOPH)
+  * [Testing](#testing)
 * [Scala](#scala)
   * [Conferences](#conferences)
   * [Learning](#learning-1)
@@ -46,6 +48,18 @@ Contains a selection of the links I find interesting over time.
   * [Furniture](#furniture)
   * [Juno Records](#juno-records)
   * [Tracklists](#tracklists)
+
+## C
+
+https://github.com/silentbicycle/theft
+https://github.com/ThrowTheSwitch
+https://pragprog.com/book/jgade/test-driven-development-for-embedded-c
+http://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/paperback/product-14408590.html
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+https://packagecontrol.io/packages/C%20Improved
+https://packagecontrol.io/packages/EasyClangComplete
+http://cppstartingkitproject-guide.readthedocs.io/en/latest/#
+https://packagecontrol.io/packages/C%2B%2B%20Starting%20Kit
 
 ## Haskell
 
@@ -311,6 +325,15 @@ https://www.youtube.com/watch?v=Txf7swrcLYs
 
 What does Free buy us?  
 http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+
+What is the Store comonad?  
+https://stackoverflow.com/questions/8766246/what-is-the-store-comonad
+
+### Testing
+
+Are these two packages related?  
+https://hackage.haskell.org/package/inspection-testing
+https://github.com/ocharles/assert-explainer
 
 ### OOPH
 
@@ -579,6 +602,12 @@ https://pragprog.com/book/modvim/modern-vim
 
 ShellProgressBar - display progress in your console application  
 https://github.com/Mpdreamz/shellprogressbar
+
+Why does man print “gimme gimme gimme” at 00:30?  
+https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030
+
+Pro MacBook Pro Tip: have a Touch Bar with Touch ID? If you edit /etc/pam.d/sudo and add the following line to the top  
+https://twitter.com/cabel/status/931292107372838912
 
 ## Ubuntu
 
