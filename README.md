@@ -470,6 +470,9 @@ https://stackoverflow.com/a/45545737/467754
 choice_vs_result.fs  
 https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50
 
+F# compiles down into (similar) IL code as VB and C#  
+http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
+
 ## .NET
 
 ### Learning
