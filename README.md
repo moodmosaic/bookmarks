@@ -329,6 +329,9 @@ http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
 What is the Store comonad?  
 https://stackoverflow.com/questions/8766246/what-is-the-store-comonad
 
+Introduction to golden testing  
+https://ro-che.info/articles/2017-12-04-golden-tests
+
 ### Testing
 
 Are these two packages related?  
@@ -605,9 +608,14 @@ https://github.com/haf/linux-intro-course
 Master the command line, in one page (in case I use neovim)  
 https://github.com/jlevy/the-art-of-command-line  
 https://pragprog.com/book/modvim/modern-vim  
+https://github.com/ryanoasis/vim-devicons
+https://github.com/tyrannicaltoucan/vim-quantum
 
 ShellProgressBar - display progress in your console application  
 https://github.com/Mpdreamz/shellprogressbar
+
+Terminal Spinner for .NET Core/Standard  
+https://github.com/mayuki/Kurukuru
 
 Why does man print “gimme gimme gimme” at 00:30?  
 https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030
@@ -666,6 +674,7 @@ https://www.tradingview.com/
 
 Bartosz Milewski's Category Theory for Programmers  
 https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+https://github.com/hmemcpy/milewski-ctfp-pdf
 
 From design patterns to category theory  
 http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
@@ -714,12 +723,14 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-DJ INFORM  
-Beats From The Box (cassette)  
-Hobo Camp  
-Cat: CHOBO 004. Rel: 24 Jul 17  
-Beats From The Box (part 1) (30:02)  
-Beats From The Box (part 2) (30:03)
+CHEMISE
+She Can't Love You (12")
+Emergency US
+Cat: EMDS 6528
+14 Aug 17
+Disco / Nu-Disco
+She Can't Love You (5:14)
+She Can't Love You (instrumental) (4:51)
 
 ### Tracklists
 
