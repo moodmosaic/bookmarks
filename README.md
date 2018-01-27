@@ -231,6 +231,9 @@ http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll
 
 ### Learning
 
+Reading Simple Haskell  
+https://soupi.github.io/rfc/reading_simple_haskell/
+
 Haskell by Example  
 http://lotz84.github.io/haskellbyexample/
 
