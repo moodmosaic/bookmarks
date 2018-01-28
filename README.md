@@ -513,6 +513,9 @@ https://www.infoq.com/presentations/scalability-variant-structuring
 
 ### Platforms
 
+Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's  
+http://www.natemcmaster.com/blog/2017/12/21/netcore-primitives/
+
 If I don't want to install Microsoft Visual Studio, then which SDK, Runtime, Targeting Pack do I have to install?  
 http://getdotnet.azurewebsites.net/target-dotnet-platforms.html
 
