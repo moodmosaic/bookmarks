@@ -590,6 +590,12 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ## CLI
 
+NixOS Linux  
+https://nixos.org/
+
+The Ultimate Vim Distribution  
+http://vim.spf13.com/
+
 Now color-coded! Two diagrams of the Unix architecture, 50 years apart. What they tell us and how I drew them.  
 https://twitter.com/CoolSWEng/status/863090134232821761
 
