@@ -665,6 +665,9 @@ http://nakamotoinstitute.org/bitcoin/
 Blockchain 101 - A Visual Demo  
 https://anders.com/blockchain/
 
+Programming The Blockchain in C#  
+https://github.com/ProgrammingBlockchain
+
 Thomas Dietert - Introduction to Cryptocurrencies in Haskell  
 https://youtu.be/wjyiOXRuUdo
 https://github.com/tdietert/nanocoin-pres
