@@ -635,6 +635,9 @@ https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-g
 Pro MacBook Pro Tip: have a Touch Bar with Touch ID? If you edit /etc/pam.d/sudo and add the following line to the top  
 https://twitter.com/cabel/status/931292107372838912
 
+How to Run Linux Commands From Outside the Bash Shell on Windows 10  
+https://github.com/moodmosaic/bookmarks.git
+
 ## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
