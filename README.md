@@ -102,6 +102,9 @@ https://chris-martin.org/2017/nix-for-stack-users
 Which package version do I have?  
 https://stackoverflow.com/q/33914073/467754
 
+An opinionated guide to Haskell in 2018  
+https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
+
 ### Platforms
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
@@ -230,6 +233,12 @@ Haskell foreign import stdcall on DLL function
 http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function
 
 ### Learning
+
+Creating a GUI application in Haskell  
+https://www.stackbuilders.com/tutorials/haskell/gui-application/
+
+Mark Karpov's OSS (FLAC, LAME, etc)  
+https://markkarpov.com/oss.html
 
 Reading Simple Haskell  
 https://soupi.github.io/rfc/reading_simple_haskell/
@@ -685,6 +694,9 @@ https://cryptowat.ch/
 
 TradingView — free stock charts and quotes online  
 https://www.tradingview.com/
+
+Percentage of Total Market Capitalization (Dominance)  
+https://coinmarketcap.com/charts/#dominance-percentage
 
 ## Category theory
 
