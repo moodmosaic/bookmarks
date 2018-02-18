@@ -240,6 +240,15 @@ https://www.stackbuilders.com/tutorials/haskell/gui-application/
 Mark Karpov's OSS (FLAC, LAME, etc)  
 https://markkarpov.com/oss.html
 
+Screencasts focused on practical Haskell programming  
+https://haskell-at-work.com/
+
+**A practitioner’s guide to reading programming languages papers**  
+https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
+
+Effectful Haskell: IO, Monads, Functors (by Stuart Popejoy who wrote [Pact](https://github.com/kadena-io/pact))    
+http://slpopejoy.github.io/posts/Effectful01.html
+
 Reading Simple Haskell  
 https://soupi.github.io/rfc/reading_simple_haskell/
 
