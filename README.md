@@ -90,6 +90,9 @@ https://github.com/snowdriftcoop/snowdrift/pull/330#issuecomment-220034237
 Protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks  
 https://github.com/ambiata/mafia
 
+Stackage-Everything generator  
+https://github.com/quchen/stackage-everything
+
 Build your Haskell project continuously  
 https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 
@@ -237,7 +240,10 @@ http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll
 Creating a GUI application in Haskell  
 https://www.stackbuilders.com/tutorials/haskell/gui-application/
 
-Mark Karpov's OSS (FLAC, LAME, etc)  
+**HTagLib - Haskell bindings for TagLib, an audio meta-data library**  
+https://github.com/mrkkrp/htaglib
+
+**Mark Karpov's OSS (FLAC, LAME, etc)**  
 https://markkarpov.com/oss.html
 
 Screencasts focused on practical Haskell programming  
@@ -352,6 +358,21 @@ https://stackoverflow.com/questions/8766246/what-is-the-store-comonad
 
 Introduction to golden testing  
 https://ro-che.info/articles/2017-12-04-golden-tests
+
+Deploying Haskell Programs  
+http://fosskers.ca/blog/deploying-haskell-en.html
+
+Haskell-At-Work  
+https://haskell-at-work.com/
+
+**Workthrough: Category Theory for Programmers (Milewski)**  
+https://www.johnchandlerburnham.com/posts/workthrough-category-theory-milewski.html
+
+**Workthrough: Tutorial Intro to Lambda Calculus (Rojas)**  
+https://www.johnchandlerburnham.com/posts/workthrough-lambda-calculus-rojas.html
+
+**Workthrough: Haskell Programming (Allen & Moronuki)**  
+https://www.johnchandlerburnham.com/posts/workthrough-hpfp.html
 
 ### Testing
 
@@ -696,6 +717,14 @@ https://github.com/tdietert/nanocoin-pres
 Adjoint Blog  
 https://www.adjoint.io/posts.html
 
+https://medium.com/hodl50/a-story-of-50-coins-de44826f4f47
+
+Programming The Blockchain in C#  
+https://programmingblockchain.gitbooks.io/programmingblockchain/
+
+Best practices to help you store the top 50 cryptocurrencies  
+https://hackernoon.com/a-story-of-50-coins-de44826f4f47
+
 ### Price charts
 
 Live price charts and market data for Bitcoin, Ethereum, and more  
@@ -706,6 +735,9 @@ https://www.tradingview.com/
 
 Percentage of Total Market Capitalization (Dominance)  
 https://coinmarketcap.com/charts/#dominance-percentage
+
+Coinbase Index Fund  
+https://am.coinbase.com/
 
 ## Category theory
 
@@ -762,13 +794,13 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-CHEMISE
-She Can't Love You (12")
-Emergency US
-Cat: EMDS 6528
-14 Aug 17
-Disco / Nu-Disco
-She Can't Love You (5:14)
+CHEMISE  
+She Can't Love You (12")  
+Emergency US  
+Cat: EMDS 6528  
+14 Aug 17  
+Disco / Nu-Disco  
+She Can't Love You (5:14)  
 She Can't Love You (instrumental) (4:51)
 
 ### Tracklists
@@ -776,3 +808,7 @@ She Can't Love You (instrumental) (4:51)
 'We Love' Desyn Masiello live set archive  
 http://www.inthemix.com.au/forum/showthread.php?t=152076
 
+### Playlists
+
+LUKE FAIR dj sets by bringthebeats | Free Listening on SoundCloud  
+https://soundcloud.com/bringthebeats/sets/luke-fair-dj-sets
