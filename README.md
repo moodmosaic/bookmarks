@@ -237,6 +237,9 @@ http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll
 
 ### Learning
 
+Get timings in GHCi  
+https://stackoverflow.com/questions/10342217/get-timings-in-ghci/
+
 Creating a GUI application in Haskell  
 https://www.stackbuilders.com/tutorials/haskell/gui-application/
 
