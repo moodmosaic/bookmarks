@@ -237,6 +237,9 @@ http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll
 
 ### Learning
 
+FizzBuzz without modulo  
+https://twitter.com/thelastinstance/status/972045314851995649
+
 Get timings in GHCi  
 https://stackoverflow.com/questions/10342217/get-timings-in-ghci/
 
@@ -525,6 +528,9 @@ http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
 ### Learning
 
+Tools built on top of CLRMD - that replace functionality of WinDBG  
+https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474
+
 C# language evolution  
 https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#Versions
@@ -797,14 +803,12 @@ http://www.hoerboard.com/furniture/nineteen/
 
 *(Latest checked)*
 
-CHEMISE  
-She Can't Love You (12")  
-Emergency US  
-Cat: EMDS 6528  
-14 Aug 17  
-Disco / Nu-Disco  
-She Can't Love You (5:14)  
-She Can't Love You (instrumental) (4:51)
+MR K  
+Boogie Land (12")  
+Most Excellent Unltd  
+Cat: MXMRK 2010. Rel: 20 Nov 17  
+Boogie Land (Mr K Tribute To Larryl edit) (8:18)  
+Lady, Lady, Lady (Mr K instrumental edit) (6:35)
 
 ### Tracklists
 
