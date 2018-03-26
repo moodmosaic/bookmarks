@@ -237,6 +237,9 @@ http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll
 
 ### Learning
 
+How to Architect Medium to Large-Scale Haskell Applications  
+https://skillsmatter.com/skillscasts/10832-how-to-architect-medium-to-large-scale-haskell-applications
+
 FizzBuzz without modulo  
 https://twitter.com/thelastinstance/status/972045314851995649
 
@@ -638,6 +641,9 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ## CLI
 
+Nix: Under the hood by Gabriel Gonzalez  
+https://www.youtube.com/watch?v=GMQPzv3Sx58
+
 NixOS Linux  
 https://nixos.org/
 
@@ -670,6 +676,12 @@ https://github.com/jlevy/the-art-of-command-line
 https://pragprog.com/book/modvim/modern-vim  
 https://github.com/ryanoasis/vim-devicons
 https://github.com/tyrannicaltoucan/vim-quantum
+
+Haskell Development with Neovim  
+https://blog.jez.io/haskell-development-with-neovim/
+
+Panic Inc - By request: here's a Terminal theme based on our official "Panic Palette". Enjoy!  
+https://twitter.com/panic/status/558389225612005376
 
 ShellProgressBar - display progress in your console application  
 https://github.com/Mpdreamz/shellprogressbar
