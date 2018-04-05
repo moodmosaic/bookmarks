@@ -19,15 +19,17 @@ Contains a selection of the links I find interesting over time.
 
 ## C
 
-https://github.com/silentbicycle/theft  
+property-based testing for C: generate input to find obscure bugs, then reduce to minimal failing input  
+https://github.com/silentbicycle/theft
+
+Throw The Switch - C Code That Doesn't Suck  
 https://github.com/ThrowTheSwitch  
-https://pragprog.com/book/jgade/test-driven-development-for-embedded-c  
+
+Embedded Testing with Unity and CMock  
 http://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/paperback/product-14408590.html  
+
+C/C++ for Visual Studio Code  
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools  
-https://packagecontrol.io/packages/C%20Improved  
-https://packagecontrol.io/packages/EasyClangComplete  
-http://cppstartingkitproject-guide.readthedocs.io/en/latest/  
-https://packagecontrol.io/packages/C%2B%2B%20Starting%20Kit  
 
 ## Haskell
 
