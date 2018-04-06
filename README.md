@@ -7,13 +7,12 @@ Contains a selection of the links I find interesting over time.
 
 * [C](#c)
 * [Haskell](#haskell)
-* [Scala](#scala)
-* [F#](#f)
-* [.NET](#net)
-* [Git](#git)
-* [Command-line interface](#command-line-interface)
-* [Cryptocurrencies](#cryptocurrencies)
 * [Category theory](#category-theory)
+* [F#](#f)
+* [Microsoft .NET](#microsoft-net)
+* [Git](#git)
+* [Unix-like](#unix-like)
+* [Cryptocurrencies](#cryptocurrencies)
 * [Leisure](#leisure)
 
 ## C
@@ -351,13 +350,20 @@ https://github.com/ocharles/assert-explainer
 OOPH: Data Inheritance  
 http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html
 
-## Scala
+## Category theory
 
-Scala Days  
-http://scaladays.org/
+Bartosz Milewski's Category Theory for Programmers  
+https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+https://github.com/hmemcpy/milewski-ctfp-pdf
 
-Asynchronous Programming and Scala, via @alexelcu  
-https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html
+From design patterns to category theory  
+http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+
+Jan-Willem Buurlage's Notes on Category Theory and Haskell  
+https://github.com/jwbuurlage/category-theory-programmers/
+
+What is Category Theory Anyway?  
+http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## F# ##
 
@@ -466,7 +472,7 @@ https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50
 F# compiles down into (similar) IL code as VB and C#  
 http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
-## .NET
+## Microsoft .NET
 
 Tools built on top of CLRMD - that replace functionality of WinDBG  
 https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474
@@ -570,7 +576,7 @@ https://github.com/git-school/visualizing-git
 Roadmap to becoming a web developer in 2017 (Git required for any path, so...)  
 https://github.com/kamranahmedse/developer-roadmap
 
-## Command-line interface
+## Unix-like
 
 Oh My Zsh  
 http://ohmyz.sh/
@@ -687,21 +693,6 @@ https://coinmarketcap.com/charts/#dominance-percentage
 
 Coinbase Index Fund  
 https://am.coinbase.com/
-
-## Category theory
-
-Bartosz Milewski's Category Theory for Programmers  
-https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
-https://github.com/hmemcpy/milewski-ctfp-pdf
-
-From design patterns to category theory  
-http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
-
-Jan-Willem Buurlage's Notes on Category Theory and Haskell  
-https://github.com/jwbuurlage/category-theory-programmers/
-
-What is Category Theory Anyway?  
-http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## Leisure
 
