@@ -11,8 +11,7 @@ Contains a selection of the links I find interesting over time.
 * [F#](#f)
 * [.NET](#net)
 * [Git](#git)
-* [CLI](#cli)
-* [Ubuntu](#ubuntu)
+* [Command-line interface](#command-line-interface)
 * [Cryptocurrencies](#cryptocurrencies)
 * [Category theory](#category-theory)
 * [Leisure](#leisure)
@@ -571,7 +570,7 @@ https://github.com/git-school/visualizing-git
 Roadmap to becoming a web developer in 2017 (Git required for any path, so...)  
 https://github.com/kamranahmedse/developer-roadmap
 
-## CLI
+## Command-line interface
 
 Oh My Zsh  
 http://ohmyz.sh/
@@ -632,8 +631,6 @@ https://twitter.com/cabel/status/931292107372838912
 
 How to Run Linux Commands From Outside the Bash Shell on Windows 10  
 https://github.com/moodmosaic/bookmarks.git
-
-## Ubuntu
 
 How do I mount shared folders in Ubuntu using VMware tools?  
 https://askubuntu.com/a/41386
