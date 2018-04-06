@@ -7,47 +7,15 @@ Contains a selection of the links I find interesting over time.
 
 * [C](#c)
 * [Haskell](#haskell)
-  * [GHC](#ghc)
-  * [Cabal](#cabal)
-  * [Platforms](#platforms)
-  * [Hackage](#hackage)
-  * [Parsec](#parsec)
-  * [QuickCheck](#quickcheck)
-  * [Hedgehog](#hedgehog)
-  * [Prettyprint](#prettyprint)
-  * [FFI](#ffi)
-  * [Learning](#learning)
-  * [OOPH](#OOPH)
-  * [Testing](#testing)
 * [Scala](#scala)
-  * [Conferences](#conferences)
-  * [Learning](#learning-1)
 * [F#](#f)
-  * [Type Providers](#type-providers)
-  * [Ionide](#ionide)
-  * [FAKE](#fake)
-  * [FsCheck](#fscheck)
-  * [Prettyprint](#prettyprint-1)
-  * [Learning](#learning-2)
 * [.NET](#net)
-  * [Interop](#interop)
-  * [Learning](#learning-3)
-  * [Platforms](#platforms-1)
 * [Git](#git)
-  * [Learning](#learning-4)
 * [CLI](#cli)
 * [Ubuntu](#ubuntu)
 * [Cryptocurrencies](#cryptocurrencies)
-  * [Theory](#theory)
-  * [Price charts](#price-charts)
 * [Category theory](#category-theory)
-  * [Learning](#learning-5)
 * [Leisure](#leisure)
-  * [Life](#life)
-  * [High fidelity](#high-fidelity)
-  * [Furniture](#furniture)
-  * [Juno Records](#juno-records)
-  * [Tracklists](#tracklists)
 
 ## C
 
@@ -62,8 +30,6 @@ http://cppstartingkitproject-guide.readthedocs.io/en/latest/
 https://packagecontrol.io/packages/C%2B%2B%20Starting%20Kit  
 
 ## Haskell
-
-### GHC
 
 Haskell: Some Awesome Language Extensions Explained  
 http://unbui.lt/#!/post/haskell-language-extensions/
@@ -81,8 +47,6 @@ https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/using-warnings.ht
 
 Submitting a pull request to GHC  
 https://chris-martin.org/2017/phabricator-ghc-pull-request
-
-### Cabal
 
 *"Well, regarding the name, Cabal is indeed the library that all tools use, e.g. the .cabal file in a project. The bad name here is the build tool "cabal-install" because that has confused the hell out of everyone. There's three things here: a library called Cabal, a build tool called "Stack", and a build tool that should be called "some-haskell-build-tool" like maybe "haskbuilder" but is instead called "cabal-install" because it is some-build-tool-that-uses-the-Cabal-library (although that description works for Stack too). So the two tools with cabal in the name confuse everyone."*  
 https://github.com/snowdriftcoop/snowdrift/pull/330#issuecomment-220034237
@@ -107,8 +71,6 @@ https://stackoverflow.com/q/33914073/467754
 
 An opinionated guide to Haskell in 2018  
 https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
-
-### Platforms
 
 JavaScript vs Elm vs PureScript vs GHCjs (vs Scala.js)  
 http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html
@@ -166,15 +128,11 @@ http://engineers.irisconnect.net/posts/2017-03-16-deploying-haskell-on-aws-lambd
 Experimental mobile haskell hackage overlay  
 http://hackage.mobilehaskell.org/
 
-### Hackage
-
 Reverse Dependencies - You choose a package and it tells you its reverse dependencies: those packages that depend upon it. It also tells you which packages are incompatible with the current version of the package  
 http://packdeps.haskellers.com/reverse
 
 Haskell Tools  
 http://haskelltools.com/
-
-### Parsec
 
 An introduction to parsing text in Haskell with Parsec  
 http://unbui.lt/#!/post/haskell-parsec-basics
@@ -200,8 +158,6 @@ https://static.charlieharvey.org.uk/writings/ReadXML.hs.txt
 xleb - A simple monadic language for parsing XML structures  
 https://github.com/aisamanra/xleb
 
-### QuickCheck
-
 Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces  
 https://github.com/ambiata/disorder.hs
 
@@ -210,8 +166,6 @@ https://github.com/kolmodin/binary/blob/master/tests/Action.hs
 
 Erlang Factory SF 2016 - Thomas Arts - Testing Asynchronous APIs With QuickCheck  
 https://www.youtube.com/watch?v=iW2J7Of8jsE&feature=youtu.be&t=16m10s
-
-### Hedgehog
 
 Jacob Stanley - YOW! Lambda Jam 2017 Sydney - Gens N' Roses: Appetite for Reduction    
 http://lambdajam.yowconference.com.au/speakers/jacob-stanley-2/
@@ -225,17 +179,11 @@ Moving Beyond Types (I wrote a bit about why starting from types is the wrong AP
 https://twitter.com/DRMacIver/status/886863724103032832/  
 http://hypothesis.works/articles/types-and-properties/
 
-### Prettyprint
-
 hfmt - A tool for formatting Haskell programs. Currently it is simply a gofmt style wrapper of the excellent tools hlint, hindent, and stylish-haskell  
 https://github.com/danstiner/hfmt
 
-### FFI
-
 Haskell foreign import stdcall on DLL function  
 http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function
-
-### Learning
 
 How to Architect Medium to Large-Scale Haskell Applications  
 https://skillsmatter.com/skillscasts/10832-how-to-architect-medium-to-large-scale-haskell-applications
@@ -383,32 +331,22 @@ https://www.johnchandlerburnham.com/posts/workthrough-lambda-calculus-rojas.html
 **Workthrough: Haskell Programming (Allen & Moronuki)**  
 https://www.johnchandlerburnham.com/posts/workthrough-hpfp.html
 
-### Testing
-
 Are these two packages related?  
 https://hackage.haskell.org/package/inspection-testing
 https://github.com/ocharles/assert-explainer
-
-### OOPH
 
 OOPH: Data Inheritance  
 http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html
 
 ## Scala
 
-### Conferences
-
 Scala Days  
 http://scaladays.org/
-
-### Learning
 
 Asynchronous Programming and Scala, via @alexelcu  
 https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html
 
 ## F# ##
-
-### Visual Studio 2017
 
 Q: How can I work with F# in Visual Studio 2017 Version 15.3?
 
@@ -424,12 +362,8 @@ A: You should use nightly build of Visual F# Tool as described [here](https://bl
 > It may take a few minutes for VS to refresh the feed, depending on your machine. Once that has happened, you can open Tools -> Extensions and Updates and notice that there is an update to the Visual F# tools!
 https://stackoverflow.com/a/45709605/467754
 
-### Type Providers
-
 Rezoom.SQL statically typechecks a common SQL dialect and translates it to various RDBMS backends  
 https://github.com/rspeele/Rezoom.SQL
-
-### Ionide
 
 Expecto test-runner in Ionide (integration point)  
 https://github.com/ionide/ionide-vscode-fsharp/blob/master/src/Components/Expecto.fs
@@ -440,22 +374,14 @@ https://codurance.com/2017/01/26/create-an-fsharp-project-in-vscode/
 Using VS Code for F# development? Collection of helpful tips and tricks for VS Code  
 https://github.com/Microsoft/vscode-tips-and-tricks
 
-### Fake
-
 Specifying FAKE targets  
 http://www.davesquared.net/2017/02/fake-targets.html
-
-### FsCheck
 
 Going Down the Property Based Testing Rabbit Hole  
 http://blog.mavnn.co.uk/going-down-the-property-based-testing-rabbit-hole/
 
-### Prettyprint
-
 fantomas - F# source code formatter, inspired by scalariform for Scala, ocp-indent for OCaml and PythonTidy for Python  
 https://github.com/dungpa/fantomas
-
-### Learning
 
 F# language evolution  
 https://en.wikipedia.org/wiki/F_Sharp_(programming_language)#Versions
@@ -529,8 +455,6 @@ http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
 ## .NET
 
-### Learning
-
 Tools built on top of CLRMD - that replace functionality of WinDBG  
 https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474
 
@@ -561,8 +485,6 @@ https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/
 
 Moving Past the Scaling Myth (Michael Feathers) (don't know where else to put this one either)  
 https://www.infoq.com/presentations/scalability-variant-structuring
-
-### Platforms
 
 Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's  
 http://www.natemcmaster.com/blog/2017/12/21/netcore-primitives/
@@ -615,8 +537,6 @@ https://github.com/dotnet-architecture/eShopOnContainers
 Who's actually using .net core in production?  
 https://www.reddit.com/r/dotnet/comments/6m88q7/whos_actually_using_net_core_in_production/
 
-### Interop
-
 Creating .NET Bindings for C Libraries with ObjectiveSharpie  
 http://tirania.org/blog/archive/2017/Jan-18.html
 
@@ -624,8 +544,6 @@ Automating Windows Applications Using the WCF Equipped Injected Component
 https://www.codeproject.com/Articles/17924/Automating-Windows-Applications-Using-the-WCF-Equi
 
 ## Git
-
-### Learning
 
 Flight rules for git - A guide for astronauts (now, programmers using git) about what to do when things go wrong  
 https://github.com/k88hudson/git-flight-rules
@@ -708,8 +626,6 @@ https://askubuntu.com/a/40781
 
 ## Cryptocurrencies
 
-### Theory
-
 My Crypto Guide - The Definitive Crypto guide for Beginners and Veterans Alike  
 https://mycrypto.guide/
 
@@ -746,8 +662,6 @@ https://programmingblockchain.gitbooks.io/programmingblockchain/
 Best practices to help you store the top 50 cryptocurrencies  
 https://hackernoon.com/a-story-of-50-coins-de44826f4f47
 
-### Price charts
-
 Live price charts and market data for Bitcoin, Ethereum, and more  
 https://cryptowat.ch/
 
@@ -761,8 +675,6 @@ Coinbase Index Fund
 https://am.coinbase.com/
 
 ## Category theory
-
-### Learning
 
 Bartosz Milewski's Category Theory for Programmers  
 https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
@@ -779,8 +691,6 @@ http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## Leisure
 
-### Life
-
 Why Time Flies - Maximilian Kiener  
 http://www.maximiliankiener.com/digitalprojects/time/
 
@@ -793,8 +703,6 @@ https://www.autodeskresearch.com/publications/samestats
 Roadmap to becoming a web developer in 2017  
 https://github.com/kamranahmedse/developer-roadmap
 
-### High fidelity
-
 The Internet Archive has digitized 25,000 78rpm Gramophone records  
 http://great78.archive.org/preservation/
 http://n-gate.com/
@@ -806,13 +714,10 @@ http://dynamicrange.de/
 High Fidelity Phonograph Cartridge - Technical Seminar  
 http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-cartridge-technical-seminar
 
-### Furniture
-
 Hoerboard – Pro Audio & DJ Furniture | The Customized DJ Table  
 http://www.hoerboard.com/furniture/nineteen/
 
-### Juno Records
-
+Juno Records  
 *(Latest checked)*
 
 PONTY MYTHON  
@@ -824,12 +729,8 @@ Pink Tango (Fabrizio Mammarella remix) (7:17)
 Time Spiral (5:35)  
 Appreciate It While It's Not Too Late (6:21)
 
-### Tracklists
-
 'We Love' Desyn Masiello live set archive  
 http://www.inthemix.com.au/forum/showthread.php?t=152076
-
-### Playlists
 
 LUKE FAIR dj sets by bringthebeats | Free Listening on SoundCloud  
 https://soundcloud.com/bringthebeats/sets/luke-fair-dj-sets
