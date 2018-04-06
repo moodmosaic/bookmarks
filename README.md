@@ -1,7 +1,5 @@
 # bookmarks
-Contains a selection of the links I find interesting over time.
-
-*If it ain't down there it might be worth looking at https://libraries.io/*
+A selection of the links I find interesting over time.
 
 ## Table of Contents
 
