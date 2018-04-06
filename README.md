@@ -19,7 +19,7 @@ Contains a selection of the links I find interesting over time.
 
 ## C
 
-property-based testing for C: generate input to find obscure bugs, then reduce to minimal failing input  
+Property-based testing for C: generate input to find obscure bugs, then reduce to minimal failing input  
 https://github.com/silentbicycle/theft
 
 Throw The Switch - C Code That Doesn't Suck  
