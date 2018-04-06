@@ -7,7 +7,7 @@ A selection of the links I find interesting over time.
 * [Haskell](#haskell)
 * [Category theory](#category-theory)
 * [F#](#f)
-* [Microsoft .NET](#microsoft-net)
+* [.NET](#net)
 * [Git](#git)
 * [Unix-like](#unix-like)
 * [Cryptocurrencies](#cryptocurrencies)
@@ -470,7 +470,7 @@ https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50
 F# compiles down into (similar) IL code as VB and C#  
 http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
-## Microsoft .NET
+## .NET
 
 Tools built on top of CLRMD - that replace functionality of WinDBG  
 https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474
