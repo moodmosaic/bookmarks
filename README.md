@@ -586,6 +586,10 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ## Unix-like
 
+Workshop on how to use Vim Plugins  
+https://github.com/jez/vim-as-an-ide
+https://blog.jez.io/haskell-development-with-neovim/
+
 Oh My Zsh  
 http://ohmyz.sh/
 
