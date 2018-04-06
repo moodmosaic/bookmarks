@@ -29,6 +29,12 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+haskell-vim - Syntax Highlighting and Indentation for Haskell and Cabal  
+https://github.com/neovimhaskell/haskell-vim
+
+Haskell Development with Neovim  
+https://blog.jez.io/haskell-development-with-neovim/
+
 config-value - A simple, layout-based value definition language used for supplying configuration values to various applications  
 https://github.com/glguy/config-value
 
@@ -471,6 +477,10 @@ F# compiles down into (similar) IL code as VB and C#
 http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
 ## .NET
+
+The history of C#  
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-70
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/
 
 Tools built on top of CLRMD - that replace functionality of WinDBG  
 https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474
