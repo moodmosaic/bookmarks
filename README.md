@@ -33,6 +33,18 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+config-value - A simple, layout-based value definition language used for supplying configuration values to various applications  
+https://github.com/glguy/config-value
+
+Validation - Several data-types like Either but with differing properties and type-class instances  
+https://github.com/tonymorris/validation
+
+MTL style for free  
+http://h2.jaguarpaw.co.uk/posts/mtl-style-for-free/
+
+Cheatsheet: Stacking the State and Either Monads  
+http://jeremymikkola.com/posts/2018_04_02_cheatsheet_state_and_error.html
+
 Haskell: Some Awesome Language Extensions Explained  
 http://unbui.lt/#!/post/haskell-language-extensions/
 
@@ -560,6 +572,9 @@ Roadmap to becoming a web developer in 2017 (Git required for any path, so...)
 https://github.com/kamranahmedse/developer-roadmap
 
 ## CLI
+
+Oh My Zsh  
+http://ohmyz.sh/
 
 Nix: Under the hood by Gabriel Gonzalez  
 https://www.youtube.com/watch?v=GMQPzv3Sx58
