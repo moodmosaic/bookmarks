@@ -29,6 +29,10 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+Haddock Markup Quick Reference  
+https://github.com/ghc/haddock/tree/master/doc/cheatsheet
+https://gist.github.com/bsmt/d9d3b1d94f3dc492955667dd52847ad5
+
 haskell-vim - Syntax Highlighting and Indentation for Haskell and Cabal  
 https://github.com/neovimhaskell/haskell-vim
 
