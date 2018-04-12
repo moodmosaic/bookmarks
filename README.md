@@ -99,49 +99,6 @@ http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html
 https://github.com/rtfeldman/elm-spa-example
 https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa
 
-HaskellPlatform-7.10.3-x86_64-setup  
-https://downloads.haskell.org/~platform/7.10.3/HaskellPlatform-7.10.3-x86_64-setup.exe
-
-Once the Haskell Platform is installed, do
-
-```
-cabal install hsdev
-```
-
-And it should then copy the following executables in the `bin` folder
-
-```
-01/17/2017  12:33 PM        10,316,288 aeson-pretty.exe
-01/17/2017  12:32 PM         2,250,240 cpphs.exe
-01/17/2017  12:34 PM        60,339,712 hdocs.exe
-01/17/2017  12:36 PM        14,367,744 hlint.exe
-01/17/2017  12:39 PM        82,327,552 hsautofix.exe
-01/17/2017  12:39 PM        82,304,512 hscabal.exe
-01/17/2017  12:39 PM        82,321,408 hsclearimports.exe
-01/17/2017  12:39 PM        82,655,744 hsdev.exe
-01/17/2017  12:39 PM        82,303,488 hshayoo.exe
-01/17/2017  12:39 PM        82,310,656 hsinspect.exe
-```
-
-Once hsdev is installed, do
-
-```
-cabal install stylish-haskell
-```
-
-And it should then copy the following executables in the `bin` folder
-
-```
-01/17/2017  12:46 PM        10,061,824 json2yaml.exe
-01/17/2017  12:47 PM        18,455,040 stylish-haskell.exe
-01/17/2017  12:46 PM         9,517,056 yaml2json.exe
-```
-
-After that, use Stack for everything else.
-
-stack-1.3.2-windows-x86_64-installer  
-https://github.com/commercialhaskell/stack/releases/download/v1.3.2/stack-1.3.2-windows-x86_64-installer.exe
-
 Deploying Haskell on AWS Lambda  
 http://engineers.irisconnect.net/posts/2017-03-16-deploying-haskell-on-aws-lambda.html
 
