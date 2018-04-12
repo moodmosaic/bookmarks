@@ -174,16 +174,16 @@ https://stackoverflow.com/questions/10342217/get-timings-in-ghci/
 Creating a GUI application in Haskell  
 https://www.stackbuilders.com/tutorials/haskell/gui-application/
 
-**HTagLib - Haskell bindings for TagLib, an audio meta-data library**  
+HTagLib - Haskell bindings for TagLib, an audio meta-data library  
 https://github.com/mrkkrp/htaglib
 
-**Mark Karpov's OSS (FLAC, LAME, etc)**  
+Mark Karpov's OSS (FLAC, LAME, etc)  
 https://markkarpov.com/oss.html
 
 Screencasts focused on practical Haskell programming  
 https://haskell-at-work.com/
 
-**A practitioner’s guide to reading programming languages papers**  
+A practitioner’s guide to reading programming languages papers  
 https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 
 Effectful Haskell: IO, Monads, Functors (by Stuart Popejoy who wrote [Pact](https://github.com/kadena-io/pact))    
@@ -299,13 +299,13 @@ http://fosskers.ca/blog/deploying-haskell-en.html
 Haskell-At-Work  
 https://haskell-at-work.com/
 
-**Workthrough: Category Theory for Programmers (Milewski)**  
+Workthrough: Category Theory for Programmers (Milewski)  
 https://www.johnchandlerburnham.com/posts/workthrough-category-theory-milewski.html
 
-**Workthrough: Tutorial Intro to Lambda Calculus (Rojas)**  
+Workthrough: Tutorial Intro to Lambda Calculus (Rojas)  
 https://www.johnchandlerburnham.com/posts/workthrough-lambda-calculus-rojas.html
 
-**Workthrough: Haskell Programming (Allen & Moronuki)**  
+Workthrough: Haskell Programming (Allen & Moronuki)  
 https://www.johnchandlerburnham.com/posts/workthrough-hpfp.html
 
 Are these two packages related?  
@@ -456,14 +456,11 @@ https://docs.microsoft.com/en-us/
 .NET Application Architecture  
 https://www.microsoft.com/net/learn/architecture
 
-High-performance .NET by example: Filtering bot traffic **Was popular on Twitter**  
+High-performance .NET by example: Filtering bot traffic (Was popular on Twitter)  
 https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/
 
 The .NET Language Strategy  
 https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
-
-**[REMOVE]** Announcing the .NET Framework 4.7  
-https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/
 
 Difference between decimal, float and double in .NET?  
 https://stackoverflow.com/a/618596/467754
