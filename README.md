@@ -15,6 +15,9 @@ A selection of the links I find interesting over time.
 
 ## C
 
+The Descent to C, by Simon Tatham  
+https://www.chiark.greenend.org.uk/~sgtatham/
+
 Property-based testing for C: generate input to find obscure bugs, then reduce to minimal failing input  
 https://github.com/silentbicycle/theft
 
