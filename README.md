@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+BFPG talk series based on the CIS194 lecture series  
+https://github.com/bfpg/cis194-yorgey-lectures
+
 Haddock Markup Quick Reference  
 https://github.com/ghc/haddock/tree/master/doc/cheatsheet
 https://gist.github.com/bsmt/d9d3b1d94f3dc492955667dd52847ad5
