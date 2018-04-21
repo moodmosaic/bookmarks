@@ -332,6 +332,7 @@ https://github.com/hmemcpy/milewski-ctfp-pdf
 
 From design patterns to category theory  
 http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+https://cleancoders.com/videos/humane-code-real
 
 Jan-Willem Buurlage's Notes on Category Theory and Haskell  
 https://github.com/jwbuurlage/category-theory-programmers/
