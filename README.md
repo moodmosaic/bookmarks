@@ -624,6 +624,9 @@ https://askubuntu.com/a/41386
 How do I install a .deb file via the command line?  
 https://askubuntu.com/a/40781
 
+ConEmu - Major changes since last Stable  
+https://github.com/Maximus5/ConEmu/issues/1523
+
 ## Cryptocurrencies
 
 My Crypto Guide - The Definitive Crypto guide for Beginners and Veterans Alike  
