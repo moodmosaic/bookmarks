@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+Uncanny Haskell  
+http://blog.vmchale.com/article/uncanny-haskell
+
 BFPG talk series based on the CIS194 lecture series  
 https://github.com/bfpg/cis194-yorgey-lectures
 
