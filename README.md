@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+Fishy Documentation (awesome Haddock tutorial)  
+https://medium.com/@fintan.halpenny/fishy-documentation-c1b47f43bf62
+
 Uncanny Haskell  
 http://blog.vmchale.com/article/uncanny-haskell
 
@@ -632,6 +635,15 @@ https://github.com/Maximus5/ConEmu/issues/1523
 
 ## Cryptocurrencies
 
+Merkle Trees and Merkle Proofs  
+https://github.com/adjoint-io/merkle-tree
+
+A minimal viable blockchain  
+https://github.com/adjoint-io/nanochain
+
+A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based, public distributed ledger  
+https://github.com/adjoint-io/nanocoin
+
 My Crypto Guide - The Definitive Crypto guide for Beginners and Veterans Alike  
 https://mycrypto.guide/
 
@@ -679,6 +691,12 @@ https://coinmarketcap.com/charts/#dominance-percentage
 
 Coinbase Index Fund  
 https://am.coinbase.com/
+
+TX Highway - Live Bitcoin Cash vs Bitcoin Core Transaction Visualizer  
+https://txhighway.com/
+
+The Hopepage  
+https://www.thehopepage.org/
 
 ## Leisure
 
