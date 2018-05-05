@@ -703,9 +703,6 @@ https://www.thehopepage.org/
 Why Time Flies - Maximilian Kiener  
 http://www.maximiliankiener.com/digitalprojects/time/
 
-How to organize a meetup  
-http://www.jefclaes.be/2017/02/how-to-organize-meetup.html
-
 A great demonstration of why we need to plot the data and never trust statistics tables!  
 https://www.autodeskresearch.com/publications/samestats
 
