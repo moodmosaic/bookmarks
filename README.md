@@ -703,6 +703,9 @@ https://www.thehopepage.org/
 Hyperpolyglot - Programming Languages - Cmmonly used features in a side-by-side format  
 http://hyperpolyglot.org/
 
+1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver  
+https://1.1.1.1/
+
 Why Time Flies - Maximilian Kiener  
 http://www.maximiliankiener.com/digitalprojects/time/
 
