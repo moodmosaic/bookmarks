@@ -700,6 +700,9 @@ https://www.thehopepage.org/
 
 ## Leisure
 
+Hyperpolyglot - Programming Languages - Cmmonly used features in a side-by-side format  
+http://hyperpolyglot.org/
+
 Why Time Flies - Maximilian Kiener  
 http://www.maximiliankiener.com/digitalprojects/time/
 
