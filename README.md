@@ -635,6 +635,12 @@ https://github.com/Maximus5/ConEmu/issues/1523
 
 ## Cryptocurrencies
 
+State Machine Testing with Echidna
+https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/  
+
+CoinAPI - A platform which provides fast, reliable and unified data APIs to cryptocurrency markets  
+https://www.coinapi.io/
+
 Merkle Trees and Merkle Proofs  
 https://github.com/adjoint-io/merkle-tree
 
