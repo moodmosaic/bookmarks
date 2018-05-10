@@ -35,6 +35,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 Fishy Documentation (awesome Haddock tutorial)  
 https://medium.com/@fintan.halpenny/fishy-documentation-c1b47f43bf62
 
+State Machine Testing with Echidna  
+https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/  
+
 Uncanny Haskell  
 http://blog.vmchale.com/article/uncanny-haskell
 
