@@ -738,6 +738,12 @@ http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-ca
 Hoerboard – Pro Audio & DJ Furniture | The Customized DJ Table  
 http://www.hoerboard.com/furniture/nineteen/
 
+The Elements of Style  
+https://en.wikipedia.org/wiki/The_Elements_of_Style
+
+Response Curves of Analog Recorders - Jack Endino  
+http://www.endino.com/graphs/
+
 Juno Records  
 *(Latest checked)*
 
