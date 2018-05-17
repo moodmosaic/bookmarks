@@ -51,6 +51,12 @@ https://gist.github.com/bsmt/d9d3b1d94f3dc492955667dd52847ad5
 Safe Haskell  
 https://downloads.haskell.org/~ghc/8.2.2/docs/html/users_guide/safe_haskell.html
 
+A Rosetta Stone for Haskell Abstractions (more of a StateT, basically)  
+http://reduction.io/essays/rosetta-haskell.html
+
+Lazy vs Strict State Monad  
+https://kseo.github.io/posts/2016-12-28-lazy-vs-strict-state-monad.html
+
 haskell-vim - Syntax Highlighting and Indentation for Haskell and Cabal  
 https://github.com/neovimhaskell/haskell-vim
 
@@ -350,6 +356,10 @@ What is Category Theory Anyway?
 http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## F# ##
+
+Calculator written using Elmish.XamarinForms (full Elmish, no XAML)  
+Model = 20 lines, Update = 35 lines, View = 40 lines  
+https://twitter.com/dsyme/status/996720094683258880
 
 Q: How can I work with F# in Visual Studio 2017 Version 15.3?
 
@@ -740,6 +750,9 @@ http://www.hoerboard.com/furniture/nineteen/
 
 The Elements of Style  
 https://en.wikipedia.org/wiki/The_Elements_of_Style
+
+The Annotated Turing  
+https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/
 
 Response Curves of Analog Recorders - Jack Endino  
 http://www.endino.com/graphs/
