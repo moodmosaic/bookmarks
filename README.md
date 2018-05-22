@@ -468,6 +468,9 @@ http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
 ## .NET
 
+Ranges proposal for C# 7.3 (Roslyn)  
+https://github.com/dotnet/roslyn/blob/features/range/docs/features/range.md
+
 The history of C#  
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-70
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/
