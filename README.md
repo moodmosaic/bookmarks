@@ -722,6 +722,9 @@ https://www.thehopepage.org/
 
 ## Leisure
 
+mermaid - A simple markdown-like script language for generating charts from text via javascript  
+https://mermaidjs.github.io/
+
 Hyperpolyglot - Programming Languages - Cmmonly used features in a side-by-side format  
 http://hyperpolyglot.org/
 
