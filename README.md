@@ -32,6 +32,12 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+require - Scrap your qualified import clutter  
+https://github.com/theam/require
+
+ghcid for the win  
+https://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html
+
 An example of dynamically loading a Haskell source module  
 https://github.com/jwiegley/ghc-dynamic-example
 
