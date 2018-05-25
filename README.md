@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+An example of dynamically loading a Haskell source module  
+https://github.com/jwiegley/ghc-dynamic-example
+
 Fishy Documentation (awesome Haddock tutorial)  
 https://medium.com/@fintan.halpenny/fishy-documentation-c1b47f43bf62
 
@@ -356,6 +359,9 @@ What is Category Theory Anyway?
 http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## F# ##
+
+Null Value guard active pattern  
+http://www.fssnip.net/7UQ/title/Null-Value-guard-active-pattern
 
 Calculator written using Elmish.XamarinForms (full Elmish, no XAML)  
 Model = 20 lines, Update = 35 lines, View = 40 lines  
