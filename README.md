@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+Scrap Your Constructors: Church Encoding Algebraic Types  
+http://programmable.computer/posts/church_encoding.html
+
 Deriving the Y Combinator in Haskell  
 https://gist.github.com/lukechampine/a3956a840c603878fd9f
 
