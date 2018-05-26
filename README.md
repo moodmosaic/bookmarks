@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+Deriving the Y Combinator in Haskell  
+https://gist.github.com/lukechampine/a3956a840c603878fd9f
+
 require - Scrap your qualified import clutter  
 https://github.com/theam/require
 
