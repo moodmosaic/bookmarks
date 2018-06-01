@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+Haskell/GHC symbol search cheatsheet  
+https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet/blob/d5ed393674b6146b7ce17778f27ad3eab896f9a6/README.md#readme
+
 Scrap Your Constructors: Church Encoding Algebraic Types  
 http://programmable.computer/posts/church_encoding.html
 
