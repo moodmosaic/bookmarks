@@ -38,6 +38,12 @@ https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet/blob/d5ed393674b
 Scrap Your Constructors: Church Encoding Algebraic Types  
 http://programmable.computer/posts/church_encoding.html
 
+(For Hedgehog?) Kostis Sagonas - Testing Tools for the Erlang Ecosystem - Code BEAM SF 2018  
+https://www.youtube.com/watch?v=4-vJeCmkCZE
+
+(For Hedgehog?) Targeted Property-Based Testing  
+http://proper.softlab.ntua.gr/papers/issta2017.pdf
+
 Deriving the Y Combinator in Haskell  
 https://gist.github.com/lukechampine/a3956a840c603878fd9f
 
