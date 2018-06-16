@@ -505,6 +505,12 @@ The history of C#
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-70
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/
 
+Use command-line parameters to install Visual Studio 2017  
+https://docs.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio
+
+Ever wanted to inspect the Assembly code that the .NET JIT emits? Or needed to find out the exact layout of your objects in memory? There's some tools that can help  
+http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/
+
 Tools built on top of CLRMD - that replace functionality of WinDBG  
 https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474
 
