@@ -44,6 +44,9 @@ https://www.youtube.com/watch?v=4-vJeCmkCZE
 (For Hedgehog?) Targeted Property-Based Testing  
 http://proper.softlab.ntua.gr/papers/issta2017.pdf
 
+Object Oriented Programming in Haskell (without sacrificing referential transparency) using open recursion and lenses  
+http://www.well-typed.com/blog/2018/03/oop-in-haskell/
+
 Deriving the Y Combinator in Haskell  
 https://gist.github.com/lukechampine/a3956a840c603878fd9f
 
