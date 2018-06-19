@@ -53,6 +53,12 @@ https://github.com/Frege/frege/wiki/Getting-Started
 Object Oriented Programming in Haskell (without sacrificing referential transparency) using open recursion and lense  
 http://www.well-typed.com/blog/2018/03/oop-in-haskell/
 
+Smart constructors that cannot fail  
+https://markkarpov.com/post/smart-constructors-that-cannot-fail.html
+
+A workaround for lonely function titles in type declaration  
+https://github.com/SublimeHaskell/SublimeHaskell/pull/76
+
 Deriving the Y Combinator in Haskell  
 https://gist.github.com/lukechampine/a3956a840c603878fd9f
 
@@ -601,6 +607,9 @@ http://tirania.org/blog/archive/2017/Jan-18.html
 
 Automating Windows Applications Using the WCF Equipped Injected Component  
 https://www.codeproject.com/Articles/17924/Automating-Windows-Applications-Using-the-WCF-Equi
+
+A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.  
+https://github.com/SublimeHaskell/SublimeHaskell/pull/76
 
 ## Git
 
