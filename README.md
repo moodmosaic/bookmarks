@@ -611,6 +611,9 @@ https://www.codeproject.com/Articles/17924/Automating-Windows-Applications-Using
 A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.  
 https://github.com/SublimeHaskell/SublimeHaskell/pull/76
 
+FuGet Gallery - Like NuGet Gallery but better (shows API diff, etc)  
+https://www.fuget.org/packages/Hedgehog
+
 ## Git
 
 Flight rules for git - A guide for astronauts (now, programmers using git) about what to do when things go wrong  
