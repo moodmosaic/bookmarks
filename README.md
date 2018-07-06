@@ -378,6 +378,9 @@ https://github.com/ocharles/assert-explainer
 OOPH: Data Inheritance  
 http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html
 
+Stop supporting older GHCs  
+https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs
+
 ## Category theory
 
 Bartosz Milewski's Category Theory for Programmers  
@@ -508,6 +511,9 @@ https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50
 F# compiles down into (similar) IL code as VB and C#  
 http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
+Development and build process for SAFE Stack  
+https://gist.github.com/kfrie/1c1fc86c814490c9095c11266d3bafe1
+
 ## .NET
 
 Ranges proposal for C# 7.3 (Roslyn)  
@@ -613,6 +619,9 @@ https://github.com/SublimeHaskell/SublimeHaskell/pull/76
 
 FuGet Gallery - Like NuGet Gallery but better (shows API diff, etc)  
 https://www.fuget.org/packages/Hedgehog
+
+Pipelines - a guided tour of the new IO API in .NET  
+https://blog.marcgravell.com/2018/07/pipe-dreams-part-1.html
 
 ## Git
 
