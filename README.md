@@ -381,6 +381,9 @@ http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html
 Stop supporting older GHCs  
 https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs
 
+This table correlates GHC versions with the versions of the base and Cabal libraries it ships with.  
+https://www.snoyman.com/base
+
 ## Category theory
 
 Bartosz Milewski's Category Theory for Programmers  
