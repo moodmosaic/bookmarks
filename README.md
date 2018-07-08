@@ -646,6 +646,9 @@ Workshop on how to use Vim Plugins
 https://github.com/jez/vim-as-an-ide
 https://blog.jez.io/haskell-development-with-neovim/
 
+Vim editor ported to WebAssembly  
+https://github.com/rhysd/vim.wasm
+
 Oh My Zsh  
 http://ohmyz.sh/
 
