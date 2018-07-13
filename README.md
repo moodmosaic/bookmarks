@@ -384,6 +384,9 @@ https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs
 This table correlates GHC versions with the versions of the base and Cabal libraries it ships with.  
 https://www.snoyman.com/base
 
+Fast Sudoku Solver in Haskell #2  
+https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-2/
+
 ## Category theory
 
 Bartosz Milewski's Category Theory for Programmers  
@@ -720,6 +723,12 @@ https://github.com/Maximus5/ConEmu/issues/1523
 
 Linus Torvalds' Micro-emacs  
 https://news.ycombinator.com/item?id=951461
+
+Dotfiles  
+https://dotfiles.github.io/
+
+Fish shell  
+https://fishshell.com/
 
 ## Cryptocurrencies
 
