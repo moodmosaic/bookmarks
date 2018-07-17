@@ -631,6 +631,9 @@ https://blog.marcgravell.com/2018/07/pipe-dreams-part-1.html
 
 ## Git
 
+TIL: git has a rebase.autoStash setting  
+https://twitter.com/zekjur/status/1018209393329037312
+
 Flight rules for git - A guide for astronauts (now, programmers using git) about what to do when things go wrong  
 https://github.com/k88hudson/git-flight-rules
 
