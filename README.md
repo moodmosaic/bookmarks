@@ -735,6 +735,9 @@ https://fishshell.com/
 
 ## Cryptocurrencies
 
+Adjoint Open Source  
+https://adjoint-io.github.io/
+
 State Machine Testing with Echidna
 https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/  
 
