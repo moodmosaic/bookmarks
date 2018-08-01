@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+GHC User's Guide  
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/
+
 Haskell/GHC symbol search cheatsheet  
 https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet/blob/d5ed393674b6146b7ce17778f27ad3eab896f9a6/README.md#readme
 
@@ -387,6 +390,9 @@ https://www.snoyman.com/base
 Fast Sudoku Solver in Haskell #2  
 https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-2/
 
+Papers We Love Athens - Prof. Nikolaos Papaspyrou on QuickCheck. The talk was in Greek.  
+https://www.youtube.com/watch?v=s7lOOuvppaw
+
 ## Category theory
 
 Bartosz Milewski's Category Theory for Programmers  
@@ -404,6 +410,9 @@ What is Category Theory Anyway?
 http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway
 
 ## F# ##
+
+Forge - F# CLI tool for project, file, and solution management  
+https://github.com/fsharp-editing/Forge
 
 Null Value guard active pattern  
 http://www.fssnip.net/7UQ/title/Null-Value-guard-active-pattern
