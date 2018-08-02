@@ -821,6 +821,9 @@ https://github.com/miscreant/miscreant
 
 ## Leisure
 
+Terminal based YouTube player and downloader  
+https://github.com/mps-youtube/mps-youtube
+
 mermaid - A simple markdown-like script language for generating charts from text via javascript  
 https://mermaidjs.github.io/
 
