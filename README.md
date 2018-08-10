@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+A Guide to GHC's Extensions  
+https://limperg.de/ghc-extensions/
+
 GHC User's Guide  
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/
 
