@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+clr-haskell  
+https://gitlab.com/tim-m89/clr-haskell
+
 A Guide to GHC's Extensions  
 https://limperg.de/ghc-extensions/
 
