@@ -32,6 +32,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 ## Haskell
 
+haskell-hedgehog's model-based state machine testing together with inline-java  
+https://github.com/owickstrom/hedgehog-inline-java-testing
+
 clr-haskell  
 https://gitlab.com/tim-m89/clr-haskell
 
