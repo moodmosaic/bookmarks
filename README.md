@@ -41,6 +41,9 @@ https://gitlab.com/tim-m89/clr-haskell
 A Guide to GHC's Extensions  
 https://limperg.de/ghc-extensions/
 
+mgajda/json-autotype - Automatic Haskell type inference from JSON input  
+https://github.com/mgajda/json-autotype
+
 GHC User's Guide  
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/
 
