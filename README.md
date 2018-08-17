@@ -543,6 +543,9 @@ https://gist.github.com/kfrie/1c1fc86c814490c9095c11266d3bafe1
 
 ## .NET
 
+.NET debugger and assembly editor  
+https://github.com/0xd4d/dnSpy
+
 Ranges proposal for C# 7.3 (Roslyn)  
 https://github.com/dotnet/roslyn/blob/features/range/docs/features/range.md
 
