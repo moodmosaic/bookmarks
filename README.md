@@ -370,6 +370,8 @@
 <br><https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking/>
 * haskell-hedgehog style guide
 <br><https://github.com/hedgehogqa/haskell-hedgehog/blob/master/STYLE_GUIDE.md>
+* Build Haskell Using Bazel
+<br><https://rules-haskell.readthedocs.io/en/latest/>
 
 [Back to top](#)
 
