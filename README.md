@@ -1,4 +1,6 @@
-A selection of the links I find interesting over time. Updated on a regular basis.
+# Bookmarks
+
+*A selection of the links I find interesting over time. Updated on a regular basis.*
 
 * [C/C++](#cc)
 * [Haskell](#haskell)
