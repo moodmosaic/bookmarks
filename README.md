@@ -44,6 +44,8 @@ title: Bookmarks
 
 ## Haskell
 
+* HaskellCosm - curated collection of Haskell in Production
+<br><https://haskellcosm.com/>
 * I love #DerivingVia in #Haskell!
 <br><https://twitter.com/alexeyraga/status/1153520609504067584>
 * Let me demonstrate you how to create proper #Haskell #wat
