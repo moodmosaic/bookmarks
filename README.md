@@ -368,6 +368,8 @@
 <br><https://kowainik.github.io/posts/2019-02-06-style-guide>
 * Very short blog post about how easy it is to build GHC locally
 <br><https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking/>
+* haskell-hedgehog style guide
+<br><https://github.com/hedgehogqa/haskell-hedgehog/blob/master/STYLE_GUIDE.md>
 
 [Back to top](#)
 
