@@ -48,6 +48,8 @@
 <br><https://twitter.com/ChShersh/status/1151455595486035968>
 * Defining overridable default generators for Hedgehog using Higgledy
 <br><https://gist.github.com/owickstrom/57f44cf4f4780aaaebc88d9959ee5d0b>
+* Overloaded record fields (related with Higgledy above)
+<br><https://gist.github.com/chshersh/9b57f7ed08600bc68507542a82a831fd>
 * Brave New World: Tales of PureScript and Haskell in Production
 <br><https://youtu.be/2SAQNO46V3U>
 * Higher-Kinded Data
