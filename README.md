@@ -645,6 +645,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/lukechilds/chest>
 * Epic! Watching Brian Kernighan interviewing Ken Thompson where Ken appears with the geekiest t-shirt ever. T-shirt says "ΕΠΙΤΕΛΟΥΣ ΤΟ ΚΑΤΑΛΑΒΑ"
 <br><https://twitter.com/pmoust/status/1152351455749255168>
+* Kubernetes Failure Stories
+<br><https://k8s.af/>
 
 [Back to top](#)
 
