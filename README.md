@@ -647,6 +647,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/pmoust/status/1152351455749255168>
 * Kubernetes Failure Stories
 <br><https://k8s.af/>
+<br><https://github.com/hjacobs/kubernetes-failure-stories>
 
 [Back to top](#)
 
