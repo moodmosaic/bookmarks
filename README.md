@@ -724,6 +724,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/SNIKO/eosnet>
 <br><https://github.com/ripple/ripple-dot-net>
 <br><https://github.com/chriswill/RippleDotNet>
+* CCXWS - Subset of CCXT w. WebSockets
+<br> https://github.com/altangent/ccxws
 
 [Back to top](#)
 
