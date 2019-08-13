@@ -40,6 +40,8 @@
 
 ## Haskell
 
+* Haskell Runtime for AWS Lambda
+<br><https://theam.github.io/aws-lambda-haskell-runtime/index.html>
 * HaskellCosm - curated collection of Haskell in Production
 <br><https://haskellcosm.com/>
 * I love #DerivingVia in #Haskell!
