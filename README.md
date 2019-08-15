@@ -399,8 +399,6 @@
 <br><https://github.com/jwbuurlage/category-theory-programmers/>
 * What is Category Theory Anyway?
 <br><http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway>
-* Introduction to Logic: Predicate Logic (2nd Edition)
-<br><https://www.amazon.com/gp/product/0131649892/>
 
 [Back to top](#)
 
