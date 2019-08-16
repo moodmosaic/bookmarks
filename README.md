@@ -399,6 +399,8 @@
 <br><https://github.com/jwbuurlage/category-theory-programmers/>
 * What is Category Theory Anyway?
 <br><http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway>
+* Explaining lambda calculus to a front-end web developer
+<br><https://boxbase.org/entries/2019/aug/12/explaining-lambda-calculus-to-developer/>
 
 [Back to top](#)
 
