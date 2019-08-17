@@ -784,6 +784,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.youtube.com/channel/UCNruZLVvoB-3nSwmv5Fs1Jg>
 * High Fidelity Phonograph Cartridge - Technical Seminar
 <br><http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-cartridge-technical-seminar>
+* LG G7 ThinQ Smartphone Features QUAD DAC™ Audiophile Performance from ESS Technology
+<br><http://www.esstech.com/index.php/en/news/newsroom/lg-g7-thinq/>
 * Hoerboard – Pro Audio & DJ Furniture
 <br><http://www.hoerboard.com/furniture/nineteen>
 * The Elements of Style
