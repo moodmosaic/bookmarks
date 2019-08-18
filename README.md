@@ -786,6 +786,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-cartridge-technical-seminar>
 * LG G7 ThinQ Smartphone Features QUAD DAC™ Audiophile Performance from ESS Technology
 <br><http://www.esstech.com/index.php/en/news/newsroom/lg-g7-thinq/>
+* SABRE HiFi Mobile DACs
+<br><http://www.esstech.com/index.php/en/products/sabre-digital-analog-converters/sabre-hifi-mobile-dacs/>
 * Hoerboard – Pro Audio & DJ Furniture
 <br><http://www.hoerboard.com/furniture/nineteen>
 * The Elements of Style
