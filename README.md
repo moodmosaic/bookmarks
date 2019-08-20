@@ -334,6 +334,8 @@
 <br><http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html>
 * Stop supporting older GHCs
 <br><https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs>
+* A reckless introduction to Hindley-Milner type inference
+<br><http://reasonableapproximation.net/2019/05/05/hindley-milner.html>
 * This table correlates GHC versions with the versions of the base and Cabal libraries it ships with.
 <br><https://www.snoyman.com/base>
 * This table lists the versions of GHC against those of its boot libraries, including most notably the `base` library. This may be useful if you ever want to find out which version of the `base` package was bundled with which version of GHC or vice versa.
