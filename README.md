@@ -399,6 +399,8 @@
 <br><https://github.com/paf31/purescript-quickserve>
 * The easiest way to setup a Haskell environment on Windows
 <br><https://hub.zhox.com/posts/introducing-haskell-dev/>
+* Managing GHC versions with ghcup
+<br><https://qfpl.io/posts/multiple-ghcs-ghcup/>
 
 [Back to top](#)
 
