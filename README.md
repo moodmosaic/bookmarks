@@ -40,6 +40,8 @@
 
 ## Haskell
 
+* Instructions for setting up Haskell editors/IDEs
+<br><https://github.com/fairy-tale-agi-solutions/haskell-editor-setup>
 * Haskell Runtime for AWS Lambda
 <br><https://theam.github.io/aws-lambda-haskell-runtime/index.html>
 * HaskellCosm - curated collection of Haskell in Production
