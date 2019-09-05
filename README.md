@@ -794,6 +794,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.esstech.com/index.php/en/news/newsroom/lg-g7-thinq/>
 * SABRE HiFi Mobile DACs
 <br><http://www.esstech.com/index.php/en/products/sabre-digital-analog-converters/sabre-hifi-mobile-dacs/>
+* Did Sony’s Chief Sound Architect just tell me they can’t hear or measure the difference between upsampled 248k files and true high-res audio? Wow.
+<br><http://www.avhub.com.au/news/sound-image/did-sony8217s-chief-sound-architect-just-tell-me-they-can8217t-hear-or-measure-the-difference-between-upsampled-248k-files-and-true-high-res-audio-wow-437891>
 * Hoerboard – Pro Audio & DJ Furniture
 <br><http://www.hoerboard.com/furniture/nineteen>
 * The Elements of Style
