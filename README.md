@@ -40,6 +40,9 @@
 
 ## Haskell
 
+* MuniHac 2019: Making a Haskell IDE
+<br><https://www.youtube.com/watch?v=cijsaeWNf2E>
+<br><https://github.com/digital-asset/ghcide>
 * The ZuriHac registration system - How and why we wrote our own tools from scratch
 <br><https://jaspervdj.be/posts/2019-09-03-zureg.html>
 * Instructions for setting up Haskell editors/IDEs
