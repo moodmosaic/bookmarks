@@ -200,6 +200,8 @@
 <br><https://github.com/theam/require>
 * An example of dynamically loading a Haskell source module
 <br><https://github.com/jwiegley/ghc-dynamic-example>
+* Haskell has a type called Dynamic which resembles a dynamically-typed variable in some other languages.
+<br><https://typeclasses.com/phrasebook/dynamic>
 * Fishy Documentation (awesome Haddock tutorial)
 <br><https://medium.com/@fintan.halpenny/fishy-documentation-c1b47f43bf62>
 * State Machine Testing with Echidna
