@@ -47,6 +47,8 @@
 <br><https://jaspervdj.be/posts/2019-09-03-zureg.html>
 * Haskell Extensions - by example
 <br><https://impurepics.com/posts/2019-08-01-haskell-extensions.html>
+* ixy-languages/ixy-languages - A high-speed network driver written in C, Rust, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
+<br><https://github.com/ixy-languages/ixy-languages>
 * Instructions for setting up Haskell editors/IDEs
 <br><https://github.com/fairy-tale-agi-solutions/haskell-editor-setup>
 * Haskell Runtime for AWS Lambda
