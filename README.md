@@ -676,6 +676,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Cryptocurrencies
 
+* Token.io - Token provides access to banking infrastructure, allowing developers to easily make bank direct payments, retrieve information, and request authorization from end-users.
+<br><https://developer.token.io/>
 * Introducing the Digital Asset Modeling Language: A Powerful Alternative to Smart Contracts for Financial Institutions
 <br><http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions>
 * Arbitrage - What it is and how it works
