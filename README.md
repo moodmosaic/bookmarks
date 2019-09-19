@@ -432,6 +432,8 @@
 
 ## F# ##
 
+* Reference sheet of the basics of F#
+<br><https://github.com/alhassy/FSharpCheatSheet>
 * Don Syme - Fabulous: Functional programming for cross-platform mobile apps
 <br><https://www.youtube.com/watch?v=ieS3S9y9BV8>
 * F# coding conventions
