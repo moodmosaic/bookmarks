@@ -393,6 +393,8 @@
 <br><https://github.com/hedgehogqa/haskell-hedgehog/blob/master/STYLE_GUIDE.md>
 * Build Haskell Using Bazel
 <br><https://rules-haskell.readthedocs.io/en/latest/>
+* A cheatsheet to the time library
+<br><https://williamyaoh.com/posts/2019-09-16-time-cheatsheet.html>
 
 [Back to top](#)
 
