@@ -395,6 +395,8 @@
 <br><https://rules-haskell.readthedocs.io/en/latest/>
 * A cheatsheet to the time library
 <br><https://williamyaoh.com/posts/2019-09-16-time-cheatsheet.html>
+* purescript-quickserve - Quickly create HTTP servers from functions!
+<br><https://github.com/paf31/purescript-quickserve>
 
 [Back to top](#)
 
