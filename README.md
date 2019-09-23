@@ -882,5 +882,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/mykola/status/1101337299525267457>
 * S3Express: Amazon S3 Command Line Utility
 <br><https://www.s3express.com/>
+* THE LEGASOV TAPES - This blog is dedicaded to the text that comes from academician V.Legasov audio tapes which he recorded after the Chernobyl accident and not long before his death.
+<br><https://legasovtapetranslation.blogspot.com/>
+<br><http://www.pseudology.org/razbory/Legasov/00.htm>
 
 [Back to top](#)
