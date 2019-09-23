@@ -764,6 +764,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * 24/192 Music Downloads...and why they make no sense
 <br><https://people.xiph.org/~xiphmont/demo/neil-young.html>
+* Provenance Series: #1 Madonna
+<br><http://bobtalks.co.uk/blog/provenance/provenance-series-1-madonna/>
 * If you're gonna write a comment, you'd better make it count
 <br><https://twitter.com/ecampidoglio/status/1135445478471032833>
 * Want a cool trick to stop people using SELECT *  ? Add an illegal computed column to the end of the table definition
