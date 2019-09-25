@@ -885,5 +885,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * THE LEGASOV TAPES - This blog is dedicaded to the text that comes from academician V.Legasov audio tapes which he recorded after the Chernobyl accident and not long before his death.
 <br><https://legasovtapetranslation.blogspot.com/>
 <br><http://www.pseudology.org/razbory/Legasov/00.htm>
+* XiVero MusicScope
+<br><https://www.xivero.com/tutorial-how-to-analyze-any-audio-format/>
 
 [Back to top](#)
