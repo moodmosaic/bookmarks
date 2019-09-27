@@ -397,6 +397,8 @@
 <br><https://williamyaoh.com/posts/2019-09-16-time-cheatsheet.html>
 * purescript-quickserve - Quickly create HTTP servers from functions!
 <br><https://github.com/paf31/purescript-quickserve>
+* The easiest way to setup a Haskell environment on Windows
+<br><https://hub.zhox.com/posts/introducing-haskell-dev/>
 
 [Back to top](#)
 
