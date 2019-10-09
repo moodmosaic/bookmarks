@@ -6,6 +6,7 @@
 * [Haskell](#haskell)
 * [Category theory](#category-theory)
 * [TypeScript](#typescript)
+* [C#](#c)
 * [F#](#f)
 * [CLR](#clr)
 * [ECMAScript](#ecmascript)
