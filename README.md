@@ -435,7 +435,7 @@
 * Typed functional programming in TypeScript
 <br><https://gcanti.github.io/fp-ts/>
 
-## C# 8+ ##
+## C# ##
 * After one hour spent with C# 8.0... Doesn't make much sense but at least it compiles! Find as many new features as you can... ;)
 <br><https://twitter.com/konradkokosa/status/1177228912620920832>
 
