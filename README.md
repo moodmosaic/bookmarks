@@ -407,6 +407,8 @@
 
 ## Category theory
 
+* pLam - An interpreter for learning and exploring pure λ-calculus
+<br><https://github.com/sandrolovnicki/pLam>
 * hedgehog-classes - Hedgehog will eat your typeclass bugs
 <br><https://github.com/chessai/hedgehog-classes>
 * Scala typeclassopedia - Patterns from math (Category theory, Abstract algebra) in Scala: minimal description + links to good explanations
