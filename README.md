@@ -627,6 +627,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* tmutil Man Page - macOS - SS64.com
+<br><https://ss64.com/osx/tmutil.html>
 * Julia's drawings
 <br><https://drawings.jvns.ca/>
 * exa - A modern replacement for ls
