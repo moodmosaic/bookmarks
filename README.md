@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Servant's type-level domain specific language
+<br><https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8>
 * MuniHac 2019: Making a Haskell IDE
 <br><https://www.youtube.com/watch?v=cijsaeWNf2E>
 <br><https://github.com/digital-asset/ghcide>
