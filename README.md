@@ -631,6 +631,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * tmutil Man Page - macOS - SS64.com
 <br><https://ss64.com/osx/tmutil.html>
+* APFS Snapshots: How to Roll Back to a Previous Known State
+<br><https://www.lifewire.com/roll-back-apfs-snapshots-4154969>
 * Julia's drawings
 <br><https://drawings.jvns.ca/>
 * exa - A modern replacement for ls
