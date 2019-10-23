@@ -633,6 +633,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://ss64.com/osx/tmutil.html>
 * APFS Snapshots: How to Roll Back to a Previous Known State
 <br><https://www.lifewire.com/roll-back-apfs-snapshots-4154969>
+* Creating, managing and using Apple File System snapshots for startup drive backups
+<br><https://derflounder.wordpress.com/2019/05/08/creating-managing-and-using-apple-file-system-snapshots-for-startup-drive-backups/>
 * Julia's drawings
 <br><https://drawings.jvns.ca/>
 * exa - A modern replacement for ls
