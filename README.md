@@ -409,6 +409,8 @@
 
 ## Category theory
 
+* nLab - Category theory
+<br><https://ncatlab.org/nlab/show/category+theory>
 * pLam - An interpreter for learning and exploring pure λ-calculus
 <br><https://github.com/sandrolovnicki/pLam>
 * hedgehog-classes - Hedgehog will eat your typeclass bugs
