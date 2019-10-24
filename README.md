@@ -850,9 +850,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/>
 * Response Curves of Analog Recorders - Jack Endino
 <br><http://www.endino.com/graphs/>
-* Juno Records
-  *(Last checked)*
-
+* Juno Records *(Last checked)*
   ADESSE VERSIONS
   <br>Walrus Edits (hand-stamped 12")
   <br>Adesse Versions
@@ -860,7 +858,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
   <br>Passion (The Boiler Room edit)
   <br>Rivers
   <br>Off The Man
-
 * 'We Love' Desyn Masiello live set archive
 <br><http://www.inthemix.com.au/forum/showthread.php?t=152076>
 * LUKE FAIR dj sets by bringthebeats
