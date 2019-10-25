@@ -850,14 +850,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/>
 * Response Curves of Analog Recorders - Jack Endino
 <br><http://www.endino.com/graphs/>
-* Juno Records *(Last checked)*
-  ADESSE VERSIONS
-  <br>Walrus Edits (hand-stamped 12")
-  <br>Adesse Versions
-  <br>Cat: ADV 8. Rel: 12 Nov 18
-  <br>Passion (The Boiler Room edit)
-  <br>Rivers
-  <br>Off The Man
+* Juno Records
+  *(Last checked)*
+  <br>BOTTIN
+  <br>Respirare (hand-stamped 12")
+  <br>Artifact Holland
+  <br>Cat: ART 12
+  <br>Rel: 24 Oct 19
+  <br>Respirare
+  <br>Waterland
 * 'We Love' Desyn Masiello live set archive
 <br><http://www.inthemix.com.au/forum/showthread.php?t=152076>
 <br><http://web.archive.org/web/20111205074936/http://www.inthemix.com.au/forum/showthread.php?t=152076>
