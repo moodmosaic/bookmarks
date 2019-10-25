@@ -860,6 +860,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
   <br>Off The Man
 * 'We Love' Desyn Masiello live set archive
 <br><http://www.inthemix.com.au/forum/showthread.php?t=152076>
+<br><http://web.archive.org/web/20111205074936/http://www.inthemix.com.au/forum/showthread.php?t=152076>
 * LUKE FAIR dj sets by bringthebeats
 <br><https://soundcloud.com/bringthebeats/sets/luke-fair-dj-sets>
 * AFEM Approved DJ Download Sites
