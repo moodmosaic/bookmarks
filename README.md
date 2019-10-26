@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* A cheatsheet to JSON handling with Aeson
+<br><https://williamyaoh.com/posts/2019-10-19-a-cheatsheet-to-json-handling.html>
 * Servant's type-level domain specific language
 <br><https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8>
 * MuniHac 2019: Making a Haskell IDE
