@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Haskell Implementation of the JSON-API specification (HATEOAS)
+<br><https://github.com/toddmohney/json-api>
 * A cheatsheet to JSON handling with Aeson
 <br><https://williamyaoh.com/posts/2019-10-19-a-cheatsheet-to-json-handling.html>
 * Servant's type-level domain specific language
