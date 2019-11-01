@@ -789,6 +789,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Build your own (insert technology here)
+<br><https://github.com/danistefanovic/build-your-own-x>
 * 24/192 Music Downloads...and why they make no sense
 <br><https://people.xiph.org/~xiphmont/demo/neil-young.html>
 * Provenance Series: #1 Madonna
