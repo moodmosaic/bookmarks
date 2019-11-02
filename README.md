@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* -funclutter-valid-hole-fits
+<br><https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#refinement-hole-fits>
 * Web app for typical Haskeller answers to everything (nice POC)
 <br><https://github.com/vrom911/haskeller-answers>
 * Haskell Implementation of the JSON-API specification (HATEOAS)
