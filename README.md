@@ -43,6 +43,8 @@
 
 * -funclutter-valid-hole-fits
 <br><https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#refinement-hole-fits>
+* Revisiting Monadic Parsing in Haskell
+<br><https://github.com/vaibhavsagar/website/blob/master/blog/revisiting-monadic-parsing-haskell.md>
 * Web app for typical Haskeller answers to everything (nice POC)
 <br><https://github.com/vrom911/haskeller-answers>
 * Haskell Implementation of the JSON-API specification (HATEOAS)
