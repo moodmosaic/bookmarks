@@ -615,6 +615,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Git
 
+* Render hierarchical git repositories into HTML
+<br><https://github.com/bennorth/literate-git>
 * Learn git concepts, not commands
 <br><https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc>
 * The Case for Pull Rebase
