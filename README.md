@@ -41,6 +41,9 @@
 
 ## Haskell
 
+* A bare-bones Twitter clone implemented with Haskell + Nix
+<br><https://github.com/Gabriel439/simple-twitter>
+<br><https://github.com/Gabriel439/slides/blob/master/simple-twitter/slides.md>
 * -funclutter-valid-hole-fits
 <br><https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#refinement-hole-fits>
 * Revisiting Monadic Parsing in Haskell
