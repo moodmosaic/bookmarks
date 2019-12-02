@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Time Travelling and Fixing Bugs with Property-Based Testing
+<br>https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html>
 * A bare-bones Twitter clone implemented with Haskell + Nix
 <br><https://github.com/Gabriel439/simple-twitter>
 <br><https://github.com/Gabriel439/slides/blob/master/simple-twitter/slides.md>
