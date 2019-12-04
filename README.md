@@ -427,6 +427,8 @@
 <br><https://hub.zhox.com/posts/introducing-haskell-dev/>
 * Managing GHC versions with ghcup
 <br><https://qfpl.io/posts/multiple-ghcs-ghcup/>
+* ghcup, but for PowerShell (Windows)
+<br><https://github.com/kakkun61/ghcups>
 
 [Back to top](#)
 
