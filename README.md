@@ -429,6 +429,8 @@
 <br><https://qfpl.io/posts/multiple-ghcs-ghcup/>
 * ghcup, but for PowerShell (Windows)
 <br><https://github.com/kakkun61/ghcups>
+* hasql-th - compile-time syntax checking of queries for Postgres
+<br>https://github.com/nikita-volkov/hasql-th>
 
 [Back to top](#)
 
