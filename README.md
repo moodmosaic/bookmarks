@@ -431,6 +431,8 @@
 <br><https://github.com/kakkun61/ghcups>
 * hasql-th - compile-time syntax checking of queries for Postgres
 <br>https://github.com/nikita-volkov/hasql-th>
+* mason - fleet-footed ByteString builder
+<br><https://github.com/fumieval/mason>
 
 [Back to top](#)
 
