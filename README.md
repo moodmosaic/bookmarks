@@ -942,5 +942,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.pseudology.org/razbory/Legasov/00.htm>
 * XiVero MusicScope
 <br><https://www.xivero.com/tutorial-how-to-analyze-any-audio-format/>
+* Emotiva XPS-1 high-performance phono preamplifier
+<br><https://emotiva.com/products/xps-1>
 
 [Back to top](#)
