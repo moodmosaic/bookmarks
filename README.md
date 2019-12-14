@@ -659,6 +659,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * A light color scheme with minimal amount of highlighting for Sublime Text 3
 <br><https://github.com/tonsky/sublime-scheme-alabaster>
+* Porting Atom packages to VSCode? (Perhaps works also with Sublime Text?)
+<br><https://www.reddit.com/r/vscode/comments/7qins6/porting_atom_packages_to_vscode/dsrdeqb/>
 
 [Back to top](#)
 
