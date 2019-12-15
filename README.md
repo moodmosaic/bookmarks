@@ -666,6 +666,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Starship - The cross-shell prompt for astronauts
+<br><https://github.com/starship/starship>
+* spaceship-prompt - A Zsh prompt for Astronauts
+<br><https://github.com/denysdovhan/spaceship-prompt>
 * tmutil Man Page - macOS - SS64.com
 <br><https://ss64.com/osx/tmutil.html>
 * APFS Snapshots: How to Roll Back to a Previous Known State
