@@ -666,6 +666,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Environments with Nix Shell
+<br><https://www.sam.today/blog/environments-with-nix-shell-learning-nix-pt-1/>
 * Starship - The cross-shell prompt for astronauts
 <br><https://github.com/starship/starship>
 * spaceship-prompt - A Zsh prompt for Astronauts
