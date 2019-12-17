@@ -41,6 +41,10 @@
 
 ## Haskell
 
+* Defaulting fields in a record (via HKD)
+<br><https://gist.github.com/chrisdone/7dddadd089e6a5d2e3e9445c4692d2c2/76e729b20fdde9bf126942b46554a26a4e4ec69c>
+* Statically checked overloaded strings
+<br><https://gist.github.com/chrisdone/809296b769ee36d352ae4f8dbe89a364>
 * The Four Simple Ways To Encode Sum-Types
 <br><https://yairchu.github.io/posts/sum-type-encodings.html>
 * Time Travelling and Fixing Bugs with Property-Based Testing
