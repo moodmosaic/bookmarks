@@ -41,6 +41,10 @@
 
 ## Haskell
 
+* saurabhnanda/hedgehog-db-testing - Newtype #2
+<br><https://github.com/saurabhnanda/hedgehog-db-testing/pull/2/commits/5021292ca2fa44bdf6fadc7ada58469694bdf301>
+* saurabhnanda/hedgehog-db-testing - Newtype #1
+<br><https://github.com/saurabhnanda/hedgehog-db-testing/blob/0bb7d5c83f743231a35cc410eb93f16abb7218be/src/Main.hs>
 * Defaulting fields in a record (via HKD)
 <br><https://gist.github.com/chrisdone/7dddadd089e6a5d2e3e9445c4692d2c2/76e729b20fdde9bf126942b46554a26a4e4ec69c>
 * Statically checked overloaded strings
