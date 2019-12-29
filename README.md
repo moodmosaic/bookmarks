@@ -833,6 +833,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/chriswill/RippleDotNet>
 * CCXWS - Subset of CCXT w. WebSockets
 <br> https://github.com/altangent/ccxws
+* Arbitrage bot that currently works on bittrex & poloniex
+<br>https://github.com/BatuhanUsluel/ArbitrageBot
+* peregrine - Arbitrage bot implemented with CCXT
+<br><https://github.com/wardbradt/peregrine>
 
 [Back to top](#)
 
