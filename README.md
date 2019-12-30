@@ -41,6 +41,11 @@
 
 ## Haskell
 
+
+* Semigroup resonance FizzBuzz
+<br><https://blog.ploeh.dk/2019/12/30/semigroup-resonance-fizzbuzz/>
+* FizzBuzz Revisited
+<br><https://dierk.gitbooks.io/fregegoodness/content/src/docs/asciidoc/fizzbuzz_monoid.html>
 * `evalGen` errors on `fromJust` #342
 <br><https://github.com/hedgehogqa/haskell-hedgehog/issues/342>
 * felixmulder/hedgehog-golden
