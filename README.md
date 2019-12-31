@@ -452,6 +452,8 @@
 <br>https://github.com/nikita-volkov/hasql-th>
 * mason - fleet-footed ByteString builder
 <br><https://github.com/fumieval/mason>
+* Generate regex-constrained strings for QuickCheck
+<br><https://github.com/audreyt/quickcheck-regex>
 
 [Back to top](#)
 
