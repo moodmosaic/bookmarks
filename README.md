@@ -41,13 +41,26 @@
 
 ## Haskell
 
-
+* Haskell98
+<br><https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html>
+<br><https://github.com/haskell/cabal/issues/1158>
+<br><https://github.com/haskell/cabal/issues/4314>
+<br><https://gitlab.haskell.org/ghc/ghc/wikis/commentary/libraries/version-history>
+<br><https://gitlab.haskell.org/ghc/ghc/wikis/language-pragma-history>
+<br><https://gitlab.haskell.org/ghc/ghc/wikis/migration/7.10>
+<br><https://mail.haskell.org/pipermail/libraries/2015-October/026309.html>
+<br><https://stackoverflow.com/questions/10320695/when-was-the-ghc-haskell2010-first-included-in-the-haskell-platform-and-when-we>
+<br><https://stackoverflow.com/questions/9555671/ghc-7-4-update-breaks-haskell98/9557452#9557452>
+<br><https://wiki.haskell.org/Haskell_2010>
+<br><https://www.haskell.org/ghc/download_ghc_6_12_3.html#binaries>
+<br><https://www.reddit.com/r/haskell/comments/2438j8/relationships_between_haskell_98_and_ghc_76>
+* A newtype indexed by a sum type lifted with DataKinds
+<br><https://gist.github.com/danidiaz/2157e68f5d4967e468a9d062d4476adf#file-sumkind-hs>
 * Semigroup resonance FizzBuzz
 <br><https://blog.ploeh.dk/2019/12/30/semigroup-resonance-fizzbuzz/>
 * FizzBuzz Revisited
 <br><https://dierk.gitbooks.io/fregegoodness/content/src/docs/asciidoc/fizzbuzz_monoid.html>
-* `evalGen` errors on `fromJust` #342
-<br><https://github.com/hedgehogqa/haskell-hedgehog/issues/342>
+<br><https://gist.github.com/mathiasverraes/763ebf4a7c6ed5e364840e021af5e431>
 * felixmulder/hedgehog-golden
 <br><https://github.com/felixmulder/hedgehog-golden>
 * felixmulder/hedgehog-servant
@@ -461,6 +474,9 @@
 
 ## Category theory
 
+* 18.S097: Programming with Categories
+<br><http://brendanfong.com/programmingcats.html>
+<br><https://twitter.com/debasishg/status/1216335060111986693>
 * nLab - Category theory
 <br><https://ncatlab.org/nlab/show/category+theory>
 * pLam - An interpreter for learning and exploring pure λ-calculus
