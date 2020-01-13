@@ -501,6 +501,8 @@
 
 ## F# ##
 
+* Experiment with F#, type holes, and type-directed search using F# Analyzers
+<br><https://github.com/ionide/FSharp.EventHorizon>
 * Sample for using Gitpod with F# and .Net Core 3.0
 <br><https://github.com/Krzysztof-Cieslak/GitPodSample>
 * Reference sheet of the basics of F#
