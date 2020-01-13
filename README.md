@@ -569,6 +569,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## CLR
 
+* IKVM is alive & well
+<br><https://www.windwardstudios.com/blog/ikvm-is-alive-well>
+<br><https://github.com/dotnet/core/issues/766>
+<br><https://github.com/wwrd/ikvm8/issues/3>
 * Introducing Donut, an x86 / x64 position-independent shellcode generation framework for loading .NET Assemblies from memory
 <br><https://twitter.com/TheRealWover/status/1126666789381976064>
 * zerosharp - EFI boot application written in C# that displays Hello World. It runs without an OS, on x64 bare metal hardware
