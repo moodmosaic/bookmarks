@@ -519,6 +519,8 @@
 
 ## F# ##
 
+* F# Computation Expressions, 'do' notation and list comprehensions
+<br><https://github.com/dsyme/fsharp-presentations/blob/master/design-notes/ces-compared.md>
 * Experiment with F#, type holes, and type-directed search using F# Analyzers
 <br><https://github.com/ionide/FSharp.EventHorizon>
 * Sample for using Gitpod with F# and .Net Core 3.0
