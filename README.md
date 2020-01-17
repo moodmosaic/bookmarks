@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Nota - A calculator with a beautiful interface for the Terminal, Including unicode-based charting and rich mathematical notation rendering
+<br><https://github.com/pmkary/nota>
 * Haskell98
 <br><https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html>
 <br><https://github.com/haskell/cabal/issues/1158>
