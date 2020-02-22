@@ -870,6 +870,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br>https://github.com/BatuhanUsluel/ArbitrageBot
 * peregrine - Arbitrage bot implemented with CCXT
 <br><https://github.com/wardbradt/peregrine>
+* cplex-based arbitrage bot implemented with CCXT
+<br><https://github.com/hzjken/crypto-arbitrage-framework>
 
 [Back to top](#)
 
