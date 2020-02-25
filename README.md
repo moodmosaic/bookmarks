@@ -876,6 +876,12 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/wardbradt/peregrine>
 * cplex-based arbitrage bot implemented with CCXT
 <br><https://github.com/hzjken/crypto-arbitrage-framework>
+* NodeJS backed Cryptocurrency trader microservices architecture
+<br><https://github.com/stockmlbot>
+* Arbitrage.js - Node.js copy of C++ blackbird library with some improvements
+<br><https://github.com/vladthelittleone/arbitrage.js>
+* Bellman-Form-BTCe-Arbitrager - Runs the bellman-ford algorithm against bitcoin exchanges (currently Btc-e.com) to detect arbitrageable trade cycles.
+<br><https://github.com/a-r-d/Bellman-Form-BTCe-Arbitrager>
 
 [Back to top](#)
 
