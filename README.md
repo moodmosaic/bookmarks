@@ -516,6 +516,8 @@
 ## C# ##
 * After one hour spent with C# 8.0... Doesn't make much sense but at least it compiles! Find as many new features as you can... ;)
 <br><https://twitter.com/konradkokosa/status/1177228912620920832>
+* Encoding a Maybe monad in C# using Eff
+<br><https://gist.github.com/eiriktsarpalis/8d87ce971b432d80658d33768ff7b0fa>
 
 [Back to top](#)
 
@@ -872,6 +874,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br>https://github.com/BatuhanUsluel/ArbitrageBot
 * peregrine - Arbitrage bot implemented with CCXT
 <br><https://github.com/wardbradt/peregrine>
+* cplex-based arbitrage bot implemented with CCXT
+<br><https://github.com/hzjken/crypto-arbitrage-framework>
 
 [Back to top](#)
 
