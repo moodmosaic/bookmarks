@@ -882,6 +882,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/vladthelittleone/arbitrage.js>
 * Bellman-Form-BTCe-Arbitrager - Runs the bellman-ford algorithm against bitcoin exchanges (currently Btc-e.com) to detect arbitrageable trade cycles.
 <br><https://github.com/a-r-d/Bellman-Form-BTCe-Arbitrager>
+* thanhnguyennguyen/trading-indicator - combines ccxt and technicalindicators
+<br><https://github.com/thanhnguyennguyen/trading-indicator/>
+
 
 [Back to top](#)
 
