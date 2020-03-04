@@ -717,6 +717,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* ShellCheck finds bugs in your shell scripts
+<br><https://www.shellcheck.net/>
+* OMG help I have less than 1% free memory! - Don't Panic! Your ram is fine!
+<br><https://www.linuxatemyram.com/>
 * Environments with Nix Shell
 <br><https://www.sam.today/blog/environments-with-nix-shell-learning-nix-pt-1/>
 * Starship - The cross-shell prompt for astronauts
