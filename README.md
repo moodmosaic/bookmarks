@@ -41,6 +41,14 @@
 
 ## Haskell
 
+* Tracking Changes to Base
+<br><https://www.fosskers.ca/en/blog/base>
+* Haskell with UTF-8
+<br><https://serokell.io/blog/haskell-with-utf8>
+* rio: A standard library
+<br><https://tech.fpcomplete.com/haskell/library/rio>
+* How to script with Stack
+<br><https://tech.fpcomplete.com/haskell/tutorial/stack-script>
 * Nota - A calculator with a beautiful interface for the Terminal, Including unicode-based charting and rich mathematical notation rendering
 <br><https://github.com/pmkary/nota>
 * Haskell98
