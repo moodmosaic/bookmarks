@@ -531,6 +531,8 @@
 
 ## F# ##
 
+* How does FAKE and Paket compare to Rust’s Cargo?
+<br><https://www.reddit.com/r/fsharp/comments/fh302b/how_does_fake_and_paket_compare_to_rusts_cargo/fk98h4y/>
 * F# Computation Expressions, 'do' notation and list comprehensions
 <br><https://github.com/dsyme/fsharp-presentations/blob/master/design-notes/ces-compared.md>
 * Experiment with F#, type holes, and type-directed search using F# Analyzers
