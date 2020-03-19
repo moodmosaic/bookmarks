@@ -904,6 +904,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* A Primer on Why the Chronic Suffering of the VB.NET Community is neither Necessary nor a Matter of Expense or Practicality
+<br><https://anthonydgreen.net/2020/03/15/a-primer-on-why-the-chronic-suffering-of-the-vb-net-community-is-neither-necessary-nor-a-matter-of-expense-or-practicality/>
 * Build your own (insert technology here)
 <br><https://github.com/danistefanovic/build-your-own-x>
 * 24/192 Music Downloads...and why they make no sense
