@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* validation-selective: Lighweight pure data validation based on Applicative and Selective functors
+<br><https://hackage.haskell.org/package/validation-selective>
 * Tracking Changes to Base
 <br><https://www.fosskers.ca/en/blog/base>
 * Haskell with UTF-8
