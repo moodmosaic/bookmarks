@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Evolving Import Style For Diff Friendliness
+<br><https://www.parsonsmatt.org/2020/03/17/gradual_import_style_improvements.html>
 * validation-selective: Lighweight pure data validation based on Applicative and Selective functors
 <br><https://hackage.haskell.org/package/validation-selective>
 * Tracking Changes to Base
