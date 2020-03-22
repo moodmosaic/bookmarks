@@ -9,7 +9,7 @@
 * [C#](#c)
 * [F#](#f)
 * [CLR](#clr)
-* [ECMAScript](#ecmascript)
+* [JavaScript](#javascript)
 * [Git](#git)
 * [Sublime Text](#sublime-text)
 * [Unix-like](#unix-like)
@@ -686,7 +686,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 [Back to top](#)
 
-## ECMAScript
+## JavaScript
 
 * The compiler for writing next generation JavaScript
 <br><https://github.com/babel/babel>
@@ -696,6 +696,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/lukehoban/es6features>
 * Whenever you read about JavaScript you’ll inevitably see one of these terms
 <br><https://flaviocopes.com/ecmascript/>
+* Eloquent JavaScript
+<br><https://eloquentjavascript.net/>
 
 [Back to top](#)
 
