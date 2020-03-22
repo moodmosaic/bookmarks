@@ -532,6 +532,8 @@
 <br><https://twitter.com/konradkokosa/status/1177228912620920832>
 * Encoding a Maybe monad in C# using Eff
 <br><https://gist.github.com/eiriktsarpalis/8d87ce971b432d80658d33768ff7b0fa>
+* LiteDB - A .NET NoSQL Document Store in a single data file
+<br><https://github.com/mbdavid/litedb>
 
 [Back to top](#)
 
