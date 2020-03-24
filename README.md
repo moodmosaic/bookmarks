@@ -737,6 +737,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* explainshell - match command-line arguments to their help text
+<br><https://explainshell.com/#>
 * ShellCheck finds bugs in your shell scripts
 <br><https://www.shellcheck.net/>
 * OMG help I have less than 1% free memory! - Don't Panic! Your ram is fine!
