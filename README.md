@@ -99,6 +99,9 @@
 * -funclutter-valid-hole-fits
 <br><https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#refinement-hole-fits>
 * Revisiting Monadic Parsing in Haskell
+<br><https://news.ycombinator.com/item?id=16302014>
+<br><https://hackage.haskell.org/package/yoctoparsec>
+<br><https://github.com/glguy/advent2018/blob/c298bceec795733d4ebc0cbeb782e0c4b1bd4c88/execs/Day08.hs>
 <br><https://github.com/vaibhavsagar/website/blob/master/blog/revisiting-monadic-parsing-haskell.md>
 * Haskell In Production: Designing Testable Components
 <br><http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html>
