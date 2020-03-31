@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* The ReaderT Design Pattern
+<br><https://tech.fpcomplete.com/blog/2017/06/readert-design-pattern>
 * The Glasgow Haskell Compiler (GHC) a contributor's cheatsheet
 <br><https://ghc.dev>
 * Evolving Import Style For Diff Friendliness
