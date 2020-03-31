@@ -824,6 +824,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Cryptocurrencies
 
+* Elements - An open source, sidechain-capable blockchain platform
+<br><https://elementsproject.org/>
 * freqtrade - Free, open source crypto trading bot https://www.freqtrade.io
 <br><https://github.com/freqtrade/freqtrade>
 * Token.io - Token provides access to banking infrastructure, allowing developers to easily make bank direct payments, retrieve information, and request authorization from end-users.
