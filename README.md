@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Migrating from QuickCheck to Hedgehog: mixed results
+<br><https://frasertweedale.github.io/blog-fp/posts/2020-03-31-quickcheck-hedgehog.html>
 * The ReaderT Design Pattern
 <br><https://tech.fpcomplete.com/blog/2017/06/readert-design-pattern>
 * The Glasgow Haskell Compiler (GHC) a contributor's cheatsheet
