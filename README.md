@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Compile and link a Haskell package against a local C library
+<br><https://ro-che.info/articles/2020-04-07-haskell-local-c-library>
 * Migrating from QuickCheck to Hedgehog: mixed results
 <br><https://frasertweedale.github.io/blog-fp/posts/2020-03-31-quickcheck-hedgehog.html>
 * The ReaderT Design Pattern
