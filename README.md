@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Common JSON patterns in Haskell, Rust and TypeScript
+<br><https://codetalk.io/posts/2020-04-05-common-json-patterns-in-haskell-rust-and-javascript.html>
 * Compile and link a Haskell package against a local C library
 <br><https://ro-che.info/articles/2020-04-07-haskell-local-c-library>
 * Migrating from QuickCheck to Hedgehog: mixed results
