@@ -1034,6 +1034,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* TensorFlow, Keras and deep learning, without a PhD
+<br><https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
 * Why I Haven’t Fixed Your Issue Yet
 <br><https://www.michaelbromley.co.uk/blog/why-i-havent-fixed-your-issue-yet/>
 * Falsehoods programmers believe about time
