@@ -550,6 +550,8 @@
 
 ## F# ##
 
+* Empty F# project that can be opened in Visual Studio Online or Gitpod
+<br><https://github.com/ionide/playground>
 * How does FAKE and Paket compare to Rust’s Cargo?
 <br><https://www.reddit.com/r/fsharp/comments/fh302b/how_does_fake_and_paket_compare_to_rusts_cargo/fk98h4y/>
 * F# Computation Expressions, 'do' notation and list comprehensions
