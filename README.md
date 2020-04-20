@@ -748,6 +748,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* CliWrap - Library for executing and piping shell commands
+<br><https://github.com/Tyrrrz/CliWrap>
 * Cascadia - new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal
 <br><https://github.com/microsoft/cascadia-code>
 * explainshell - match command-line arguments to their help text
