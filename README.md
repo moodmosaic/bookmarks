@@ -750,6 +750,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Linus Torvalds - "I don't like debuggers. Never have, probably never will."
+<br><https://lkml.org/lkml/2000/9/6/65>
 * CliWrap - Library for executing and piping shell commands
 <br><https://github.com/Tyrrrz/CliWrap>
 * Cascadia - new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal
