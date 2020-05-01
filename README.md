@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* JSON Parsing from Scratch in Haskell
+<br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/>
 * The Power of RecordWildCards
 <br><https://kodimensional.dev/recordwildcards>
 * Common JSON patterns in Haskell, Rust and TypeScript
