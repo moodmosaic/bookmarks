@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* The Power of RecordWildCards
+<br><https://kodimensional.dev/recordwildcards>
 * Common JSON patterns in Haskell, Rust and TypeScript
 <br><https://codetalk.io/posts/2020-04-05-common-json-patterns-in-haskell-rust-and-javascript.html>
 * Compile and link a Haskell package against a local C library
