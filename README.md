@@ -939,6 +939,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Command-line program to download videos from YouTube.com and other video sites
+<br><https://github.com/ytdl-org/youtube-dl>
 * CSEP521, Winter 2013 Lecture Archives
 <br><https://courses.cs.washington.edu/courses/csep521/13wi/video/>
 * A Primer on Why the Chronic Suffering of the VB.NET Community is neither Necessary nor a Matter of Expense or Practicality
