@@ -830,6 +830,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * How to Use a Laptop as a Monitor for a Mac Mini
 <br><https://smallbusiness.chron.com/use-laptop-monitor-mac-mini-51682.html>
 * Start up your Mac in single-user mode or verbose mode
+<br><https://support.apple.com/en-ie/HT201573>
 * winget
 <br><https://github.com/microsoft/winget-cli>
 * Windows Subsystem for Linux 2 (WSL 2)
