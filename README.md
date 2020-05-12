@@ -709,6 +709,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Building a resilient frontend using progressive enhancement
+<br><https://www.gov.uk/service-manual/technology/using-progressive-enhancement>
 * The compiler for writing next generation JavaScript
 <br><https://github.com/babel/babel>
 * kangax's compat-table applied only to Node.js
