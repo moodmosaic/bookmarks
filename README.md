@@ -41,6 +41,8 @@
 
 ## Haskell
 
+* Environment variables parsing for free (applicatives)
+<br><https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/>
 * Dead simple cross-platform GitHub Actions for Haskell
 <br><https://kodimensional.dev/github-actions>
 * JSON Parsing from Scratch in Haskell
