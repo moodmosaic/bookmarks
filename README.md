@@ -709,6 +709,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* edsko.net - Writing Atom plugins in Haskell using ghcjs
+<br><http://www.edsko.net/2015/02/14/atom-haskell/>
 * Building a resilient frontend using progressive enhancement
 <br><https://www.gov.uk/service-manual/technology/using-progressive-enhancement>
 * The compiler for writing next generation JavaScript
