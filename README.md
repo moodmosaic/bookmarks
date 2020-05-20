@@ -762,6 +762,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Windows Subsystem for Linux 2 (WSL 2)
+<br><https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/>
 * Linus Torvalds - "I don't like debuggers. Never have, probably never will."
 <br><https://lkml.org/lkml/2000/9/6/65>
 * CliWrap - Library for executing and piping shell commands
