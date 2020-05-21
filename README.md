@@ -955,6 +955,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Use a second laptop as an extended monitor with Windows 10 wireless displays
+<br><https://www.hanselman.com/blog/UseASecondLaptopAsAnExtendedMonitorWithWindows10WirelessDisplays.aspx>
 * Command-line program to download videos from YouTube.com and other video sites
 <br><https://github.com/ytdl-org/youtube-dl>
 * CSEP521, Winter 2013 Lecture Archives
