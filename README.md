@@ -47,6 +47,8 @@
 <br><https://github.com/haskell/haskell-language-server#installation>
 * IDE 2020
 <br><https://mpickering.github.io/ide/index.html>
+* Haskeller Competency Matrix
+<br><https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1>
 * sublimehq/Packages - [Haskell] Rewrite Haskell syntax
 <br><https://github.com/sublimehq/Packages/pull/2225>
 * lexi-lambda on 'How to manually install Haskell package with ghc-pkg'
