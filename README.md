@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* haskell/haskell-language-server - installation
+<br><https://github.com/haskell/haskell-language-server#installation>
 * IDE 2020
 <br><https://mpickering.github.io/ide/index.html>
 * sublimehq/Packages - [Haskell] Rewrite Haskell syntax
