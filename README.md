@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* IDE 2020
+<br><https://mpickering.github.io/ide/index.html>
 * sublimehq/Packages - [Haskell] Rewrite Haskell syntax
 <br><https://github.com/sublimehq/Packages/pull/2225>
 * lexi-lambda on 'How to manually install Haskell package with ghc-pkg'
