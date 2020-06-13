@@ -598,6 +598,8 @@
 
 ## F# ##
 
+* AlgEff - Algebraic Effects for F# - inspired by Eff and ZIO
+<br><https://github.com/brianberns/AlgEff>
 * When using the task computation expression, I like to put "task {" at the end of the function declaration to avoid double indentation. But what if I need to return a parameterless Task?
 <br><https://twitter.com/eiriktsarpalis/status/1275736387858415616>
 <br><https://gist.github.com/Tarmil/dd82028d09703d4944d58160e8ce4404>
