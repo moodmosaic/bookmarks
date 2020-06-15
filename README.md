@@ -969,6 +969,12 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * microsoft/PowerToys - FancyZones Overview
 <br><https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview>
+* SRC Comparisons
+<br><https://src.infinitewave.ca/>
+* Poor resampling quality in SHOUTcast stream
+<br><http://forums.winamp.com/showthread.php?t=355463>
+* EZ CD Audio Converter (SRC)
+<br><https://www.poikosoft.com/music-converter-audio-engine>
 * Use a second laptop as an extended monitor with Windows 10 wireless displays
 <br><https://www.hanselman.com/blog/UseASecondLaptopAsAnExtendedMonitorWithWindows10WirelessDisplays.aspx>
 * Command-line program to download videos from YouTube.com and other video sites
