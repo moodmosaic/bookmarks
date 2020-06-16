@@ -710,6 +710,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Compost.js: Composable data visualization library
+<br><https://compostjs.github.io/compost/>
 * edsko.net - Writing Atom plugins in Haskell using ghcjs
 <br><http://www.edsko.net/2015/02/14/atom-haskell/>
 * Building a resilient frontend using progressive enhancement
