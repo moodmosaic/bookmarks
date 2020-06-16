@@ -10,6 +10,7 @@
 * [F#](#f)
 * [CLR](#clr)
 * [JavaScript](#javascript)
+* [Scala](#scala)
 * [Git](#git)
 * [Sublime Text](#sublime-text)
 * [Unix-like](#unix-like)
@@ -723,6 +724,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://flaviocopes.com/ecmascript/>
 * Eloquent JavaScript
 <br><https://eloquentjavascript.net/>
+
+[Back to top](#)
+
+## Scala
+
+* Hands-on Scala Programming
+<br><https://www.handsonscala.com/>
+* Scala in Gitpod
+<br><https://www.gitpod.io/docs/languages/scala/>
 
 [Back to top](#)
 
