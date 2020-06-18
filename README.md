@@ -561,6 +561,8 @@
 
 ## F# ##
 
+* XUnit-like asserts for text strings with JSON content
+<br><https://github.com/nrkno/Quibble.Xunit>
 * Empty F# project that can be opened in Visual Studio Online or Gitpod
 <br><https://github.com/ionide/playground>
 * How does FAKE and Paket compare to Rust’s Cargo?
