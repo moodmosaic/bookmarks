@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* Cleaning up threads in Haskell
+<br><https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html>
 * Environment variables parsing for free (applicatives)
 <br><https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/>
 * Dead simple cross-platform GitHub Actions for Haskell
