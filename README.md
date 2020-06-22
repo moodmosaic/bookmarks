@@ -640,6 +640,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## CLR
 
+* .NET ThreadPool and an overlapped I/O - this will be heavily reused in explaining async/await too
+<br><https://twitter.com/konradkokosa/status/1264855190131400704>
 * IKVM is alive & well
 <br><https://www.windwardstudios.com/blog/ikvm-is-alive-well>
 <br><https://github.com/dotnet/core/issues/766>
