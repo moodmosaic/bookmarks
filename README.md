@@ -13,6 +13,7 @@
 * [Scala](#scala)
 * [Git](#git)
 * [Sublime Text](#sublime-text)
+* [Nix](#nix)
 * [Unix-like](#unix-like)
 * [Cryptocurrencies](#cryptocurrencies)
 * [Leisure](#leisure)
