@@ -43,8 +43,28 @@
 
 ## Haskell
 
+* The power of IO in Haskell
+<br><https://www.47deg.com/blog/io-haskell/>
+* jrp2014/smuggler2 - Minimise haskell imports, make exports explicit, forked from kowainik/smuggler
+<br><https://github.com/jrp2014/smuggler2>
+* hkgr: Simple Hackage release workflow for package maintainers
+<br><https://hackage.haskell.org/package/hkgr>
+* Haskell install instructions - ZuriHac 2020
+<br><https://github.com/zfoh/haskell-simple-install/blob/master/README.md>
+* Google CodeWorld
+<br><https://github.com/google/codeworld>
+* Using client-side Haskell web frameworks in CodeWorld
+<br><https://medium.com/@cdsmithus/using-client-side-haskell-web-frameworks-in-codeworld-7d8661647191>
+* Making the most of Cabal
+<br><https://lukelau.me/haskell/posts/making-the-most-of-cabal/>
+* TOTBWF/omit-generics - Omit fields for instance deriving
+<br><https://github.com/TOTBWF/omit-generics>
 * Cleaning up threads in Haskell
 <br><https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html>
+* How to define JSON instances quickly
+<br><https://dev.to/tfausak/how-to-define-json-instances-quickly-5ei7>
+* odd-jobs: Haskell job queue with an admin UI
+<br><https://np.reddit.com/r/haskell/comments/gle7mm/ann_oddjobs_haskell_job_queue_with_an_admin_ui/>
 * Cleaning up threads in Haskell
 <br><https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html>
 * Environment variables parsing for free (applicatives)
@@ -566,6 +586,9 @@
 
 ## F# ##
 
+* When using the task computation expression, I like to put "task {" at the end of the function declaration to avoid double indentation. But what if I need to return a parameterless Task?
+<br><https://twitter.com/eiriktsarpalis/status/1275736387858415616>
+<br><https://gist.github.com/Tarmil/dd82028d09703d4944d58160e8ce4404>
 * XUnit-like asserts for text strings with JSON content
 <br><https://github.com/nrkno/Quibble.Xunit>
 * Empty F# project that can be opened in Visual Studio Online or Gitpod
@@ -780,6 +803,21 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/tonsky/sublime-scheme-alabaster>
 * Porting Atom packages to VSCode? (Perhaps works also with Sublime Text?)
 <br><https://www.reddit.com/r/vscode/comments/7qins6/porting_atom_packages_to_vscode/dsrdeqb/>
+
+[Back to top](#)
+
+## Nix
+
+* Deploying your application with NixOS
+<br><https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/>
+* Setting up a Haskell development environment with Nix
+<br><https://romainviallard.dev/en/blog/setting-up-a-haskell-development-environment-with-nix/>
+* Building a Haskell Microservice
+<br><https://twonki.github.io/haskell-microservice/>
+* Nix and Haskell
+<br><https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html>
+* Todo Haskell Backend API
+<br><https://github.com/alasconnect/azure-demo/tree/master/backend>
 
 [Back to top](#)
 
