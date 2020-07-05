@@ -47,6 +47,8 @@
 <br><https://github.com/kowainik/stan>
 * <b>!</b> Automatic UI's for Command Lines with cmdargs
 <br><https://neilmitchell.blogspot.com/2020/07/automatic-uis-for-command-lines-with.html>
+* Haskell Time Crib Sheet
+<br><https://gist.github.com/friedbrice/f9566173436e1697eba4912047a369cd>
 * The power of IO in Haskell
 <br><https://www.47deg.com/blog/io-haskell/>
 * jrp2014/smuggler2 - Minimise haskell imports, make exports explicit, forked from kowainik/smuggler
