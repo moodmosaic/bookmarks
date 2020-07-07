@@ -825,6 +825,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* How to Use a Laptop as a Monitor for a Mac Mini
+<br><https://smallbusiness.chron.com/use-laptop-monitor-mac-mini-51682.html>
 * winget
 <br><https://github.com/microsoft/winget-cli>
 * Windows Subsystem for Linux 2 (WSL 2)
