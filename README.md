@@ -1030,6 +1030,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.michaelbromley.co.uk/blog/why-i-havent-fixed-your-issue-yet/>
 * Falsehoods programmers believe about time
 <br><https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca>
+* http://www.2l.no/hires/ - HiRes Download - test bench
+<br><http://www.2l.no/hires/>
 * Upsampling MQA files to original resolution with sox will sound like the original resolution
 <br><https://audiophilestyle.com/forums/topic/33766-upsampling-mqa-files-to-original-resolution-with-sox-will-sound-like-the-original-resolution/>
 * microsoft/PowerToys - FancyZones Overview
