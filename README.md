@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* ghcup makes it easy to install specific versions of ghc on GNU/Linux, macOS (aka Darwin) and FreeBSD and can also bootstrap a fresh Haskell developer environment from scratch
+<br><https://gitlab.haskell.org/haskell/ghcup-hs>
 * Stan - Stan is a Haskell STatic ANalysis tool
 <br><https://github.com/kowainik/stan>
 * <b>!</b> Automatic UI's for Command Lines with cmdargs
