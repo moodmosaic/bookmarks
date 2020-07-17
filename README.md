@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* Haskell for all: Record constructors
+<br><http://www.haskellforall.com/2020/07/record-constructors.html>
 * ghcup makes it easy to install specific versions of ghc on GNU/Linux, macOS (aka Darwin) and FreeBSD and can also bootstrap a fresh Haskell developer environment from scratch
 <br><https://gitlab.haskell.org/haskell/ghcup-hs>
 * sdiehl/cabal-edit
