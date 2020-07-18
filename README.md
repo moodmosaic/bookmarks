@@ -1034,6 +1034,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* GitHub actions for Haskell CI
+<br><https://markkarpov.com/post/github-actions-for-haskell-ci.html>
 * TensorFlow, Keras and deep learning, without a PhD
 <br><https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
 * Daring Fireball: The iPad Magic Keyboard
