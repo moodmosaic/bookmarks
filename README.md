@@ -1034,6 +1034,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* journal.stuffwithstuff.com - source code
+<br><https://github.com/munificent/journal>
 * GitHub actions for Haskell CI
 <br><https://markkarpov.com/post/github-actions-for-haskell-ci.html>
 * TensorFlow, Keras and deep learning, without a PhD
