@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* Deriving the Reader (and State) monad from first principles
+<br><https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html>
 * Haskell for all: Record constructors
 <br><http://www.haskellforall.com/2020/07/record-constructors.html>
 * ghcup makes it easy to install specific versions of ghc on GNU/Linux, macOS (aka Darwin) and FreeBSD and can also bootstrap a fresh Haskell developer environment from scratch
