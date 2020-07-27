@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* sublimehq/Packages - [Haskell] Rewrite Haskell syntax
+<br><https://github.com/sublimehq/Packages/pull/2225>
 * Deriving the Reader (and State) monad from first principles
 <br><https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html>
 * Haskell for all: Record constructors
