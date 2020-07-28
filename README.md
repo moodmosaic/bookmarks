@@ -45,6 +45,8 @@
 
 * sublimehq/Packages - [Haskell] Rewrite Haskell syntax
 <br><https://github.com/sublimehq/Packages/pull/2225>
+* lexi-lambda on 'How to manually install Haskell package with ghc-pkg'
+<br><https://www.reddit.com/r/haskell/comments/htvlqv/how_to_manually_install_haskell_package_with/>
 * Deriving the Reader (and State) monad from first principles
 <br><https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html>
 * Haskell for all: Record constructors
