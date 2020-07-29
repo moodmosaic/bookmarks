@@ -687,6 +687,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## CLR
 
+* Experiment: Algebraic (file system) Effects using Eff from Nessos
+<br><https://gist.github.com/bent-rasmussen/b1ca900b0f03340b5c9ea9437d6a6057>
 * .NET ThreadPool and an overlapped I/O - this will be heavily reused in explaining async/await too
 <br><https://twitter.com/konradkokosa/status/1264855190131400704>
 * IKVM is alive & well
