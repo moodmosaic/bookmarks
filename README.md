@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* Whirlwind Tour Of Cabal For Beginners
+<br><https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html>
 * How stylish-haskell works
 <br><https://felixmulder.com/writing/2020/08/20/How-Stylish-Haskell-works.html>
 * haskell/haskell-language-server - installation
