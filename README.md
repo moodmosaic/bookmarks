@@ -43,6 +43,8 @@
 
 ## Haskell
 
+* How stylish-haskell works
+<br><https://felixmulder.com/writing/2020/08/20/How-Stylish-Haskell-works.html>
 * haskell/haskell-language-server - installation
 <br><https://github.com/haskell/haskell-language-server#installation>
 * IDE 2020
