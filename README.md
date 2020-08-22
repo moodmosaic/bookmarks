@@ -597,6 +597,9 @@
 <br><https://gcanti.github.io/fp-ts/>
 
 ## C# ##
+
+* Free monads come to C#
+<br><https://github.com/louthy/language-ext/releases/tag/3.4.11>
 * Call JavaScript functions from .NET methods in ASP.NET Core Blazor
 <br><https://docs.microsoft.com/en-us/aspnet/core/blazor/call-javascript-from-dotnet?view=aspnetcore-3.1>
 * After one hour spent with C# 8.0... Doesn't make much sense but at least it compiles! Find as many new features as you can... ;)
