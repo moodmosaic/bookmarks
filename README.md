@@ -1089,6 +1089,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.lopp.net/bitcoin-information.html>
 * Use Bitcoin with confidence.
 <br><https://bitzuma.com/owning-bitcoin/>
+* Pruned Node
+<br><https://programmingblockchain.gitbook.io/programmingblockchain/wallet/pruned-node>
 * DappRadar
 <br><https://dappradar.com/>
 * Gnosis Safe Multisig
