@@ -851,6 +851,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* What is D-Bus?
+<br><https://www.freedesktop.org/wiki/Software/dbus/>
 * How to Use a Laptop as a Monitor for a Mac Mini
 <br><https://smallbusiness.chron.com/use-laptop-monitor-mac-mini-51682.html>
 * Start up your Mac in single-user mode or verbose mode
