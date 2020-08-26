@@ -1057,6 +1057,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* MQA technical analysis - General Forum - Audiophile Style
+<br><https://audiophilestyle.com/forums/topic/30572-mqa-technical-analysis/>
 * journal.stuffwithstuff.com - source code
 <br><https://github.com/munificent/journal>
 * GitHub actions for Haskell CI
