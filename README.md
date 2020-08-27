@@ -5,12 +5,12 @@
 * [C/C++](#cc)
 * [Haskell](#haskell)
 * [Category theory](#category-theory)
+* [GraphQL](#graphql)
 * [TypeScript](#typescript)
 * [C#](#c)
 * [F#](#f)
 * [CLR](#clr)
 * [JavaScript](#javascript)
-* [Scala](#scala)
 * [Git](#git)
 * [Sublime Text](#sublime-text)
 * [Nix](#nix)
@@ -34,10 +34,6 @@
 <br><https://github.com/silentbicycle/theft>
 * Throw The Switch - C Code That Doesn't Suck
 <br><https://github.com/ThrowTheSwitch>
-* Tree-sitter - An incremental parsing system for programmings tools
-<br><https://github.com/tree-sitter/tree-sitter/>
-* c-mix - Demo of C project with Haskell functions
-<br><https://github.com/begriffs/c-mix>
 
 [Back to top](#)
 
@@ -47,6 +43,14 @@
 <br><https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html>
 * How stylish-haskell works
 <br><https://felixmulder.com/writing/2020/08/20/How-Stylish-Haskell-works.html>
+* pepeiborra - Let’s write a Haskell Language Server plugin
+<br><https://github.com/pepeiborra/hls-tutorial>
+* Revisiting application structure
+<br><https://felixmulder.com/writing/2020/08/08/Revisiting-application-structure.html>
+* Haskell Love 2020
+<br><https://www.youtube.com/playlist?list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc>
+* i-am-tom/haskell-exercises
+<br><https://github.com/i-am-tom/haskell-exercises>
 * haskell/haskell-language-server - installation
 <br><https://github.com/haskell/haskell-language-server#installation>
 * IDE 2020
@@ -595,15 +599,23 @@
 
 [Back to top](#)
 
+## GraphQL ##
+
+* Alejandro Serrano - GraphQL :heart: Haskell
+<br><https://www.youtube.com/watch?v=JbeqwfZ2dRc&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=1>
+* GraphQL
+<br><https://graphql.org/>
+
+[Back to top](#)
+
 ## TypeScript ##
 
 * Typed functional programming in TypeScript
 <br><https://gcanti.github.io/fp-ts/>
 
-## C# ##
+[Back to top](#)
 
-* Free monads come to C#
-<br><https://github.com/louthy/language-ext/releases/tag/3.4.11>
+## C# ##
 * Call JavaScript functions from .NET methods in ASP.NET Core Blazor
 <br><https://docs.microsoft.com/en-us/aspnet/core/blazor/call-javascript-from-dotnet?view=aspnetcore-3.1>
 * After one hour spent with C# 8.0... Doesn't make much sense but at least it compiles! Find as many new features as you can... ;)
@@ -612,6 +624,8 @@
 <br><https://gist.github.com/eiriktsarpalis/8d87ce971b432d80658d33768ff7b0fa>
 * LiteDB - A .NET NoSQL Document Store in a single data file
 <br><https://github.com/mbdavid/litedb>
+* Functional Programming in C#
+<br><https://tysonwilliams.coding.blog/2020-08-23_functional_programming_in_csharp>
 
 [Back to top](#)
 
@@ -783,32 +797,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://compostjs.github.io/compost/>
 * edsko.net - Writing Atom plugins in Haskell using ghcjs
 <br><http://www.edsko.net/2015/02/14/atom-haskell/>
-* Building a resilient frontend using progressive enhancement
-<br><https://www.gov.uk/service-manual/technology/using-progressive-enhancement>
-* The compiler for writing next generation JavaScript
-<br><https://github.com/babel/babel>
 * kangax's compat-table applied only to Node.js
 <br><https://node.green/>
-* Luke Hoban's overview of ECMAScript 6 features
-<br><https://github.com/lukehoban/es6features>
-* Whenever you read about JavaScript you’ll inevitably see one of these terms
-<br><https://flaviocopes.com/ecmascript/>
-* Eloquent JavaScript
-<br><https://eloquentjavascript.net/>
-
-[Back to top](#)
-
-## Scala
-
-* Hands-on Scala Programming
-<br><https://www.handsonscala.com/>
-* Scala in Gitpod
-<br><https://www.gitpod.io/docs/languages/scala/>
 
 [Back to top](#)
 
 ## Git
 
+* git-badc0de - a tool to improve git commits you receive
+<br><https://github.com/phadej/git-badc0de>
 * Render hierarchical git repositories into HTML
 <br><https://github.com/bennorth/literate-git>
 * Learn git concepts, not commands
@@ -843,6 +840,18 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Nix
 
+* Nix Ecosystem
+<br><https://nixos.wiki/wiki/Nix_Ecosystem>
+* home-manager - A basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs.
+<br><https://github.com/rycee/home-manager>
+* nix-darwin - Nix modules for darwin, /etc/nixos/configuration.nix for macOS.
+<br><https://github.com/LnL7/nix-darwin>
+* What does `nix-darwin` provide?
+<br><https://stackoverflow.com/a/53381974>
+* Built wit Nix - build software only once
+<br><https://builtwithnix.org/>
+* nix.dev - An opinionated guide for developers getting things done using the Nix ecosystem
+<br><https://nix.dev/index.html>
 * Deploying your application with NixOS
 <br><https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/>
 * Setting up a Haskell development environment with Nix
@@ -858,8 +867,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
-* What is D-Bus?
-<br><https://www.freedesktop.org/wiki/Software/dbus/>
 * How to Use a Laptop as a Monitor for a Mac Mini
 <br><https://smallbusiness.chron.com/use-laptop-monitor-mac-mini-51682.html>
 * Start up your Mac in single-user mode or verbose mode
@@ -1079,6 +1086,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview>
 * SRC Comparisons
 <br><https://src.infinitewave.ca/>
+* Poor resampling quality in SHOUTcast stream
+<br><http://forums.winamp.com/showthread.php?t=355463>
 * EZ CD Audio Converter (SRC)
 <br><https://www.poikosoft.com/music-converter-audio-engine>
 * Use a second laptop as an extended monitor with Windows 10 wireless displays
