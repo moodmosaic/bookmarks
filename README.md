@@ -1064,6 +1064,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Sony IER-NW500NE/BM(SET), A2186775A - EET Europarts
+<br><https://eu.eetgroup.com/i/A2186775A-Sony-IER-NW500NE-BMSET>
+* Sony NW-A40 Series NW-A45/A46/A47 | Page 106 | Headphone Reviews and Discussion - Head-Fi.org (Firmware, A40Series Reloaded (2.00))
+<br><https://www.head-fi.org/threads/sony-nw-a40-series-nw-a45-a46-a47.854779/page-106>
 * MQA technical analysis - General Forum - Audiophile Style
 <br><https://audiophilestyle.com/forums/topic/30572-mqa-technical-analysis/>
 * journal.stuffwithstuff.com - source code
