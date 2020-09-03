@@ -39,6 +39,8 @@
 
 ## Haskell
 
+* LeapYear/graphql-client1130
+<br><https://github.com/LeapYear/graphql-client>
 * Whirlwind Tour Of Cabal For Beginners
 <br><https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html>
 * How stylish-haskell works
