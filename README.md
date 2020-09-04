@@ -39,6 +39,8 @@
 
 ## Haskell
 
+* freckle/hspec-expectations-json
+<br><https://github.com/freckle/hspec-expectations-json>
 * LeapYear/graphql-client1130
 <br><https://github.com/LeapYear/graphql-client>
 * Whirlwind Tour Of Cabal For Beginners
