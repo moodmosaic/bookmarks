@@ -39,6 +39,8 @@
 
 ## Haskell
 
+* (λblog.rainbyte) Haskell from 0 to IO (Maybe Hero)
+<br><https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html>
 * freckle/hspec-expectations-json
 <br><https://github.com/freckle/hspec-expectations-json>
 * LeapYear/graphql-client1130
