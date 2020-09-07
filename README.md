@@ -47,6 +47,8 @@
 
 ## Haskell
 
+* thma/TypelevelReflection
+<br><https://github.com/thma/TypelevelReflection>
 * (λblog.rainbyte) Haskell from 0 to IO (Maybe Hero)
 <br><https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html>
 * freckle/hspec-expectations-json
