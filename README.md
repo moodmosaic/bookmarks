@@ -3,6 +3,7 @@
 *A selection of the links I find interesting over time. Updated on a regular basis.*
 
 * [C/C++](#cc)
+* [Python](#python)
 * [Haskell](#haskell)
 * [Category theory](#category-theory)
 * [GraphQL](#graphql)
@@ -34,6 +35,13 @@
 <br><https://github.com/silentbicycle/theft>
 * Throw The Switch - C Code That Doesn't Suck
 <br><https://github.com/ThrowTheSwitch>
+
+[Back to top](#)
+
+## Python
+
+* Diagrams - Diagrams lets you draw the cloud system architecture in Python code.
+<br><https://diagrams.mingrammer.com/>
 
 [Back to top](#)
 
