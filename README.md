@@ -49,6 +49,8 @@
 
 * thma/TypelevelReflection
 <br><https://github.com/thma/TypelevelReflection>
+* serras/munihac-2020-miso
+<br><https://github.com/serras/munihac-2020-miso>
 * (λblog.rainbyte) Haskell from 0 to IO (Maybe Hero)
 <br><https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html>
 * freckle/hspec-expectations-json
