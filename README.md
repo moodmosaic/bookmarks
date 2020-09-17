@@ -49,6 +49,8 @@
 
 * thma/TypelevelReflection
 <br><https://github.com/thma/TypelevelReflection>
+* cabal-auto-expose is a build time library which, like hpack, auto detects new and removed Haskell modules and Backpack signatures in your project’s sources and exposes them for you so you don’t have to manually keep your .cabal file in sync.
+<br><https://github.com/deech/cabal-auto-expose/tree/master/cabal-auto-expose>
 * serras/munihac-2020-miso
 <br><https://github.com/serras/munihac-2020-miso>
 * (λblog.rainbyte) Haskell from 0 to IO (Maybe Hero)
