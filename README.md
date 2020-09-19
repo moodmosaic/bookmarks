@@ -47,6 +47,8 @@
 
 ## Haskell
 
+* Don't use Ghcide anymore (directly)
+<br><http://neilmitchell.blogspot.com/2020/09/dont-use-ghcide-anymore-directly.html>
 * thma/TypelevelReflection
 <br><https://github.com/thma/TypelevelReflection>
 * cabal-auto-expose is a build time library which, like hpack, auto detects new and removed Haskell modules and Backpack signatures in your project’s sources and exposes them for you so you don’t have to manually keep your .cabal file in sync.
