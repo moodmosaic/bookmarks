@@ -125,6 +125,8 @@
 <br><https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/>
 * Dead simple cross-platform GitHub Actions for Haskell
 <br><https://kodimensional.dev/github-actions>
+* JSON Parsing from Scratch in Haskell: Error Reporting
+<br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2/>
 * JSON Parsing from Scratch in Haskell
 <br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/>
 * The Power of RecordWildCards
