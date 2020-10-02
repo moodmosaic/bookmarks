@@ -47,6 +47,8 @@
 
 ## Haskell
 
+* ihp - batteries-included Web Framework, built on top of Haskell and Nix.
+<br><https://github.com/digitallyinduced/ihp>
 * Don't use Ghcide anymore (directly)
 <br><http://neilmitchell.blogspot.com/2020/09/dont-use-ghcide-anymore-directly.html>
 * thma/TypelevelReflection
