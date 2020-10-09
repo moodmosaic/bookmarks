@@ -819,6 +819,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* RedwoodJS - Bringing full-stack to the Jamstack
+<br><https://github.com/redwoodjs/redwood>
 * Compost.js: Composable data visualization library
 <br><https://compostjs.github.io/compost/>
 * edsko.net - Writing Atom plugins in Haskell using ghcjs
