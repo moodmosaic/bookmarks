@@ -642,6 +642,10 @@
 [Back to top](#)
 
 ## C# ##
+* fsharpforfunandprodit-ddd style in C# 9
+<br><https://github.com/lightw8/fsharpforfunandprofit.com/blob/master/ddd/ddd.cs#L223>
+* C# language version history
+<br><https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md>
 * Call JavaScript functions from .NET methods in ASP.NET Core Blazor
 <br><https://docs.microsoft.com/en-us/aspnet/core/blazor/call-javascript-from-dotnet?view=aspnetcore-3.1>
 * After one hour spent with C# 8.0... Doesn't make much sense but at least it compiles! Find as many new features as you can... ;)
