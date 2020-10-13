@@ -47,6 +47,9 @@
 
 ## Haskell
 
+* I wrote a nice display function for parse errors in Parsec (Haskell library)
+<br><https://twitter.com/chordbug/status/1315412432362369024>
+<br><https://gist.github.com/lynn/46dff5b6cff3851bc4a176d3859664e2>
 * ihp - batteries-included Web Framework, built on top of Haskell and Nix.
 <br><https://github.com/digitallyinduced/ihp>
 * Don't use Ghcide anymore (directly)
