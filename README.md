@@ -47,6 +47,9 @@
 
 ## Haskell
 
+* uptop - a terminal client for Up Bank zap written in Haskell
+<br><https://github.com/ldgrp/uptop>
+<br><https://up.com.au/>
 * I wrote a nice display function for parse errors in Parsec (Haskell library)
 <br><https://twitter.com/chordbug/status/1315412432362369024>
 <br><https://gist.github.com/lynn/46dff5b6cff3851bc4a176d3859664e2>
