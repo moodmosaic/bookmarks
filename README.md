@@ -47,6 +47,8 @@
 
 ## Haskell
 
+* TypeClasses - Index
+<br><https://typeclasses.com/index>
 * uptop - a terminal client for Up Bank zap written in Haskell
 <br><https://github.com/ldgrp/uptop>
 <br><https://up.com.au/>
