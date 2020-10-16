@@ -909,6 +909,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Rewritten in Rust: Modern Alternatives of Command-Line Tools
+<br><https://zaiste.net/posts/shell-commands-rust/>
 * How to Use a Laptop as a Monitor for a Mac Mini
 <br><https://smallbusiness.chron.com/use-laptop-monitor-mac-mini-51682.html>
 * Start up your Mac in single-user mode or verbose mode
