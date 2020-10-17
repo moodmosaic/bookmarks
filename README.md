@@ -1147,6 +1147,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Find your way on Pancake Github
+<br><https://docs.pancakeswap.finance/code/contributing/codebase-overview>
 * Swerve Finance
 <br><https://github.com/SwerveFinance>
 * Introducing the Transaction Permission Layer (TPL) Protocol
