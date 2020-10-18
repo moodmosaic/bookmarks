@@ -1147,6 +1147,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Awesome zero knowledge proofs (zkp)
+<br><https://github.com/matter-labs/awesome-zero-knowledge-proofs>
 * Find your way on Pancake Github
 <br><https://docs.pancakeswap.finance/code/contributing/codebase-overview>
 * Swerve Finance
