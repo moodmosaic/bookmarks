@@ -909,6 +909,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* tealdeer - A very fast implementation of tldr in Rust
+<br><https://github.com/dbrgn/tealdeer>
 * Rewritten in Rust: Modern Alternatives of Command-Line Tools
 <br><https://zaiste.net/posts/shell-commands-rust/>
 * How to Use a Laptop as a Monitor for a Mac Mini
