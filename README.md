@@ -1011,6 +1011,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Cryptocurrencies
 
+* dapp.tools - Command-line-friendly tools for blockchain development
+<br><https://dapp.tools/>
 * Elements - An open source, sidechain-capable blockchain platform
 <br><https://elementsproject.org/>
 * freqtrade - Free, open source crypto trading bot https://www.freqtrade.io
