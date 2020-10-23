@@ -16,7 +16,7 @@
 * [Sublime Text](#sublime-text)
 * [Nix](#nix)
 * [Unix-like](#unix-like)
-* [Cryptocurrencies](#cryptocurrencies)
+* [Blockchains](#blockchains)
 * [Leisure](#leisure)
 
 ## C/C++
@@ -1009,7 +1009,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 [Back to top](#)
 
-## Cryptocurrencies
+## Blockchains
 
 * dapp.tools - Command-line-friendly tools for blockchain development
 <br><https://dapp.tools/>
