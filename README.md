@@ -21,6 +21,8 @@
 
 ## C/C++
 
+* jq - lightweight and flexible command-line JSON processor, written in portable C
+<br><https://stedolan.github.io/jq/>
 * C Programming Language, 2nd Edition *(K&R C)*
 <br><https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628>
 * c-repl - C read-eval-print loop
