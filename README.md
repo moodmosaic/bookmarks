@@ -1013,6 +1013,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Polkadot's Substrate 2.0 integrates oracles at a protocol level
+<br><https://cointelegraph.com/news/polkadot-s-substrate-2-0-integrates-oracles-at-a-protocol-level>
 * dapp.tools - Command-line-friendly tools for blockchain development
 <br><https://dapp.tools/>
 * OpenZeppelin Contracts - Battle-tested libraries of smart contracts
