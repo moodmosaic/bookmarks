@@ -1013,6 +1013,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Ethereum local development setup
+<br><https://ethereum.org/en/developers/local-environment/>
+<br><https://hardhat.org/>
 * Major Milestone Achieved: Polkadot and Chainlink Integration Using Substrate
 <br><https://medium.com/polkadot-network/major-milestone-achieved-polkadot-and-chainlink-integration-using-substrate-f70937887c49>
 * smartcontractkit/chainlink-polkadot - polkadot and substrate chains interact with chainlink
