@@ -1013,6 +1013,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Major Milestone Achieved: Polkadot and Chainlink Integration Using Substrate
+<br><https://medium.com/polkadot-network/major-milestone-achieved-polkadot-and-chainlink-integration-using-substrate-f70937887c49>
 * smartcontractkit/chainlink-polkadot - polkadot and substrate chains interact with chainlink
 <br><https://github.com/smartcontractkit/chainlink-polkadot>
 * Polkadot's Substrate 2.0 integrates oracles at a protocol level
