@@ -1013,6 +1013,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Polkaswap - A DEX for the Interoperable Future
+<br><https://medium.com/@polkaswap/introducing-polkaswap-6f1db4003747>
 * Ethereum local development setup
 <br><https://ethereum.org/en/developers/local-environment/>
 <br><https://hardhat.org/>
