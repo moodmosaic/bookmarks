@@ -754,6 +754,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## CLR
 
+* SlnGen - Visual Studio solution file generator
+<br><https://github.com/microsoft/slngen>
 * Experiment: Algebraic (file system) Effects using Eff from Nessos
 <br><https://gist.github.com/bent-rasmussen/b1ca900b0f03340b5c9ea9437d6a6057>
 * .NET ThreadPool and an overlapped I/O - this will be heavily reused in explaining async/await too
