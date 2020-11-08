@@ -49,6 +49,8 @@
 
 ## Haskell
 
+* Haskell: The Bad Parts, part 1
+<br><https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1>
 * TypeClasses - Index
 <br><https://typeclasses.com/index>
 * uptop - a terminal client for Up Bank zap written in Haskell
