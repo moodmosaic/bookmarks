@@ -10,6 +10,7 @@
 * [TypeScript](#typescript)
 * [C#](#c)
 * [F#](#f)
+* [Scala](#scala)
 * [CLR](#clr)
 * [JavaScript](#javascript)
 * [Git](#git)
@@ -751,6 +752,13 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://gist.github.com/vasily-kirichenko/b0cc41e6de8bdec2ce53072e87741e50>
 * F# compiles down into (similar) IL code as VB and C#
 <br><http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp>
+
+[Back to top](#)
+
+## Scala
+
+* ScalaZONE - Scala 3 Programming Language Courses
+<br><https://scala.zone/>
 
 [Back to top](#)
 
