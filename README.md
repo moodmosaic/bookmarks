@@ -1035,6 +1035,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Let's run on-chain decentralized exchanges the way we run prediction markets
 <br><https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/>
+* Write a "hello world" smart contract | ethereum.org"
+<br><https://ethereum.org/en/developers/tutorials/write-hello-world-contract/>
 * Polkaswap - A DEX for the Interoperable Future
 <br><https://medium.com/@polkaswap/introducing-polkaswap-6f1db4003747>
 * Ethereum local development setup
