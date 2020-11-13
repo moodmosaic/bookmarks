@@ -675,6 +675,8 @@
 
 ## F# ##
 
+* I love working in FSI, but when working with DateTime values, the screen real estate gets eaten up so quickly. Any good way to make it just print a one liner by default?
+<br><https://twitter.com/LekoTomas/status/1323355054590623744>
 * AlgEff - Algebraic Effects for F# - inspired by Eff and ZIO
 <br><https://github.com/brianberns/AlgEff>
 * When using the task computation expression, I like to put "task {" at the end of the function declaration to avoid double indentation. But what if I need to return a parameterless Task?
