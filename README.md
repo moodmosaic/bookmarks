@@ -656,6 +656,8 @@
 [Back to top](#)
 
 ## C# ##
+* 18 years of .NET development and I had no idea you could do this (DefineConstants)
+<br><https://twitter.com/mikehadlow/status/1299373209981276165>
 * fsharpforfunandprodit-ddd style in C# 9
 <br><https://github.com/lightw8/fsharpforfunandprofit.com/blob/master/ddd/ddd.cs#L223>
 * C# language version history
