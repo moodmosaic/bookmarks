@@ -1041,6 +1041,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit
+<br><https://arxiv.org/pdf/2003.03810.pdf>
 * Let's run on-chain decentralized exchanges the way we run prediction markets
 <br><https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/>
 * Write a "hello world" smart contract | ethereum.org"
