@@ -1041,6 +1041,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* EthFiddle - Solidity IDE in the browser
+<br><https://ethfiddle.com/>
 * Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit
 <br><https://arxiv.org/pdf/2003.03810.pdf>
 * Let's run on-chain decentralized exchanges the way we run prediction markets
