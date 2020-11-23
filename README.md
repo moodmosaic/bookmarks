@@ -679,6 +679,10 @@
 
 ## F# ##
 
+* Announcing F# 5
+<br><https://devblogs.microsoft.com/dotnet/announcing-f-5/>
+* MixinProvider - Type provider for generating and injecting F# code from compile time metaprograms
+<br><https://github.com/pezipink/MixinProvider>
 * I love working in FSI, but when working with DateTime values, the screen real estate gets eaten up so quickly. Any good way to make it just print a one liner by default?
 <br><https://twitter.com/LekoTomas/status/1323355054590623744>
 * AlgEff - Algebraic Effects for F# - inspired by Eff and ZIO
