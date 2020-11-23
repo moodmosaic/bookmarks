@@ -1045,8 +1045,16 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* rotki - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
+<br><https://github.com/rotki/rotki>
 * EthFiddle - Solidity IDE in the browser
 <br><https://ethfiddle.com/>
+* 246 Findings From our Smart Contract Audits: An Executive Summary
+<br><https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/>
+* Echidna, a smart fuzzer for Ethereum
+<br><https://blog.trailofbits.com/2018/03/09/echidna-a-smart-fuzzer-for-ethereum/>
+* Echidna: Effective, Usable, and Fast Fuzzing for Smart Contracts
+<br><https://agroce.github.io/issta20.pdf>
 * Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit
 <br><https://arxiv.org/pdf/2003.03810.pdf>
 * Let's run on-chain decentralized exchanges the way we run prediction markets
