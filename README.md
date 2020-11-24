@@ -679,6 +679,8 @@
 
 ## F# ##
 
+* David Fowler @davidfowl · Nov 23 - After lots of googling, here it is, my first F# ASP.NET Core Web API #dotnet #fsharp
+<br><https://twitter.com/davidfowl/status/1330878540665982977>
 * Announcing F# 5
 <br><https://devblogs.microsoft.com/dotnet/announcing-f-5/>
 * MixinProvider - Type provider for generating and injecting F# code from compile time metaprograms
