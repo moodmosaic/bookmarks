@@ -982,8 +982,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://the.exa.website/>
 * bat - A cat(1) clone with syntax highlighting and Git integration
 <br><https://github.com/sharkdp/bat>
-* Installing NixOS
-<br><https://qfpl.io/posts/installing-nixos/>
 * Call Unix tools as regular #Swiftlang functions using the new Swift 5 `@dynamicCallable` feature
 <br><http://www.alwaysrightinstitute.com/swift-dynamic-callable/>
 * Do stuff with (Haskell) Stack from Bash without requiring a stack.yaml file
