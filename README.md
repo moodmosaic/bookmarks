@@ -17,6 +17,7 @@
 * [Sublime Text](#sublime-text)
 * [Nix](#nix)
 * [Unix-like](#unix-like)
+* [Go](#go)
 * [Rust](#rust)
 * [Blockchains](#blockchains)
 * [Leisure](#leisure)
@@ -1043,6 +1044,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Kubernetes Failure Stories
 <br><https://k8s.af/>
 <br><https://github.com/hjacobs/kubernetes-failure-stories>
+
+[Back to top](#)
+
+## Go
 
 [Back to top](#)
 
