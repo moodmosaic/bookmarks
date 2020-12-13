@@ -1060,6 +1060,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* OpenZeppelin Upgrades: Step by Step Tutorial for Hardhat
+<br><https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580>
 * TeaFiles
 <br><http://discretelogics.com/teafiles/>
 * How to design a database to store OHLC time-series of different resolutions?
