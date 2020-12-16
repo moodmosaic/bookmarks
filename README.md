@@ -1173,6 +1173,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Wave Pcm Upconvert Player -　Copyright (C) 2011-2020 YUKI-SAN
+<br><http://wpup.html.xdomain.jp/>
 * Sony IER-NW500NE/BM(SET), A2186775A - EET Europarts
 <br><https://eu.eetgroup.com/i/A2186775A-Sony-IER-NW500NE-BMSET>
 * Sony NW-A40 Series NW-A45/A46/A47 | Page 106 | Headphone Reviews and Discussion - Head-Fi.org (Firmware, A40Series Reloaded (2.00))
