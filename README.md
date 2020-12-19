@@ -1147,6 +1147,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Swerve Finance
+<br><https://github.com/SwerveFinance>
 * Introducing the Transaction Permission Layer (TPL) Protocol
 <br><https://blog.openzeppelin.com/introducing-the-transaction-permission-layer-tpl-protocol-358f28cfff40/>
 <br><https://tplprotocol.org/>
