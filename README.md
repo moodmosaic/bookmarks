@@ -1047,6 +1047,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Suggest me a Database to store Tick data
+<br><https://kite.trade/forum/discussion/2078/suggest-me-a-database-to-store-tick-data>
 * rotki - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
 <br><https://github.com/rotki/rotki>
 * EthFiddle - Solidity IDE in the browser
