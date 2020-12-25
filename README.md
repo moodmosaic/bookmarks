@@ -1047,6 +1047,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* How to design a database to store OHLC time-series of different resolutions?
+<br><https://stackoverflow.com/questions/44639415/how-to-design-a-database-to-store-ohlc-time-series-of-different-resolutions>
 * Suggest me a Database to store Tick data
 <br><https://kite.trade/forum/discussion/2078/suggest-me-a-database-to-store-tick-data>
 * rotki - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
