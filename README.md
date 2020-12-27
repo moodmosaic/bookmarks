@@ -51,6 +51,8 @@
 
 ## Haskell
 
+* Precis Setup
+<br><https://abhin4v.github.io/precis/setup>
 * Haskell: The Bad Parts, part 1
 <br><https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1>
 * TypeClasses - Index
