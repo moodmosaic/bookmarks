@@ -53,6 +53,8 @@
 
 * Precis Setup
 <br><https://abhin4v.github.io/precis/setup>
+* StateT vs. IORef: a benchmark
+<br><https://ro-che.info/articles/2020-12-29-statet-vs-ioref>
 * Haskell: The Bad Parts, part 1
 <br><https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1>
 * TypeClasses - Index
