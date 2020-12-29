@@ -53,6 +53,8 @@
 
 * Precis Setup
 <br><https://abhin4v.github.io/precis/setup>
+* Learnings From Solving Advent Of Code 2020 In Haskell
+<br><https://notes.abhinavsarkar.net/2020/aoc-learnings>
 * StateT vs. IORef: a benchmark
 <br><https://ro-che.info/articles/2020-12-29-statet-vs-ioref>
 * Haskell: The Bad Parts, part 1
