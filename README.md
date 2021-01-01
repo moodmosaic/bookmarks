@@ -1060,6 +1060,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* How to deploy Upgradable smart contract on Binance smart chain?
+<br><https://forum.openzeppelin.com/t/how-to-deploy-upgradable-smart-contract-on-binance-smart-chain/4913>
 * OpenZeppelin Upgrades: Step by Step Tutorial for Hardhat
 <br><https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580>
 * TeaFiles
