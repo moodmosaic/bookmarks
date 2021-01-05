@@ -51,6 +51,8 @@
 
 ## Haskell
 
+* The visitor pattern is essentially the same thing as Church encoding
+<br><https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html>
 * Precis Setup
 <br><https://abhin4v.github.io/precis/setup>
 * Learnings From Solving Advent Of Code 2020 In Haskell
