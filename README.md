@@ -1060,6 +1060,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Gnosis Safe Multisig
+<br><https://gnosis-safe.io/>
 * Upgrading smart contracts
 <br><https://docs.openzeppelin.com/learn/upgrading-smart-contracts#initialization>
 * How to deploy Upgradable smart contract on Binance smart chain?
