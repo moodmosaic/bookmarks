@@ -52,6 +52,8 @@
 
 ## Haskell
 
+* New random interface
+<br><https://alexey.kuleshevi.ch/blog/2021/01/29/random-interface/>
 * The visitor pattern is essentially the same thing as Church encoding
 <br><https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html>
 * Precis Setup
