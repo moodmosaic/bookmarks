@@ -58,6 +58,8 @@
 <br><http://snapframework.com/>
 * Calling C++ from Haskell
 <br><https://luctielen.com/posts/calling_cpp_from_haskell/>
+* IHP Casts
+<br><https://ihpcasts.com/>
 * The visitor pattern is essentially the same thing as Church encoding
 <br><https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html>
 * Precis Setup
