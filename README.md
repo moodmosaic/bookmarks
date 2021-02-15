@@ -1059,6 +1059,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* Go by Example
+<br><https://gobyexample.com/>
 [Back to top](#)
 
 ## Rust
