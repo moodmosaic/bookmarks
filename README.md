@@ -1061,6 +1061,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Go by Example
 <br><https://gobyexample.com/>
+* Mark McGranaghan - Lessons from Stripe
+<br><https://markmcgranaghan.com/lessons-from-stripe>
 [Back to top](#)
 
 ## Rust
