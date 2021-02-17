@@ -1065,6 +1065,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://markmcgranaghan.com/lessons-from-stripe>
 * brandur/sorg
 <br><https://github.com/brandur/sorg>
+* Go VSCode extensions
+<br><https://marketplace.visualstudio.com/items?itemName=golang.Go>
 [Back to top](#)
 
 ## Rust
