@@ -1067,6 +1067,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/brandur/sorg>
 * Go VSCode extensions
 <br><https://marketplace.visualstudio.com/items?itemName=golang.Go>
+* Go Tools
+<br><https://github.com/golang/vscode-go/blob/master/docs/tools.md>
+
 [Back to top](#)
 
 ## Rust
