@@ -1083,6 +1083,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Stacks - A better internet, built on Bitcoin
 <br><https://www.stacks.co/>
+* Stacks - Docs
+<br><https://docs.blockstack.org/>
 * DappRadar
 <br><https://dappradar.com/>
 * Gnosis Safe Multisig
