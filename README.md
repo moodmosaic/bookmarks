@@ -1109,6 +1109,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* Learn Go Programming - Golang Tutorial for Beginners
+<br><https://www.youtube.com/watch?v=YS4e4q9oBaU>
 * a8m/golang-cheat-sheet
 <br><https://github.com/a8m/golang-cheat-sheet>
 * A Tour of Go
@@ -1134,6 +1136,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * The Rust Programming Language book
 <br><https://doc.rust-lang.org/book/>
+* Programming Rust: Fast, Safe Systems Development
+<br><https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590>
 
 [Back to top](#)
 
