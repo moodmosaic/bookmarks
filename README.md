@@ -892,6 +892,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Git
 
+* Radicle - peer-to-peer code collaboration
+<br><https://radicle.xyz/>
 * Fortunately, I don't squash my commits
 <br><https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/>
 * git-badc0de - a tool to improve git commits you receive
