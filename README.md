@@ -1243,6 +1243,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* remove.bg/upload - Upload an image to remove the background
+<br><https://www.remove.bg/upload>
 * TradingGYM - Trading Simulator
 <br><https://tradinggym.app/>
 * Wave Pcm Upconvert Player -　Copyright (C) 2011-2020 YUKI-SAN
