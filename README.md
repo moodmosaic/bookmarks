@@ -1083,6 +1083,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Bitcoin: Fundamental Technical Structure
+<br><https://www.gemini.com/cryptopedia/how-does-bitcoin-work-blockchain-halving>
 * flashbots/pm - existential risks posed by miner-extractable value (MEV) to smart-contract blockchains
 <br><https://github.com/flashbots/pm>
 * Crypto Logos - High Quality Cryptocurrency Logos
