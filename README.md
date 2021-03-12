@@ -1083,6 +1083,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* airswap/airswap-cli - Command Line Interface (CLI) for the AirSwap Network
+<br><https://github.com/airswap/airswap-cli>
 * Bitcoin: Fundamental Technical Structure
 <br><https://www.gemini.com/cryptopedia/how-does-bitcoin-work-blockchain-halving>
 * flashbots/pm - existential risks posed by miner-extractable value (MEV) to smart-contract blockchains
