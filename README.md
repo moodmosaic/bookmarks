@@ -673,6 +673,8 @@
 
 * Typed functional programming in TypeScript
 <br><https://gcanti.github.io/fp-ts/>
+* JavaScript Import Syntax - Why??
+<br><https://gist.github.com/dphilipson/77872c24350a2e1b591917ae746d3438>
 
 [Back to top](#)
 
