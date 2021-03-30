@@ -894,6 +894,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Git
 
+* Tooling for converting pre 2017 project to the new Visual Studio 2017 format
+<br><https://github.com/hvanbakel/CsprojToVs2017>
 * Radicle - peer-to-peer code collaboration
 <br><https://radicle.xyz/>
 * Fortunately, I don't squash my commits
