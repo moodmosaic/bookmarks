@@ -52,6 +52,8 @@
 
 ## Haskell
 
+* Default exception handler in Haskell
+<br><https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/>
 * New random interface
 <br><https://alexey.kuleshevi.ch/blog/2021/01/29/random-interface/>
 * Snap Framework
