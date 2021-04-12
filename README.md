@@ -1035,8 +1035,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/tmux/tmux>
 * Linux intro course - A gentle introduction to programming networked services on linux
 <br><https://github.com/haf/linux-intro-course>
-* Master the command line, in one page (in case I use neovim)
-<br><https://github.com/jlevy/the-art-of-command-line><br><https://pragprog.com/book/modvim/modern-vim><br><https://github.com/ryanoasis/vim-devicons><br><https://github.com/tyrannicaltoucan/vim-quantum>
 * Panic Inc - By request: here's a Terminal theme based on our official "Panic Palette". Enjoy!
 <br><https://twitter.com/panic/status/558389225612005376>
 * ShellProgressBar - display progress in your console application
