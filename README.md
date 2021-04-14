@@ -1042,8 +1042,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Terminal Spinner for .NET Core/Standard
 <br><https://github.com/mayuki/Kurukuru>
 * Why does man print “gimme gimme gimme” at 00:30?
-<br><https://askubuntu.com/a/41386>
-* How do I install a .deb file via the command line?
 <br><https://askubuntu.com/a/40781>
 * Linus Torvalds' Micro-emacs
 <br><https://news.ycombinator.com/item?id=951461>
