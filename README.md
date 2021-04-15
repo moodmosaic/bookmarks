@@ -54,6 +54,8 @@
 
 * Announcing Ema - Static Sites in Haskell
 <br><https://notes.srid.ca/ema-announce>
+* Announcing Neuron - Zettelkasten in Haskell
+<br><https://notes.srid.ca/neuron-announce>
 * Default exception handler in Haskell
 <br><https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/>
 * New random interface
