@@ -1084,6 +1084,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* 123BTC
+<br><https://123btc.org/>
 * airswap/airswap-cli - Command Line Interface (CLI) for the AirSwap Network
 <br><https://github.com/airswap/airswap-cli>
 * Bitcoin: Fundamental Technical Structure
