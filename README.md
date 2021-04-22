@@ -1021,8 +1021,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/jez/vim-as-an-ide><br><https://blog.jez.io/haskell-development-with-neovim/>
 * Vim editor ported to WebAssembly
 <br><https://github.com/rhysd/vim.wasm>
-* Nix: Under the hood by Gabriel Gonzalez
-<br><https://www.youtube.com/watch?v=GMQPzv3Sx58>
 * The Ultimate Vim Distribution
 <br><http://vim.spf13.com/>
 * Now color-coded! Two diagrams of the Unix architecture, 50 years apart. What they tell us and how I drew them.
