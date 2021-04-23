@@ -1092,6 +1092,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.gasnow.org/>
 * Gas Station Network - ETHless transactions made possible
 <br><https://opengsn.org/>
+* Seth - Seth is an Ethereum client tool—like a "MetaMask for the command line"—maintained by the DappHub collective
+<br><https://github.com/dapphub/dapptools/tree/master/src/seth>
 * NFT Minter Tutorial: How to Create a Full Stack DApp
 <br><https://docs.alchemy.com/alchemy/tutorials/nft-minter>
 * airswap/airswap-cli - Command Line Interface (CLI) for the AirSwap Network
