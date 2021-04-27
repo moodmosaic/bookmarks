@@ -969,8 +969,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
-* NO_COLOR
-<br><https://no-color.org/>
 * thought-machine/please - High-performance extensible build system for reproducible multi-language builds
 <br><https://github.com/thought-machine/please>
 * andy-5/wslgit
