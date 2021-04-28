@@ -1015,8 +1015,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.alwaysrightinstitute.com/swift-dynamic-callable/>
 * Do stuff with (Haskell) Stack from Bash without requiring a stack.yaml file
 <br><https://www.ahri.net/practical-haskell-programs-from-scratch/>
-* turtle - Shell programming, Haskell-style
-<br><http://hackage.haskell.org/package/turtle>
 * midipix - a development environment that lets you create programs for Windows using the standard C and POSIX APIs
 <br><https://midipix.org/>
 * Workshop on how to use Vim Plugins
