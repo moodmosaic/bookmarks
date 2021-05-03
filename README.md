@@ -973,9 +973,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/dbrgn/tealdeer>
 * Rewritten in Rust: Modern Alternatives of Command-Line Tools
 <br><https://zaiste.net/posts/shell-commands-rust/>
-* Start up your Mac in single-user mode or verbose mode
-* winget
-<br><https://github.com/microsoft/winget-cli>
 * Linus Torvalds - "I don't like debuggers. Never have, probably never will."
 <br><https://lkml.org/lkml/2000/9/6/65>
 * CliWrap - Library for executing and piping shell commands
