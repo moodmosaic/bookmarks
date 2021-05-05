@@ -52,6 +52,8 @@
 
 ## Haskell
 
+* agentultra/postgresql-replicant
+<br><https://github.com/agentultra/postgresql-replicant>
 * Announcing Ema - Static Sites in Haskell
 <br><https://notes.srid.ca/ema-announce>
 * Announcing Neuron - Zettelkasten in Haskell
