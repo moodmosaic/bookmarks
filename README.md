@@ -1370,7 +1370,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * dethcrypto/TypeChain
 <br><https://github.com/dethcrypto/TypeChain>
 * Ropsten Ethereum (rETH) Faucet
-<br><https://faucet.dimensions.network/>
+<br><https://faucet.dimensions.network>
 * Pangolin - A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution.
 <br><https://github.com/pangolindex>
 * What Sets Avalanche Apart From Other Blockchains?
