@@ -801,6 +801,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Scala
 
+*(and some Java as well, for now)*
+
+* Gradle command-line interface
+<br><https://docs.gradle.org/current/userguide/command_line_interface.html>
 * ScalaZONE - Scala 3 Programming Language Courses
 <br><https://scala.zone/>
 
