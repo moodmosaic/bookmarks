@@ -805,6 +805,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Gradle command-line interface
 <br><https://docs.gradle.org/current/userguide/command_line_interface.html>
+* How to run only one unit test class using Gradle
+<br><https://stackoverflow.com/questions/22505533/how-to-run-only-one-unit-test-class-using-gradle>
 * ScalaZONE - Scala 3 Programming Language Courses
 <br><https://scala.zone/>
 
