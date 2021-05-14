@@ -52,6 +52,8 @@
 
 ## Haskell
 
+* Graham Hutton's Haskell videos on YouTube
+<br><https://www.youtube.com/c/GrahamHuttonNotts/videos?view=0&sort=da>
 * agentultra/postgresql-replicant
 <br><https://github.com/agentultra/postgresql-replicant>
 * Announcing Ema - Static Sites in Haskell
