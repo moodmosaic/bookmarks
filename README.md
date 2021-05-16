@@ -710,6 +710,8 @@
 
 ## F# ##
 
+* How to use F# to show charts? Large blue diamondChart with upwards trend (`alias cat="bat --theme OneHalfDark"`)
+<br><https://twitter.com/adelarsq/status/1394038507560226819>
 * How to create a simple web server on F#? (`alias cat="bat --theme OneHalfDark"`)
 <br><https://twitter.com/adelarsq/status/1394021706747072515>
 * Cross platform F# scripting
