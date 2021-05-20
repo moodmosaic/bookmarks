@@ -1078,6 +1078,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* The course “Blockchain and Money" is freely available online and of critical importance this year to anyone that cares about money, #bitcoin, & the future of crypto.  Less than 1% make it thru all the lectures, but it is definitely worth your time
+<br><https://twitter.com/michael_saylor/status/1393265323370065924>
+<br><https://www.youtube.com/watch?v=EH6vE97qIP4>
+<br><https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/>
 * 123BTC
 <br><https://123btc.org/>
 * 123 ETH
@@ -1256,6 +1260,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* sindresorhus/awesome
+<br><https://github.com/sindresorhus/awesome>
 * remove.bg/upload - Upload an image to remove the background
 <br><https://www.remove.bg/upload>
 * TradingGYM - Trading Simulator
