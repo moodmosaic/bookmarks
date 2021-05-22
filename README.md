@@ -710,6 +710,8 @@
 
 ## F# ##
 
+* How to create a simple web server on F#? (`alias cat="bat --theme OneHalfDark"`)
+<br><https://twitter.com/adelarsq/status/1394021706747072515>
 * Cross platform F# scripting
 <br><https://phillipcarter.dev/posts/cross-platform-fsharp-scripting.html>
 * David Fowler @davidfowl · Nov 23 - After lots of googling, here it is, my first F# ASP.NET Core Web API #dotnet #fsharp
