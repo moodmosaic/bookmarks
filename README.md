@@ -54,6 +54,8 @@
 
 * Graham Hutton's Haskell videos on YouTube
 <br><https://www.youtube.com/c/GrahamHuttonNotts/videos?view=0&sort=da>
+* Updating IHaskell to a Newer GHC (Vaibhav Sagar's blog)
+<br><https://vaibhavsagar.com/blog/2021/05/02/updating-ihaskell-newer-ghc/>
 * agentultra/postgresql-replicant
 <br><https://github.com/agentultra/postgresql-replicant>
 * Announcing Ema - Static Sites in Haskell
