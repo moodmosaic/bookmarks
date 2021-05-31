@@ -54,6 +54,8 @@
 
 * Graham Hutton's Haskell videos on YouTube
 <br><https://www.youtube.com/c/GrahamHuttonNotts/videos?view=0&sort=da>
+* API JSON calls with Haskell
+<br><https://dev.to/csaltos/haskell-http-response-either-4ncg>
 * Updating IHaskell to a Newer GHC (Vaibhav Sagar's blog)
 <br><https://vaibhavsagar.com/blog/2021/05/02/updating-ihaskell-newer-ghc/>
 * agentultra/postgresql-replicant
