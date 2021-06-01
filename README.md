@@ -714,6 +714,10 @@
 
 ## F# ##
 
+* Playing some song with F#!
+<br><https://twitter.com/adelarsq/status/1398847484399587329>
+* Do you want to manipulate Yaml files on F#? It's easy with YamlConfig type provider!
+<br><https://twitter.com/adelarsq/status/1397758464152190980>
 * How to use F# to show charts? Large blue diamondChart with upwards trend (`alias cat="bat --theme OneHalfDark"`)
 <br><https://twitter.com/adelarsq/status/1394038507560226819>
 * How to create a simple web server on F#? (`alias cat="bat --theme OneHalfDark"`)
@@ -1086,6 +1090,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back.
+<br><https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e>
+* Satoshi Nakamoto cites 8 references in the Bitcoin white paper. Each one uniquely influencing the design of the Bitcoin protocol.  In this thread we’ll explore what they are and why they’re important.
+<br><https://twitter.com/anilsaidso/status/1399039422192971781>
 * The course “Blockchain and Money" is freely available online and of critical importance this year to anyone that cares about money, #bitcoin, & the future of crypto.  Less than 1% make it thru all the lectures, but it is definitely worth your time
 <br><https://twitter.com/michael_saylor/status/1393265323370065924>
 <br><https://www.youtube.com/watch?v=EH6vE97qIP4>
