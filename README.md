@@ -1090,6 +1090,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Build a Flash Loan Arbitrage Bot on Infura, Part II
+<br><https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii/>
 * A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back.
 <br><https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e>
 * Satoshi Nakamoto cites 8 references in the Bitcoin white paper. Each one uniquely influencing the design of the Bitcoin protocol.  In this thread we’ll explore what they are and why they’re important.
