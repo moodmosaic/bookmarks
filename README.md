@@ -25,13 +25,13 @@
 ## C/C++
 
 * jq - lightweight and flexible command-line JSON processor, written in portable C
-<br><https://stedolan.github.io/jq/>
+<br><https://stedolan.github.io/jq>
 * C Programming Language, 2nd Edition *(K&R C)*
 <br><https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628>
 * c-repl - C read-eval-print loop
 <br><https://github.com/evmar/c-repl>
 * The Descent to C, by Simon Tatham
-<br><https://www.chiark.greenend.org.uk/~sgtatham/>
+<br><https://www.chiark.greenend.org.uk/~sgtatham>
 * Making 8-bit Arcade Games in C
 <br><https://www.amazon.com/Making-8-bit-Arcade-Games-C/dp/1545484759>
 * 21st Century C: C Tips from the New School
