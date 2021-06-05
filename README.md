@@ -46,7 +46,7 @@
 ## Python
 
 * Diagrams - Diagrams lets you draw the cloud system architecture in Python code.
-<br><https://diagrams.mingrammer.com/>
+<br><https://diagrams.mingrammer.com>
 
 [Back to top](#)
 
