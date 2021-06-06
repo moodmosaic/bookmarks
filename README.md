@@ -57,7 +57,7 @@
 * API JSON calls with Haskell
 <br><https://dev.to/csaltos/haskell-http-response-either-4ncg>
 * Updating IHaskell to a Newer GHC (Vaibhav Sagar's blog)
-<br><https://vaibhavsagar.com/blog/2021/05/02/updating-ihaskell-newer-ghc/>
+<br><https://vaibhavsagar.com/blog/2021/05/02/updating-ihaskell-newer-ghc>
 * agentultra/postgresql-replicant
 <br><https://github.com/agentultra/postgresql-replicant>
 * Announcing Ema - Static Sites in Haskell
@@ -65,15 +65,15 @@
 * Announcing Neuron - Zettelkasten in Haskell
 <br><https://notes.srid.ca/neuron-announce>
 * Default exception handler in Haskell
-<br><https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/>
+<br><https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell>
 * New random interface
-<br><https://alexey.kuleshevi.ch/blog/2021/01/29/random-interface/>
+<br><https://alexey.kuleshevi.ch/blog/2021/01/29/random-interface>
 * Snap Framework
-<br><http://snapframework.com/>
+<br><http://snapframework.com>
 * Calling C++ from Haskell
-<br><https://luctielen.com/posts/calling_cpp_from_haskell/>
+<br><https://luctielen.com/posts/calling_cpp_from_haskell>
 * IHP Casts
-<br><https://ihpcasts.com/>
+<br><https://ihpcasts.com>
 * The visitor pattern is essentially the same thing as Church encoding
 <br><https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html>
 * Precis Setup
