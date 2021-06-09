@@ -145,7 +145,7 @@
 * Haskell Time Crib Sheet
 <br><https://gist.github.com/friedbrice/f9566173436e1697eba4912047a369cd>
 * The power of IO in Haskell
-<br><https://www.47deg.com/blog/io-haskell/>
+<br><https://www.47deg.com/blog/io-haskell>
 * jrp2014/smuggler2 - Minimise haskell imports, make exports explicit, forked from kowainik/smuggler
 <br><https://github.com/jrp2014/smuggler2>
 * hkgr: Simple Hackage release workflow for package maintainers
