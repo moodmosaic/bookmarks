@@ -157,7 +157,7 @@
 * Using client-side Haskell web frameworks in CodeWorld
 <br><https://medium.com/@cdsmithus/using-client-side-haskell-web-frameworks-in-codeworld-7d8661647191>
 * Making the most of Cabal
-<br><https://lukelau.me/haskell/posts/making-the-most-of-cabal/>
+<br><https://lukelau.me/haskell/posts/making-the-most-of-cabal>
 * TOTBWF/omit-generics - Omit fields for instance deriving
 <br><https://github.com/TOTBWF/omit-generics>
 * Cleaning up threads in Haskell
@@ -165,19 +165,19 @@
 * How to define JSON instances quickly
 <br><https://dev.to/tfausak/how-to-define-json-instances-quickly-5ei7>
 * odd-jobs: Haskell job queue with an admin UI
-<br><https://np.reddit.com/r/haskell/comments/gle7mm/ann_oddjobs_haskell_job_queue_with_an_admin_ui/>
+<br><https://np.reddit.com/r/haskell/comments/gle7mm/ann_oddjobs_haskell_job_queue_with_an_admin_ui>
 * Cleaning up threads in Haskell
 <br><https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html>
 * Environment variables parsing for free (applicatives)
-<br><https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/>
+<br><https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives>
 * Dead simple cross-platform GitHub Actions for Haskell
 <br><https://kodimensional.dev/github-actions>
 * Dead simple Haskell Travis settings for cabal and stack
 <br><https://kodimensional.dev/posts/2019-02-25-haskell-travis>
 * JSON Parsing from Scratch in Haskell: Error Reporting
-<br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2/>
+<br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2>
 * JSON Parsing from Scratch in Haskell
-<br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/>
+<br><https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell>
 * The Power of RecordWildCards
 <br><https://kodimensional.dev/recordwildcards>
 * Common JSON patterns in Haskell, Rust and TypeScript
