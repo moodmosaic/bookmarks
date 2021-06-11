@@ -220,7 +220,7 @@
 * A newtype indexed by a sum type lifted with DataKinds
 <br><https://gist.github.com/danidiaz/2157e68f5d4967e468a9d062d4476adf#file-sumkind-hs>
 * Semigroup resonance FizzBuzz
-<br><https://blog.ploeh.dk/2019/12/30/semigroup-resonance-fizzbuzz/>
+<br><https://blog.ploeh.dk/2019/12/30/semigroup-resonance-fizzbuzz>
 * FizzBuzz Revisited
 <br><https://dierk.gitbooks.io/fregegoodness/content/src/docs/asciidoc/fizzbuzz_monoid.html>
 <br><https://gist.github.com/mathiasverraes/763ebf4a7c6ed5e364840e021af5e431>
