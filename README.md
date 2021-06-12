@@ -280,7 +280,7 @@
 * Haskell Runtime for AWS Lambda
 <br><https://theam.github.io/aws-lambda-haskell-runtime/index.html>
 * HaskellCosm - curated collection of Haskell in Production
-<br><https://haskellcosm.com/>
+<br><https://haskellcosm.com>
 * I love #DerivingVia in #Haskell!
 <br><https://twitter.com/alexeyraga/status/1153520609504067584>
 * Let me demonstrate you how to create proper #Haskell #wat
@@ -292,7 +292,7 @@
 * Brave New World: Tales of PureScript and Haskell in Production
 <br><https://youtu.be/2SAQNO46V3U>
 * Higher-Kinded Data
-<br><https://reasonablypolymorphic.com/blog/higher-kinded-data/>
+<br><https://reasonablypolymorphic.com/blog/higher-kinded-data>
 * HIE Files - coming soon to a GHC 8.8
 <br><https://www.haskell.org/ghc/blog/20190626-HIEFiles.html>
 * gvolpe/exchange-rates - Querying a rate-limited currency exchange API using Redis as a cache
@@ -312,21 +312,21 @@
 * Compatibility packages
 <br><https://oleg.fi/gists/posts/2019-06-03-compat-packages.html>
 * Competitive Programming in Haskell: Scanner
-<br><https://byorgey.wordpress.com/2019/05/22/competitive-programming-in-haskell-scanner/>
+<br><https://byorgey.wordpress.com/2019/05/22/competitive-programming-in-haskell-scanner>
 * Profiling in Haskell for a 10x Speedup (xoshiro/xoroshiro PRNG)
-<br><https://blog.jez.io/profiling-in-haskell/>
+<br><https://blog.jez.io/profiling-in-haskell>
 * Integrated versus Manual Shrinking
-<br><https://www.well-typed.com/blog/2019/05/integrated-shrinking/>
+<br><https://www.well-typed.com/blog/2019/05/integrated-shrinking>
 * QuickCheck Gen is not a monad
 <br><https://stackoverflow.com/questions/24481648/quickcheck-gen-is-not-a-monad>
 * A great collection for anyone interested in digging deeper into Haskell
 <br><https://github.com/cohomolo-gy/haskell-resources>
 * Demystifying folds with ghci
-<br><https://github.com/aymannadeem/foldilocks/>
+<br><https://github.com/aymannadeem/foldilocks>
 * Haskell bindings for libarchive. Provides the ability to unpack archives, including the ability to unpack archives lazily.
 <br><http://hackage.haskell.org/package/libarchive>
 * Installing and Running Multiple GHC Versions
-<br><https://qfpl.io/posts/multiple-ghcs/>
+<br><https://qfpl.io/posts/multiple-ghcs>
 * Herbert Valerio Riedel's Ubuntu PPA from which one can install multiple GHC, cabal, happy, and alex versions
 <br><https://launchpad.net/~hvr/+archive/ubuntu/ghc>
 * pretty-printer for Haskell data types that have a Show instance
@@ -336,7 +336,7 @@
 * The Minimalist Prelude
 <br><https://medium.com/@stackdoesnotwork/the-minimalist-prelude-3e187bc834fc>
 * foldr is made of monoids
-<br><https://byorgey.wordpress.com/2012/11/05/foldr-is-made-of-monoids/>
+<br><https://byorgey.wordpress.com/2012/11/05/foldr-is-made-of-monoids>
 * The Water Jug Problem in Hedgehog
 <br><http://clrnd.com.ar/posts/2017-04-21-the-water-jug-problem-in-hedgehog.html>
 * clay: CSS preprocessor as embedded Haskell
@@ -348,19 +348,19 @@
 * A webcam server in 35 lines of Haskell
 <br><https://nokomprendo.frama.io/tuto_fonctionnel/posts/tuto_fonctionnel_25/2018-08-25-en-README.html>
 * A declarative terminal UI programming library written in Haskell
-<br><https://github.com/jtdaugherty/brick/>
+<br><https://github.com/jtdaugherty/brick>
 * Haskell add-in done right, using just GHCi, finally
 <br><https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple>
 * Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns
-<br><https://github.com/thma/LtuPatternFactory/>
+<br><https://github.com/thma/LtuPatternFactory>
 * Course material for lens by qfpl
 <br><https://github.com/data61/lets-lens>
 * waargonaut - JSON decoding/encoding/manipulation library by qfpl
 <br><https://github.com/qfpl/waargonaut>
 * Haskell's kind system - a primer
-<br><https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/>
+<br><https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer>
 * Haskell: journey from 144 min to 17 min
-<br><https://pl-rants.net/posts/haskell-opt-journey/>
+<br><https://pl-rants.net/posts/haskell-opt-journey>
 * Add the following GHC options to the top of your module to see automatically derived instances by GHC in a more human-readable way
 <br><https://twitter.com/ChShersh/status/1056825824752492544>
 * You can replace the default Prelude in #haskell with some alternative prelude quite easily with the `mixins` Cabal feature
@@ -370,9 +370,9 @@
 * ghcid for Web App Development (not really, just some nice ghcid usage)
 <br><https://functor.tokyo/blog/2019-04-07-ghcid-for-web-app-dev>
 * komposition - The video editor built for screencasters
-<br><https://owickstrom.github.io/komposition/>
+<br><https://owickstrom.github.io/komposition>
 * [ANN] Haskell code explorer: tool that helps understand Haskell codebases
-<br><https://np.reddit.com/r/haskell/comments/9layin/ann_haskell_code_explorer_tool_that_helps/><br><https://github.com/alexwl/haskell-code-explorer>
+<br><https://np.reddit.com/r/haskell/comments/9layin/ann_haskell_code_explorer_tool_that_helps><br><https://github.com/alexwl/haskell-code-explorer>
 * Writing a simple web-application
 <br><https://qnikst.github.io/posts/2018-10-09-starting-webapp.html>
 * Metric a Haskell application
@@ -398,9 +398,9 @@
 * What's new in Cabal/cabal-install 2.0 — improved new-build, Backpack, foreign libraries and more
 <br><http://coldwa.st/e/blog/2017-09-09-Cabal-2-0.html>
 * Haskell Package Versioning Policy
-<br><https://pvp.haskell.org/>
+<br><https://pvp.haskell.org>
 * Freer than Free
-<br><https://shmish111.github.io/2018/09/23/freer-than-free/>
+<br><https://shmish111.github.io/2018/09/23/freer-than-free>
 * range - a library that makes it easy to deal with ranges
 <br><https://bitbucket.org/robertmassaioli/range>
 * haskell-hedgehog's model-based state machine testing together with inline-java
@@ -408,11 +408,11 @@
 * clr-haskell
 <br><https://gitlab.com/tim-m89/clr-haskell>
 * A Guide to GHC's Extensions
-<br><https://limperg.de/ghc-extensions/>
+<br><https://limperg.de/ghc-extensions>
 * mgajda/json-autotype - Automatic Haskell type inference from JSON input
 <br><https://github.com/mgajda/json-autotype>
 * GHC User's Guide
-<br><https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/>
+<br><https://downloads.haskell.org/~ghc/latest/docs/html/users_guide>
 * Haskell/GHC symbol search cheatsheet
 <br><https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet/blob/d5ed393674b6146b7ce17778f27ad3eab896f9a6/README.md#readme>
 * Scrap Your Constructors: Church Encoding Algebraic Types
@@ -420,11 +420,11 @@
 * Frege QuickCheck
 <br><https://github.com/Frege/frege/tree/master/frege/test>
 * An in-depth look at quickcheck-state-machine
-<br><https://www.well-typed.com/blog/2019/01/qsm-in-depth/>
+<br><https://www.well-typed.com/blog/2019/01/qsm-in-depth>
 * advancedtelematic/quickcheck-state-machine
 <br><https://github.com/advancedtelematic/quickcheck-state-machine>
 * Object Oriented Programming in Haskell (without sacrificing referential transparency) using open recursion and lense
-<br><http://www.well-typed.com/blog/2018/03/oop-in-haskell/>
+<br><http://www.well-typed.com/blog/2018/03/oop-in-haskell>
 * Smart constructors that cannot fail
 <br><https://markkarpov.com/post/smart-constructors-that-cannot-fail.html>
 * Deriving the Y Combinator in Haskell
@@ -440,7 +440,7 @@
 * Fishy Documentation (awesome Haddock tutorial)
 <br><https://medium.com/@fintan.halpenny/fishy-documentation-c1b47f43bf62>
 * State Machine Testing with Echidna
-<br><https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/>
+<br><https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna>
 * BFPG talk series based on the CIS194 lecture series
 <br><https://github.com/bfpg/cis194-yorgey-lectures>
 * Haddock Markup Quick Reference
@@ -450,7 +450,7 @@
 * Validation - Several data-types like Either but with differing properties and type-class instances
 <br><https://github.com/tonymorris/validation>
 * MTL style for free
-<br><http://h2.jaguarpaw.co.uk/posts/mtl-style-for-free/>
+<br><http://h2.jaguarpaw.co.uk/posts/mtl-style-for-free>
 * GHCi's pretty-printer can be switched
 <br><https://twitter.com/thumphriees/status/819783361614876672>
 * *"Well, regarding the name, Cabal is indeed the library that all tools use, e.g. the .cabal file in a project. The bad name here is the build tool "cabal-install" because that has confused the hell out of everyone. There's three things here: a library called Cabal, a build tool called "Stack", and a build tool that should be called "some-haskell-build-tool" like maybe "haskbuilder" but is instead called "cabal-install" because it is some-build-tool-that-uses-the-Cabal-library (although that description works for Stack too). So the two tools with cabal in the name confuse everyone."*
@@ -460,11 +460,11 @@
 * Which package version do I have?
 <br><https://stackoverflow.com/q/33914073/467754>
 * An opinionated guide to Haskell in 2018
-<br><https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/>
+<br><https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018>
 * Reverse Dependencies - You choose a package and it tells you its reverse dependencies: those packages that depend upon it. It also tells you which packages are incompatible with the current version of the package
 <br><http://packdeps.haskellers.com/reverse>
 * Haskell Tools
-<br><http://haskelltools.com/>
+<br><http://haskelltools.com>
 * An introduction to parsing text in Haskell with Parsec
 <br><http://unbui.lt/#!/post/haskell-parsec-basics>
 * Real World Haskell - Chapter 16. Using Parsec
@@ -472,11 +472,11 @@
 * Parsec, a fast combinator parser
 <br><https://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec.pdf>
 * An Introduction to the Parsec Library
-<br><https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library/>
+<br><https://kunigami.blog/2014/01/21/an-introduction-to-the-parsec-library>
 * Impact on style of GHC -Wall (re-learned to write parsers in Applicative style)
 <br><http://stackoverflow.com/a/4176570/467754>
 * Intro to Parsing with Parsec in Haskell
-<br><http://jakewheat.github.io/intro_to_parsing/>
+<br><http://jakewheat.github.io/intro_to_parsing>
 * A nice example of using parsec to parse XML files
 <br><https://static.charlieharvey.org.uk/writings/ReadXML.hs.txt>
 * xleb - A simple monadic language for parsing XML structures
@@ -484,37 +484,37 @@
 * Lights are flashing, cars are crashing, getting frequent now - A small library of useful quickcheck generators, laws and other bits and pieces
 <br><https://github.com/ambiata/disorder.hs>
 * Jacob Stanley - YOW! Lambda Jam 2017 Sydney - Gens N' Roses: Appetite for Reduction
-<br><http://lambdajam.yowconference.com.au/speakers/jacob-stanley-2/><br><http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Stanley-GensNRoses.pdf>
+<br><http://lambdajam.yowconference.com.au/speakers/jacob-stanley-2><br><http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Stanley-GensNRoses.pdf>
 * State machine testing with Hedgehog
 <br><http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html><br><https://gist.github.com/thumphries/2e68275819e05a0d5e27ecb5dcd85dce>
 * Moving Beyond Types (I wrote a bit about why starting from types is the wrong API for property-based testing)
-<br><https://twitter.com/DRMacIver/status/886863724103032832/><br><http://hypothesis.works/articles/types-and-properties/>
+<br><https://twitter.com/DRMacIver/status/886863724103032832><br><http://hypothesis.works/articles/types-and-properties>
 * Haskell foreign import stdcall on DLL function
 <br><http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function>
 * FizzBuzz without modulo
 <br><https://twitter.com/thelastinstance/status/972045314851995649>
 * Get timings in GHCi
-<br><https://stackoverflow.com/questions/10342217/get-timings-in-ghci/>
+<br><https://stackoverflow.com/questions/10342217/get-timings-in-ghci>
 * Creating a GUI application in Haskell
-<br><https://www.stackbuilders.com/tutorials/haskell/gui-application/>
+<br><https://www.stackbuilders.com/tutorials/haskell/gui-application>
 * HTagLib - Haskell bindings for TagLib, an audio meta-data library
 <br><https://github.com/mrkkrp/htaglib>
 * Mark Karpov's OSS (FLAC, LAME, etc)
 <br><https://markkarpov.com/oss.html>
 * Screencasts focused on practical Haskell programming
-<br><https://haskell-at-work.com/>
+<br><https://haskell-at-work.com>
 * Effectful Haskell: IO, Monads, Functors (by Stuart Popejoy who wrote [Pact](https://github.com/kadena-io/pact)
 <br><http://slpopejoy.github.io/posts/Effectful01.html>
 * Reading Simple Haskell (see also 'An opinionated list of resources for learning Haskell')
-<br><https://soupi.github.io/rfc/reading_simple_haskell/>
+<br><https://soupi.github.io/rfc/reading_simple_haskell>
 * An opinionated list of resources for learning Haskell
 <br><https://github.com/soupi/haskell-study-plan>
 * Haskell by Example
-<br><http://lotz84.github.io/haskellbyexample/>
+<br><http://lotz84.github.io/haskellbyexample>
 * Lined-up Haskell types
-<br><https://chris-martin.github.io/haskell-aligned/>
+<br><https://chris-martin.github.io/haskell-aligned>
 * CSCI 360: Programming Languages (Fall 2016)
-<br><http://ozark.hendrix.edu/~yorgey/360/f16/>
+<br><http://ozark.hendrix.edu/~yorgey/360/f16>
 * The Curse of the Excluded Middle - "Mostly functional" programming does not work
 <br><http://queue.acm.org/detail.cfm?id=2611829>
 * How much space does an 8-bit integer occupy in C and Haskell?
@@ -538,11 +538,11 @@
 * kqr/gists/articles/simple-syntax-of-haskell.hs
 <br><https://github.com/kqr/gists/blob/master/articles/simple-syntax-of-haskell.hs>
 * One of those situations where Haskell knowledge is applied elsewhere—A monadic parser for JSON written in JavaScript (using Free Monads)
-<br><https://www.reddit.com/r/haskell/comments/68nspj/a_jsonstream_parser_in_750_bytes_thanks_free/>
+<br><https://www.reddit.com/r/haskell/comments/68nspj/a_jsonstream_parser_in_750_bytes_thanks_free>
 * Can't see the four-est for the trees
-<br><http://gigamonkeys.com/trees/>
+<br><http://gigamonkeys.com/trees>
 * Continuations From the Ground Up
-<br><http://blog.ielliott.io/continuations-from-the-ground-up/>
+<br><http://blog.ielliott.io/continuations-from-the-ground-up>
 * Modern FP with mtl
 <br><https://gist.github.com/ocharles/6b1b9440b3513a5e225e>
 * "[..] we can get the signature of foldr by reversing the arrows of unfoldr, and vice versa."
@@ -552,7 +552,7 @@
 * Roll your Own Bitcoin Exchange in Haskell
 <br><http://www.michaelburge.us/2017/08/31/roll-your-own-bitcoin-exchange.html>
 * tfausak/grawlix - Comment on Haskell documentation
-<br><https://github.com/tfausak/grawlix><br><https://grawlix.herokuapp.com/>
+<br><https://github.com/tfausak/grawlix><br><https://grawlix.herokuapp.com>
 * Monoids talk
 <br><https://docs.google.com/presentation/d/1_sD9a5-u3urGbJPuxebBQXrDtoqvKlEII3brnm0ZWb0>
 * Monoidal Parsing - Edward Kmett
@@ -588,7 +588,7 @@
 * Papers We Love Athens - Prof. Nikolaos Papaspyrou on QuickCheck. The talk was in Greek.
 <br><https://www.youtube.com/watch?v=s7lOOuvppaw>
 * Learn Haskell In One Video (incl. Cheatsheet)
-<br><http://www.newthinktank.com/2015/08/learn-haskell-one-video/>
+<br><http://www.newthinktank.com/2015/08/learn-haskell-one-video>
 * Lenses for the Mere Mortal: PureScript Edition
 <br><https://leanpub.com/lenses>
 * High-Performance Functional Programming Through Effect Rotation
@@ -598,11 +598,11 @@
 * Exceptions tutorial from IH book
 <br><https://markkarpov.com/tutorial/exceptions.html>
 * Isomorphic web apps in Haskell
-<br><https://juliendehos.gitlab.io/lillefp-2019-isomorphic/>
+<br><https://juliendehos.gitlab.io/lillefp-2019-isomorphic>
 * CaptJakk's Blob - A Practical Introduction to Freer Monads (Eff)
 <br><https://captjakk.com/posts/2019-05-12-practical-intro-eff.html>
 * Functional Design and Architecture (book)
-<br><https://graninas.com/functional-design-and-architecture-book/>
+<br><https://graninas.com/functional-design-and-architecture-book>
 * NorfairKing/looper - Run actions periodically
 <br><https://github.com/NorfairKing/looper>
 * The Functor Combinatorpedia
@@ -612,11 +612,11 @@
 * kowainik's Haskell style guide
 <br><https://kowainik.github.io/posts/2019-02-06-style-guide>
 * Very short blog post about how easy it is to build GHC locally
-<br><https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking/>
+<br><https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking>
 * haskell-hedgehog style guide
 <br><https://github.com/hedgehogqa/haskell-hedgehog/blob/master/STYLE_GUIDE.md>
 * Build Haskell Using Bazel
-<br><https://rules-haskell.readthedocs.io/en/latest/>
+<br><https://rules-haskell.readthedocs.io/en/latest>
 * A Glossary of Bazel Terminology
 <br><https://github.com/jin/bazel-glossary>
 * A cheatsheet to the time library
@@ -624,9 +624,9 @@
 * purescript-quickserve - Quickly create HTTP servers from functions!
 <br><https://github.com/paf31/purescript-quickserve>
 * The easiest way to setup a Haskell environment on Windows
-<br><https://hub.zhox.com/posts/introducing-haskell-dev/>
+<br><https://hub.zhox.com/posts/introducing-haskell-dev>
 * Managing GHC versions with ghcup
-<br><https://qfpl.io/posts/multiple-ghcs-ghcup/>
+<br><https://qfpl.io/posts/multiple-ghcs-ghcup>
 * ghcup, but for PowerShell (Windows)
 <br><https://github.com/kakkun61/ghcups>
 * hasql-th - compile-time syntax checking of queries for Postgres
@@ -660,17 +660,17 @@
 * eulerfx - Preface: functional programming "composing" concurrency may require clarification
 <br><https://github.com/hmemcpy/milewski-ctfp-pdf/issues/149>
 * Bartosz Milewski's Category Theory for Programmers
-<br><https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/><br><https://github.com/hmemcpy/milewski-ctfp-pdf>
+<br><https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface><br><https://github.com/hmemcpy/milewski-ctfp-pdf>
 * Workthrough: Category Theory for Programmers (Milewski)
 <br><https://www.johnchandlerburnham.com/posts/workthrough-category-theory-milewski.html>
 * From design patterns to category theory
-<br><http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/><br><https://cleancoders.com/videos/humane-code-real>
+<br><http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory><br><https://cleancoders.com/videos/humane-code-real>
 * Jan-Willem Buurlage's Notes on Category Theory and Haskell
-<br><https://github.com/jwbuurlage/category-theory-programmers/>
+<br><https://github.com/jwbuurlage/category-theory-programmers>
 * What is Category Theory Anyway?
 <br><http://www.math3ma.com/mathema/2017/1/17/what-is-category-theory-anyway>
 * Explaining lambda calculus to a front-end web developer
-<br><https://boxbase.org/entries/2019/aug/12/explaining-lambda-calculus-to-developer/>
+<br><https://boxbase.org/entries/2019/aug/12/explaining-lambda-calculus-to-developer>
 
 [Back to top](#)
 
@@ -679,14 +679,14 @@
 * Alejandro Serrano - GraphQL :heart: Haskell
 <br><https://www.youtube.com/watch?v=JbeqwfZ2dRc&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=1>
 * GraphQL
-<br><https://graphql.org/>
+<br><https://graphql.org>
 
 [Back to top](#)
 
 ## TypeScript ##
 
 * Typed functional programming in TypeScript
-<br><https://gcanti.github.io/fp-ts/>
+<br><https://gcanti.github.io/fp-ts>
 * JavaScript Import Syntax - Why??
 <br><https://gist.github.com/dphilipson/77872c24350a2e1b591917ae746d3438>
 
@@ -727,7 +727,7 @@
 * David Fowler @davidfowl · Nov 23 - After lots of googling, here it is, my first F# ASP.NET Core Web API #dotnet #fsharp
 <br><https://twitter.com/davidfowl/status/1330878540665982977>
 * Announcing F# 5
-<br><https://devblogs.microsoft.com/dotnet/announcing-f-5/>
+<br><https://devblogs.microsoft.com/dotnet/announcing-f-5>
 * MixinProvider - Type provider for generating and injecting F# code from compile time metaprograms
 <br><https://github.com/pezipink/MixinProvider>
 * I love working in FSI, but when working with DateTime values, the screen real estate gets eaten up so quickly. Any good way to make it just print a one liner by default?
@@ -742,7 +742,7 @@
 * Empty F# project that can be opened in Visual Studio Online or Gitpod
 <br><https://github.com/ionide/playground>
 * How does FAKE and Paket compare to Rust’s Cargo?
-<br><https://www.reddit.com/r/fsharp/comments/fh302b/how_does_fake_and_paket_compare_to_rusts_cargo/fk98h4y/>
+<br><https://www.reddit.com/r/fsharp/comments/fh302b/how_does_fake_and_paket_compare_to_rusts_cargo/fk98h4y>
 * F# Computation Expressions, 'do' notation and list comprehensions
 <br><https://github.com/dsyme/fsharp-presentations/blob/master/design-notes/ces-compared.md>
 * Experiment with F#, type holes, and type-directed search using F# Analyzers
@@ -760,7 +760,7 @@
 * If anyone interested, here is the stringBuffer CE
 <br><http://fssnip.net/7WR>
 * Applying the Tagless-Final pattern in F# Generic Programs
-<br><https://eiriktsarpalis.wordpress.com/2019/07/02/applying-the-tagless-final-pattern-in-f-generic-programs/>
+<br><https://eiriktsarpalis.wordpress.com/2019/07/02/applying-the-tagless-final-pattern-in-f-generic-programs>
 * Applying the Tagless-Final pattern in F# Generic Programs (fssnip)
 <br><http://fssnip.net/7WK>
 * Wiring #fsharp interactive from dotnet sdk 2.2.300 to @JetBrainsRider. Working like a charm
@@ -779,7 +779,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Rezoom.SQL statically typechecks a common SQL dialect and translates it to various RDBMS backends
 <br><https://github.com/rspeele/Rezoom.SQL>
 * Going Down the Property Based Testing Rabbit Hole
-<br><http://blog.mavnn.co.uk/going-down-the-property-based-testing-rabbit-hole/>
+<br><http://blog.mavnn.co.uk/going-down-the-property-based-testing-rabbit-hole>
 * F# language evolution
 <br><https://en.wikipedia.org/wiki/F_Sharp_(programming_language)#Versions>
 * Notes and Guidance on FSharp.Core
@@ -789,19 +789,19 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Free monads - A terrible way of separating pure and impure code
 <br><http://stackoverflow.com/questions/41667721/free-monad-in-f-with-generic-output-type#comment70551788_41668459>
 * Why 'object-programming' (see Twitter link below) matters in F#
-<br><https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f/>
+<br><https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f>
 * Why object-programming matters in F# (Twitter discussion)
 <br><https://twitter.com/dsyme/status/843849405212098560>
 * Domain Modeling Made Functional - Tackle Software Complexity with Domain-Driven Design and F# (Scott Wlaschin)
 <br><https://pragprog.com/book/swdddf/domain-modeling-made-functional>
 * Understanding Functional Programming
-<br><https://leanpub.com/understandingfunctionalprogramming/>
+<br><https://leanpub.com/understandingfunctionalprogramming>
 * (Nearly) Everything You Ever Wanted to Know About F# Active Patterns but were Afraid to Ask
 <br><https://www.youtube.com/watch?v=AQ-8_8hfmGE>
 * From Dependency Injection to Dependency Rejection
 <br><https://youtu.be/2qxzDOHrdqs?t=14269>
 * A great post on using F# type providers for database access on Linux
-<br><https://twitter.com/dsyme/status/888121310420754432><br><https://medium.com/@edgarsanchezg/accessing-a-relational-db-with-f-type-providers-7263d88aa640/>
+<br><https://twitter.com/dsyme/status/888121310420754432><br><https://medium.com/@edgarsanchezg/accessing-a-relational-db-with-f-type-providers-7263d88aa640>
 * How to transform OO calls into a some generic function calls
 <br><https://stackoverflow.com/q/46792722/467754>
 * F# how to pass equivalent of interface (Free Monad / `DoSomethingInstruction<'a>`)
@@ -822,7 +822,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * How to run only one unit test class using Gradle
 <br><https://stackoverflow.com/questions/22505533/how-to-run-only-one-unit-test-class-using-gradle>
 * ScalaZONE - Scala 3 Programming Language Courses
-<br><https://scala.zone/>
+<br><https://scala.zone>
 
 [Back to top](#)
 
@@ -849,29 +849,29 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * .NET debugger and assembly editor
 <br><https://github.com/0xd4d/dnSpy>
 * SharpLab
-<br><https://sharplab.io/>
+<br><https://sharplab.io>
 * Ranges proposal for C# 7.3 (Roslyn)
 <br><https://github.com/dotnet/roslyn/blob/features/range/docs/features/range.md>
 * Development workflow for Docker apps
 <br><https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/docker-application-development-process/docker-app-development-workflow>
 * The history of C#
-<br><https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-70><br><https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/>
+<br><https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-70><br><https://docs.microsoft.com/en-us/dotnet/csharp/whats-new>
 * Use command-line parameters to install Visual Studio 2017
 <br><https://docs.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio>
 * Ever wanted to inspect the Assembly code that the .NET JIT emits? Or needed to find out the exact layout of your objects in memory? There's some tools that can help
-<br><http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/>
+<br><http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals>
 * Tools built on top of CLRMD - that replace functionality of WinDBG
 <br><https://gist.github.com/mattwarren/5f1be63ab0babd65b44a910b03abc474>
 * C# language evolution
 <br><https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md><br><https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#Versions>
 * docs.microsoft.com is Microsoft's new unified technical documentation experience
-<br><https://docs.microsoft.com/en-us/>
+<br><https://docs.microsoft.com/en-us>
 * .NET Application Architecture
 <br><https://www.microsoft.com/net/learn/architecture>
 * Difference between decimal, float and double in .NET?
 <br><https://stackoverflow.com/a/618596/467754>
 * http on Stack Overflow: The End of a Long Road (don't know where else to put this one)
-<br><https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/>
+<br><https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow>
 * How .NET Standard relates to .NET Platforms?
 <br><https://gist.github.com/davidfowl/8939f305567e1755412d6dc0b8baf1b7>
 * Very cool video on the history of .NET and .NET Standard
@@ -889,7 +889,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * F# and .NET Core SDK working together
 <br><https://github.com/dotnet/netcorecli-fsc>
 * Who's actually using .net core in production?
-<br><https://www.reddit.com/r/dotnet/comments/6m88q7/whos_actually_using_net_core_in_production/>
+<br><https://www.reddit.com/r/dotnet/comments/6m88q7/whos_actually_using_net_core_in_production>
 * Creating .NET Bindings for C Libraries with ObjectiveSharpie
 <br><http://tirania.org/blog/archive/2017/Jan-18.html>
 * Automating Windows Applications Using the WCF Equipped Injected Component
@@ -903,7 +903,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Erik Meijer: Rx in 15 Minutes
 <br><https://channel9.msdn.com/Blogs/Charles/Erik-Meijer-Rx-in-15-Minutes>
 * Fixing Random, part 1
-<br><https://ericlippert.com/2019/01/31/fixing-random-part-1/>
+<br><https://ericlippert.com/2019/01/31/fixing-random-part-1>
 
 [Back to top](#)
 
@@ -912,11 +912,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * RedwoodJS - Bringing full-stack to the Jamstack
 <br><https://github.com/redwoodjs/redwood>
 * Compost.js: Composable data visualization library
-<br><https://compostjs.github.io/compost/>
+<br><https://compostjs.github.io/compost>
 * edsko.net - Writing Atom plugins in Haskell using ghcjs
-<br><http://www.edsko.net/2015/02/14/atom-haskell/>
+<br><http://www.edsko.net/2015/02/14/atom-haskell>
 * kangax's compat-table applied only to Node.js
-<br><https://node.green/>
+<br><https://node.green>
 
 [Back to top](#)
 
@@ -925,9 +925,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Tooling for converting pre 2017 project to the new Visual Studio 2017 format
 <br><https://github.com/hvanbakel/CsprojToVs2017>
 * Radicle - peer-to-peer code collaboration
-<br><https://radicle.xyz/>
+<br><https://radicle.xyz>
 * Fortunately, I don't squash my commits
-<br><https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/>
+<br><https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits>
 * git-badc0de - a tool to improve git commits you receive
 <br><https://github.com/phadej/git-badc0de>
 * Render hierarchical git repositories into HTML
@@ -935,9 +935,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Learn git concepts, not commands
 <br><https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc>
 * The Case for Pull Rebase
-<br><https://megakemp.com/2019/03/20/the-case-for-pull-rebase/>
+<br><https://megakemp.com/2019/03/20/the-case-for-pull-rebase>
 * The Case for Pull Rebase - Reddit
-<br><https://www.reddit.com/r/git/comments/b3cylh/the_case_for_pull_rebase/>
+<br><https://www.reddit.com/r/git/comments/b3cylh/the_case_for_pull_rebase>
 * Re: [git pull] drm-next - Linus on clean git history
 <br><https://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html>
 * TIL: git has a rebase.autoStash setting
@@ -958,7 +958,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * A light color scheme with minimal amount of highlighting for Sublime Text 3
 <br><https://github.com/tonsky/sublime-scheme-alabaster>
 * Porting Atom packages to VSCode? (Perhaps works also with Sublime Text?)
-<br><https://www.reddit.com/r/vscode/comments/7qins6/porting_atom_packages_to_vscode/dsrdeqb/>
+<br><https://www.reddit.com/r/vscode/comments/7qins6/porting_atom_packages_to_vscode/dsrdeqb>
 
 [Back to top](#)
 
@@ -973,15 +973,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * What does `nix-darwin` provide?
 <br><https://stackoverflow.com/a/53381974>
 * Built wit Nix - build software only once
-<br><https://builtwithnix.org/>
+<br><https://builtwithnix.org>
 * nix.dev - An opinionated guide for developers getting things done using the Nix ecosystem
 <br><https://nix.dev/index.html>
 * Deploying your application with NixOS
-<br><https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/>
+<br><https://romainviallard.dev/en/blog/deploying-your-app-with-nixos>
 * Setting up a Haskell development environment with Nix
-<br><https://romainviallard.dev/en/blog/setting-up-a-haskell-development-environment-with-nix/>
+<br><https://romainviallard.dev/en/blog/setting-up-a-haskell-development-environment-with-nix>
 * Building a Haskell Microservice
-<br><https://twonki.github.io/haskell-microservice/>
+<br><https://twonki.github.io/haskell-microservice>
 * Nix and Haskell
 <br><https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html>
 * Todo Haskell Backend API
@@ -994,7 +994,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * tealdeer - A very fast implementation of tldr in Rust
 <br><https://github.com/dbrgn/tealdeer>
 * Rewritten in Rust: Modern Alternatives of Command-Line Tools
-<br><https://zaiste.net/posts/shell-commands-rust/>
+<br><https://zaiste.net/posts/shell-commands-rust>
 * Linus Torvalds - "I don't like debuggers. Never have, probably never will."
 <br><https://lkml.org/lkml/2000/9/6/65>
 * CliWrap - Library for executing and piping shell commands
@@ -1004,11 +1004,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * explainshell - match command-line arguments to their help text
 <br><https://explainshell.com/#>
 * ShellCheck finds bugs in your shell scripts
-<br><https://www.shellcheck.net/>
+<br><https://www.shellcheck.net>
 * OMG help I have less than 1% free memory! - Don't Panic! Your ram is fine!
-<br><https://www.linuxatemyram.com/>
+<br><https://www.linuxatemyram.com>
 * Environments with Nix Shell
-<br><https://www.sam.today/blog/environments-with-nix-shell-learning-nix-pt-1/>
+<br><https://www.sam.today/blog/environments-with-nix-shell-learning-nix-pt-1>
 * Starship - The cross-shell prompt for astronauts
 <br><https://github.com/starship/starship>
 * spaceship-prompt - A Zsh prompt for Astronauts
@@ -1018,25 +1018,25 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * APFS Snapshots: How to Roll Back to a Previous Known State
 <br><https://www.lifewire.com/roll-back-apfs-snapshots-4154969>
 * Creating, managing and using Apple File System snapshots for startup drive backups
-<br><https://derflounder.wordpress.com/2019/05/08/creating-managing-and-using-apple-file-system-snapshots-for-startup-drive-backups/>
+<br><https://derflounder.wordpress.com/2019/05/08/creating-managing-and-using-apple-file-system-snapshots-for-startup-drive-backups>
 * Julia's drawings
-<br><https://drawings.jvns.ca/>
+<br><https://drawings.jvns.ca>
 * exa - A modern replacement for ls
-<br><https://the.exa.website/>
+<br><https://the.exa.website>
 * bat - A cat(1) clone with syntax highlighting and Git integration
 <br><https://github.com/sharkdp/bat>
 * Call Unix tools as regular #Swiftlang functions using the new Swift 5 `@dynamicCallable` feature
-<br><http://www.alwaysrightinstitute.com/swift-dynamic-callable/>
+<br><http://www.alwaysrightinstitute.com/swift-dynamic-callable>
 * Do stuff with (Haskell) Stack from Bash without requiring a stack.yaml file
-<br><https://www.ahri.net/practical-haskell-programs-from-scratch/>
+<br><https://www.ahri.net/practical-haskell-programs-from-scratch>
 * midipix - a development environment that lets you create programs for Windows using the standard C and POSIX APIs
-<br><https://midipix.org/>
+<br><https://midipix.org>
 * Workshop on how to use Vim Plugins
-<br><https://github.com/jez/vim-as-an-ide><br><https://blog.jez.io/haskell-development-with-neovim/>
+<br><https://github.com/jez/vim-as-an-ide><br><https://blog.jez.io/haskell-development-with-neovim>
 * Vim editor ported to WebAssembly
 <br><https://github.com/rhysd/vim.wasm>
 * The Ultimate Vim Distribution
-<br><http://vim.spf13.com/>
+<br><http://vim.spf13.com>
 * Now color-coded! Two diagrams of the Unix architecture, 50 years apart. What they tell us and how I drew them.
 <br><https://twitter.com/CoolSWEng/status/863090134232821761>
 * fzf - A command-line fuzzy finder written in Go
@@ -1056,9 +1056,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Linus Torvalds' Micro-emacs
 <br><https://news.ycombinator.com/item?id=951461>
 * Dotfiles
-<br><https://dotfiles.github.io/>
+<br><https://dotfiles.github.io>
 * Fish shell
-<br><https://fishshell.com/>
+<br><https://fishshell.com>
 * Bash glue to encrypt and hide files
 <br><https://github.com/lukechilds/chest>
 * Epic! Watching Brian Kernighan interviewing Ken Thompson where Ken appears with the geekiest t-shirt ever. T-shirt says "ΕΠΙΤΕΛΟΥΣ ΤΟ ΚΑΤΑΛΑΒΑ"
@@ -1069,7 +1069,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 ## Go
 
 * Go by Example
-<br><https://gobyexample.com/>
+<br><https://gobyexample.com>
 * Mark McGranaghan - Lessons from Stripe
 <br><https://markmcgranaghan.com/lessons-from-stripe>
 * brandur/sorg
@@ -1084,14 +1084,24 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 ## Rust
 
 * Begin Rust
-<br><https://www.beginrust.com/>
+<br><https://www.beginrust.com>
 
 [Back to top](#)
 
 ## Blockchains
 
+* Kraken Breaks New Ground with First-of-its-Kind Parachain Auction Platform
+<br><https://blog.kraken.com/post/9438/kraken-breaks-new-ground-with-first-of-its-kind-parachain-auction-platform>
+* Substrate Frontier Workshop
+<br><https://substrate.dev/frontier-workshop>
+* Substrate Blockchain Indexing Engine
+<br><https://github.com/paritytech/substrate-archive>
+* Kusama Parachain Auctions
+<br><https://polkadot.network/kusama-parachain-auctions>
+* Substrate Tutorial Catalog
+<br><https://substrate.dev/en/tutorials>
 * Build a Flash Loan Arbitrage Bot on Infura, Part II
-<br><https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii/>
+<br><https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii>
 <br><https://github.com/pedrobergamini/flashloaner-contract>
 <br><https://github.com/Uniswap/uniswap-v2-periphery/tree/master/contracts/examples>
 <br><https://github.com/Uniswap/uniswap-v2-periphery/tree/master/test>
@@ -1102,15 +1112,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * The course “Blockchain and Money" is freely available online and of critical importance this year to anyone that cares about money, #bitcoin, & the future of crypto.  Less than 1% make it thru all the lectures, but it is definitely worth your time
 <br><https://twitter.com/michael_saylor/status/1393265323370065924>
 <br><https://www.youtube.com/watch?v=EH6vE97qIP4>
-<br><https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/>
+<br><https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures>
 * 123BTC
-<br><https://123btc.org/>
+<br><https://123btc.org>
 * 123 ETH
-<br><https://123eth.org/>
+<br><https://123eth.org>
 * Gas Now - ETH Gas Price forecast system
-<br><https://www.gasnow.org/>
+<br><https://www.gasnow.org>
 * Gas Station Network - ETHless transactions made possible
-<br><https://opengsn.org/>
+<br><https://opengsn.org>
 * Blockchain Development Kit for Ethereum
 <br><https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain>
 * Seth - Seth is an Ethereum client tool—like a "MetaMask for the command line"—maintained by the DappHub collective
@@ -1124,21 +1134,21 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * flashbots/pm - existential risks posed by miner-extractable value (MEV) to smart-contract blockchains
 <br><https://github.com/flashbots/pm>
 * Crypto Logos - High Quality Cryptocurrency Logos
-<br><https://cryptologos.cc/>
+<br><https://cryptologos.cc>
 * Stacks - A better internet, built on Bitcoin
-<br><https://www.stacks.co/>
+<br><https://www.stacks.co>
 * Stacks - Docs
-<br><https://docs.blockstack.org/>
+<br><https://docs.blockstack.org>
 * BITCOIN INFORMATION & RESOURCES
 <br><https://www.lopp.net/bitcoin-information.html>
 * Use Bitcoin with confidence.
-<br><https://bitzuma.com/owning-bitcoin/>
+<br><https://bitzuma.com/owning-bitcoin>
 * Pruned Node
 <br><https://programmingblockchain.gitbook.io/programmingblockchain/wallet/pruned-node>
 * DappRadar
-<br><https://dappradar.com/>
+<br><https://dappradar.com>
 * Gnosis Safe Multisig
-<br><https://gnosis-safe.io/>
+<br><https://gnosis-safe.io>
 * Upgrading smart contracts
 <br><https://docs.openzeppelin.com/learn/upgrading-smart-contracts#initialization>
 * How to deploy Upgradable smart contract on Binance smart chain?
@@ -1146,7 +1156,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * OpenZeppelin Upgrades: Step by Step Tutorial for Hardhat
 <br><https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580>
 * TeaFiles
-<br><http://discretelogics.com/teafiles/>
+<br><http://discretelogics.com/teafiles>
 * How to design a database to store OHLC time-series of different resolutions?
 <br><https://stackoverflow.com/questions/44639415/how-to-design-a-database-to-store-ohlc-time-series-of-different-resolutions>
 * Suggest me a Database to store Tick data
@@ -1154,24 +1164,24 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * rotki - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
 <br><https://github.com/rotki/rotki>
 * EthFiddle - Solidity IDE in the browser
-<br><https://ethfiddle.com/>
+<br><https://ethfiddle.com>
 * 246 Findings From our Smart Contract Audits: An Executive Summary
-<br><https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/>
+<br><https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary>
 * Echidna, a smart fuzzer for Ethereum
-<br><https://blog.trailofbits.com/2018/03/09/echidna-a-smart-fuzzer-for-ethereum/>
+<br><https://blog.trailofbits.com/2018/03/09/echidna-a-smart-fuzzer-for-ethereum>
 * Echidna: Effective, Usable, and Fast Fuzzing for Smart Contracts
 <br><https://agroce.github.io/issta20.pdf>
 * Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit
 <br><https://arxiv.org/pdf/2003.03810.pdf>
 * Let's run on-chain decentralized exchanges the way we run prediction markets
-<br><https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/>
+<br><https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way>
 * Write a "hello world" smart contract | ethereum.org"
-<br><https://ethereum.org/en/developers/tutorials/write-hello-world-contract/>
+<br><https://ethereum.org/en/developers/tutorials/write-hello-world-contract>
 * Polkaswap - A DEX for the Interoperable Future
 <br><https://medium.com/@polkaswap/introducing-polkaswap-6f1db4003747>
 * Ethereum local development setup
-<br><https://ethereum.org/en/developers/local-environment/>
-<br><https://hardhat.org/>
+<br><https://ethereum.org/en/developers/local-environment>
+<br><https://hardhat.org>
 * Major Milestone Achieved: Polkadot and Chainlink Integration Using Substrate
 <br><https://medium.com/polkadot-network/major-milestone-achieved-polkadot-and-chainlink-integration-using-substrate-f70937887c49>
 * smartcontractkit/chainlink-polkadot - polkadot and substrate chains interact with chainlink
@@ -1179,49 +1189,49 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Polkadot's Substrate 2.0 integrates oracles at a protocol level
 <br><https://cointelegraph.com/news/polkadot-s-substrate-2-0-integrates-oracles-at-a-protocol-level>
 * dapp.tools - Command-line-friendly tools for blockchain development
-<br><https://dapp.tools/>
+<br><https://dapp.tools>
 * OpenZeppelin Contracts - Battle-tested libraries of smart contracts
-<br><https://openzeppelin.com/contracts/>
+<br><https://openzeppelin.com/contracts>
 * Elements - An open source, sidechain-capable blockchain platform
-<br><https://elementsproject.org/>
+<br><https://elementsproject.org>
 * freqtrade - Free, open source crypto trading bot https://www.freqtrade.io
 <br><https://github.com/freqtrade/freqtrade>
 * Token.io - Token provides access to banking infrastructure, allowing developers to easily make bank direct payments, retrieve information, and request authorization from end-users.
-<br><https://developer.token.io/>
+<br><https://developer.token.io>
 * Introducing the Digital Asset Modeling Language: A Powerful Alternative to Smart Contracts for Financial Institutions
 <br><http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions>
 * Arbitrage - What it is and how it works
 <br><https://bitcoin.stackexchange.com/a/49820/66541>
 * Bitcoinity.org - Abritrage matrix, markets, and more
-<br><https://bitcoinity.org/>
+<br><https://bitcoinity.org>
 * Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 <br><https://github.com/butor/blackbird>
 * R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript
 <br><https://github.com/bitrinjani/r2>
 * Adjoint Open Source
-<br><https://adjoint-io.github.io/>
+<br><https://adjoint-io.github.io>
 * Adjoint Uplink - Here is a contract to exchange USD for tokens between 2 accounts
 <br>https://github.com/adjoint-io/uplink/issues/31
 <br>https://gist.github.com/digitalronin/22137b3f0dca492652588480c1f0c978
 <br>https://gist.github.com/digitalronin/7329f163a42403cc6bece33cf68bffaa
 * CoinAPI - A platform which provides fast, reliable and unified data APIs to cryptocurrency markets
-<br><https://www.coinapi.io/>
+<br><https://www.coinapi.io>
 * Merkle Trees and Merkle Proofs
 <br><https://github.com/adjoint-io/merkle-tree>
 * A minimal viable blockchain
 <br><https://github.com/adjoint-io/nanochain>
 * My Crypto Guide - The Definitive Crypto guide for Beginners and Veterans Alike
-<br><https://mycrypto.guide/>
+<br><https://mycrypto.guide>
 * CCRG - The Cryptocurrency Research Group
-<br><http://ccrg.org/>
+<br><http://ccrg.org>
 * Why Haskellers should be interested in 'Smart Contracts'
 <br><http://web.archive.org/web/20180422223722/http://www.stephendiehl.com/posts/smart_contracts.html>
 * About Ethereum
-<br><https://consensys.net/ethereum/>
+<br><https://consensys.net/ethereum>
 * Bitcoin: A Peer-to-Peer Electronic Cash System, Satoshi Nakamoto, October 31, 2008
-<br><http://nakamotoinstitute.org/bitcoin/>
+<br><http://nakamotoinstitute.org/bitcoin>
 * Blockchain 101 - A Visual Demo
-<br><https://anders.com/blockchain/>
+<br><https://anders.com/blockchain>
 * Programming The Blockchain in C#
 <br><https://github.com/ProgrammingBlockchain>
 * Thomas Dietert - Introduction to Cryptocurrencies in Haskell
@@ -1234,23 +1244,23 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Adjoint Blog
 <br><https://www.adjoint.io/posts.html>
 * Live price charts and market data for Bitcoin, Ethereum, and more
-<br><https://cryptowat.ch/>
+<br><https://cryptowat.ch>
 * Coinbase Bundle
 <br><https://www.coinbase.com/coinbase-bundle>
 * Coinbase Index Fund
-<br><https://am.coinbase.com/>
+<br><https://am.coinbase.com>
 * TX Highway - Live Bitcoin Cash vs Bitcoin Core Transaction Visualizer
-<br><https://txhighway.com/>
+<br><https://txhighway.com>
 * The Hopepage
-<br><https://www.thehopepage.org/>
+<br><https://www.thehopepage.org>
 * miscreant - Misuse-resistant symmetric encryption library with AES-SIV (RFC 5297) and AES-PMAC-SIV support
 <br><https://github.com/miscreant/miscreant>
 * Talk: Git as Blockchain
 <br><https://ndcsydney.com/talk/git-as-blockchain>
 * Messari - Crypto News, Pricing, and Research
-<br><https://messari.io/>
+<br><https://messari.io>
 * Stablecoin Index
-<br><https://stablecoinindex.com/>
+<br><https://stablecoinindex.com>
 * A guide to available tools and platforms for developing on Ethereum.
 <br><https://github.com/ConsenSys/ethereum-developer-tools-list>
 * Support for Ethereum, Ripple, EOS
@@ -1274,7 +1284,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Bellman-Form-BTCe-Arbitrager - Runs the bellman-ford algorithm against bitcoin exchanges (currently Btc-e.com) to detect arbitrageable trade cycles.
 <br><https://github.com/a-r-d/Bellman-Form-BTCe-Arbitrager>
 * thanhnguyennguyen/trading-indicator - combines ccxt and technicalindicators
-<br><https://github.com/thanhnguyennguyen/trading-indicator/>
+<br><https://github.com/thanhnguyennguyen/trading-indicator>
 
 
 [Back to top](#)
@@ -1286,35 +1296,35 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * remove.bg/upload - Upload an image to remove the background
 <br><https://www.remove.bg/upload>
 * TradingGYM - Trading Simulator
-<br><https://tradinggym.app/>
+<br><https://tradinggym.app>
 * Wave Pcm Upconvert Player -　Copyright (C) 2011-2020 YUKI-SAN
-<br><http://wpup.html.xdomain.jp/>
+<br><http://wpup.html.xdomain.jp>
 * Sony IER-NW500NE/BM(SET), A2186775A - EET Europarts
 <br><https://eu.eetgroup.com/i/A2186775A-Sony-IER-NW500NE-BMSET>
 * Sony NW-A40 Series NW-A45/A46/A47 | Page 106 | Headphone Reviews and Discussion - Head-Fi.org (Firmware, A40Series Reloaded (2.00))
 <br><https://www.head-fi.org/threads/sony-nw-a40-series-nw-a45-a46-a47.854779/page-106>
 * MQA technical analysis - General Forum - Audiophile Style
-<br><https://audiophilestyle.com/forums/topic/30572-mqa-technical-analysis/>
+<br><https://audiophilestyle.com/forums/topic/30572-mqa-technical-analysis>
 * journal.stuffwithstuff.com - source code
 <br><https://github.com/munificent/journal>
 * GitHub actions for Haskell CI
 <br><https://markkarpov.com/post/github-actions-for-haskell-ci.html>
 * TensorFlow, Keras and deep learning, without a PhD
-<br><https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
+<br><https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist>
 * Daring Fireball: The iPad Magic Keyboard
 <br><https://daringfireball.net/2020/04/the_ipad_magic_keyboard>
 * Why I Haven’t Fixed Your Issue Yet
-<br><https://www.michaelbromley.co.uk/blog/why-i-havent-fixed-your-issue-yet/>
+<br><https://www.michaelbromley.co.uk/blog/why-i-havent-fixed-your-issue-yet>
 * Falsehoods programmers believe about time
 <br><https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca>
 * http://www.2l.no/hires/ - HiRes Download - test bench
-<br><http://www.2l.no/hires/>
+<br><http://www.2l.no/hires>
 * Upsampling MQA files to original resolution with sox will sound like the original resolution
-<br><https://audiophilestyle.com/forums/topic/33766-upsampling-mqa-files-to-original-resolution-with-sox-will-sound-like-the-original-resolution/>
+<br><https://audiophilestyle.com/forums/topic/33766-upsampling-mqa-files-to-original-resolution-with-sox-will-sound-like-the-original-resolution>
 * microsoft/PowerToys - FancyZones Overview
 <br><https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview>
 * SRC Comparisons
-<br><https://src.infinitewave.ca/>
+<br><https://src.infinitewave.ca>
 * Poor resampling quality in SHOUTcast stream
 <br><http://forums.winamp.com/showthread.php?t=355463>
 * EZ CD Audio Converter (SRC)
@@ -1324,15 +1334,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Command-line program to download videos from YouTube.com and other video sites
 <br><https://github.com/ytdl-org/youtube-dl>
 * CSEP521, Winter 2013 Lecture Archives
-<br><https://courses.cs.washington.edu/courses/csep521/13wi/video/>
+<br><https://courses.cs.washington.edu/courses/csep521/13wi/video>
 * A Primer on Why the Chronic Suffering of the VB.NET Community is neither Necessary nor a Matter of Expense or Practicality
-<br><https://anthonydgreen.net/2020/03/15/a-primer-on-why-the-chronic-suffering-of-the-vb-net-community-is-neither-necessary-nor-a-matter-of-expense-or-practicality/>
+<br><https://anthonydgreen.net/2020/03/15/a-primer-on-why-the-chronic-suffering-of-the-vb-net-community-is-neither-necessary-nor-a-matter-of-expense-or-practicality>
 * Build your own (insert technology here)
 <br><https://github.com/danistefanovic/build-your-own-x>
 * 24/192 Music Downloads...and why they make no sense
 <br><https://people.xiph.org/~xiphmont/demo/neil-young.html>
 * Provenance Series: #1 Madonna
-<br><http://bobtalks.co.uk/blog/provenance/provenance-series-1-madonna/>
+<br><http://bobtalks.co.uk/blog/provenance/provenance-series-1-madonna>
 * If you're gonna write a comment, you'd better make it count
 <br><https://twitter.com/ecampidoglio/status/1135445478471032833>
 * Want a cool trick to stop people using SELECT *  ? Add an illegal computed column to the end of the table definition
@@ -1340,7 +1350,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * One of the most useful ways to categorize type systems is: is it Hindley-Milner based? (Rust, Haskell, OCaml) or does it support implicit subtyping (TypeScript, Flow, C#)? The first: 1 expression <-> at most 1 type. The second: 1 expression <-> multiple types. A thread 👇
 <br><https://twitter.com/javierwchavarri/status/1082597155628568577>
 * Keep a Changelog - Don't let your friends dump git logs into changelogs
-<br><https://keepachangelog.com/>
+<br><https://keepachangelog.com>
 * The Problem with Software: Why Smart Engineers Write Bad Code
 <br><https://www.goodreads.com/review/show/2746187450>
 * Windows 95 in Electron. Runs on macOS, Linux, and Windows.
@@ -1348,17 +1358,17 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Terminal based YouTube player and downloader
 <br><https://github.com/mps-youtube/mps-youtube>
 * 1Password. Go ahead. Forget your passwords.
-<br><https://1password.com/>
+<br><https://1password.com>
 * mermaid - A simple markdown-like script language for generating charts from text via javascript
-<br><https://mermaidjs.github.io/>
+<br><https://mermaidjs.github.io>
 * Hyperpolyglot - Programming Languages - Cmmonly used features in a side-by-side format
-<br><http://hyperpolyglot.org/>
+<br><http://hyperpolyglot.org>
 * 1.1.1.1 — the Internet's Fastest, Privacy-First DNS Resolver
-<br><https://1.1.1.1/>
+<br><https://1.1.1.1>
 * Volkswagen - detects when your tests are being run in a CI server, and makes them pass
 <br><https://github.com/auchenberg/volkswagen>
 * Why Time Flies - Maximilian Kiener
-<br><http://www.maximiliankiener.com/digitalprojects/time/>
+<br><http://www.maximiliankiener.com/digitalprojects/time>
 * I quit my job today & my coworker told me to find my "Ikigai". Thought this was awesome so just wanted to share
 <br><https://twitter.com/rachelpage13/status/1034903963944898560>
 * We rely on 15 people to do our science. Without them matplotlib, numpy and pandas would not be maintained.
@@ -1377,15 +1387,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * A great demonstration of why we need to plot the data and never trust statistics tables!
 <br><https://www.autodeskresearch.com/publications/samestats>
 * The Internet Archive has digitized 25,000 78rpm Gramophone records
-<br><http://great78.archive.org/preservation/>
+<br><http://great78.archive.org/preservation>
 * Neil Orkin - YouTube
 <br><https://www.youtube.com/channel/UCNruZLVvoB-3nSwmv5Fs1Jg>
 * High Fidelity Phonograph Cartridge - Technical Seminar
 <br><http://www.shure.com/americas/support/find-an-answer/high-fidelity-phonograph-cartridge-technical-seminar>
 * LG G7 ThinQ Smartphone Features QUAD DAC™ Audiophile Performance from ESS Technology
-<br><http://www.esstech.com/index.php/en/news/newsroom/lg-g7-thinq/>
+<br><http://www.esstech.com/index.php/en/news/newsroom/lg-g7-thinq>
 * SABRE HiFi Mobile DACs
-<br><http://www.esstech.com/index.php/en/products/sabre-digital-analog-converters/sabre-hifi-mobile-dacs/>
+<br><http://www.esstech.com/index.php/en/products/sabre-digital-analog-converters/sabre-hifi-mobile-dacs>
 * Did Sony’s Chief Sound Architect just tell me they can’t hear or measure the difference between upsampled 248k files and true high-res audio? Wow.
 <br><http://www.avhub.com.au/news/sound-image/did-sony8217s-chief-sound-architect-just-tell-me-they-can8217t-hear-or-measure-the-difference-between-upsampled-248k-files-and-true-high-res-audio-wow-437891>
 * Hoerboard – Pro Audio & DJ Furniture
@@ -1393,9 +1403,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * The Elements of Style
 <br><https://en.wikipedia.org/wiki/The_Elements_of_Style>
 * The Annotated Turing
-<br><https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/>
+<br><https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055>
 * Response Curves of Analog Recorders - Jack Endino
-<br><http://www.endino.com/graphs/>
+<br><http://www.endino.com/graphs>
 * Juno Records
   *(Last checked)*
   <br>BOTTIN
@@ -1411,7 +1421,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * LUKE FAIR dj sets by bringthebeats
 <br><https://soundcloud.com/bringthebeats/sets/luke-fair-dj-sets>
 * AFEM Approved DJ Download Sites
-<br><https://www.associationforelectronicmusic.org/afem-approved-dj-download-sites/>
+<br><https://www.associationforelectronicmusic.org/afem-approved-dj-download-sites>
 * Transitions - presented by John Digweed - Episode Listing - DI.FM
 <br><https://www.di.fm/shows/transitions>
 * Transitions with John Digweed - Shows - Proton Radio
@@ -1425,34 +1435,34 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Last show on Kiss tonight after over 10 years at the station - Transitions continues worldwide in over 40 countries
 <br><https://twitter.com/DJJohnDigweed/status/21251750392504320>
 * Mixriot - archive of dance music, DJ mixes, and digital performances.
-<br><https://www.mixriot.com/>
+<br><https://www.mixriot.com>
 * Global Underground Series (001 - 027)
-<br><http://95.211.186.214/Incoming/djmixes_collection_by_oVPN.to/Global%20Underground/>
+<br><http://95.211.186.214/Incoming/djmixes_collection_by_oVPN.to/Global%20Underground>
 * audiokeychain - AudioKeychain: Song Key Finder
-<br><https://www.audiokeychain.com/>
+<br><https://www.audiokeychain.com>
 * Tomahawk, the multi-source music player
 <br><https://github.com/tomahawk-player/tomahawk>
 * Open Tower
-<br><https://open-tower.com/>
+<br><https://open-tower.com>
 * carbon - Create and share beautiful images of your source code
 <br><https://carbon.now.sh>
 * Journal theme
-<br><https://journal.jekyllthemes.io/>
+<br><https://journal.jekyllthemes.io>
 * Designing 2D graphics in the Japanese industry
 <br><https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-the-japanese-industry>
 * Super Freakonomics
 <br><https://www.amazon.com/Super-Freakonomics-Patriotic-Prostitutes-Insurance/dp/0060889578>
 * Never waste Hours on finding the perfect Color Palette again!
-<br><https://mycolor.space/>
+<br><https://mycolor.space>
 * lol what a great definition of 'eventual consistency'
 <br><https://twitter.com/mykola/status/1101337299525267457>
 * S3Express: Amazon S3 Command Line Utility
-<br><https://www.s3express.com/>
+<br><https://www.s3express.com>
 * THE LEGASOV TAPES - This blog is dedicaded to the text that comes from academician V.Legasov audio tapes which he recorded after the Chernobyl accident and not long before his death.
-<br><https://legasovtapetranslation.blogspot.com/>
+<br><https://legasovtapetranslation.blogspot.com>
 <br><http://www.pseudology.org/razbory/Legasov/00.htm>
 * XiVero MusicScope
-<br><https://www.xivero.com/tutorial-how-to-analyze-any-audio-format/>
+<br><https://www.xivero.com/tutorial-how-to-analyze-any-audio-format>
 * Emotiva XPS-1 high-performance phono preamplifier
 <br><https://emotiva.com/products/xps-1>
 
