@@ -1090,6 +1090,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* SOPR (Spent Output Profit Ratio)
+<br><https://academy.glassnode.com/indicators/sopr/sopr-spent-output-profit-ratio>
 * Kraken Breaks New Ground with First-of-its-Kind Parachain Auction Platform
 <br><https://blog.kraken.com/post/9438/kraken-breaks-new-ground-with-first-of-its-kind-parachain-auction-platform>
 * Substrate Frontier Workshop
