@@ -693,6 +693,9 @@
 [Back to top](#)
 
 ## C# ##
+
+* dotnet-repl
+<br><https://github.com/jonsequitur/dotnet-repl>
 * 18 years of .NET development and I had no idea you could do this (DefineConstants)
 <br><https://twitter.com/mikehadlow/status/1299373209981276165>
 * fsharpforfunandprodit-ddd style in C# 9
