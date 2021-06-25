@@ -1093,6 +1093,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies (PSBTs, etc)
+<br><https://bitcoinops.org/en/topics/psbt/>
 * SOPR (Spent Output Profit Ratio)
 <br><https://academy.glassnode.com/indicators/sopr/sopr-spent-output-profit-ratio>
 * Kraken Breaks New Ground with First-of-its-Kind Parachain Auction Platform
