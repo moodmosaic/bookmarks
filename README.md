@@ -1095,6 +1095,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies (PSBTs, etc)
 <br><https://bitcoinops.org/en/topics/psbt/>
+* The table below grades Bitcoin, gold and fiat money (such as dollars) against the attributes listed above
+<br><https://twitter.com/Sureshsinghn/status/1405814723384332288>
 * SOPR (Spent Output Profit Ratio)
 <br><https://academy.glassnode.com/indicators/sopr/sopr-spent-output-profit-ratio>
 * Kraken Breaks New Ground with First-of-its-Kind Parachain Auction Platform
