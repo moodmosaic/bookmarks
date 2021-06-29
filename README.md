@@ -1093,6 +1093,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back.
+<br><https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e>
 * Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies (PSBTs, etc)
 <br><https://bitcoinops.org/en/topics/psbt/>
 * The table below grades Bitcoin, gold and fiat money (such as dollars) against the attributes listed above
