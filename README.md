@@ -934,6 +934,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Microsoft + Node.js Guidelines
+<br><https://github.com/microsoft/nodejs-guidelines>
 * RedwoodJS - Bringing full-stack to the Jamstack
 <br><https://github.com/redwoodjs/redwood>
 * Compost.js: Composable data visualization library
