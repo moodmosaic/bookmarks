@@ -24,6 +24,8 @@
 
 ## C/C++
 
+* Why use double indirection? or Why use pointers to pointers?
+<br><https://stackoverflow.com/a/5580952>
 * jq - lightweight and flexible command-line JSON processor, written in portable C
 <br><https://stedolan.github.io/jq>
 * C Programming Language, 2nd Edition *(K&R C)*
