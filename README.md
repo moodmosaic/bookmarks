@@ -52,6 +52,8 @@
 
 ## Haskell
 
+* Haskell Books: This page provides a tagged index of English books related to the Haskell programming language.
+<br><https://www.extrema.is/articles/haskell-books>
 * Graham Hutton's Haskell videos on YouTube
 <br><https://www.youtube.com/c/GrahamHuttonNotts/videos?view=0&sort=da>
 * API JSON calls with Haskell
@@ -717,6 +719,8 @@
 
 ## F# ##
 
+* OCaml Programming: Correct + Efficient + Beautiful
+<br><https://cs3110.github.io/textbook/cover.html>
 * Playing some song with F#!
 <br><https://twitter.com/adelarsq/status/1398847484399587329>
 * Do you want to manipulate Yaml files on F#? It's easy with YamlConfig type provider!
