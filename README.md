@@ -1130,6 +1130,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Rust
 
+* The Rust Programming Language book
+<br><https://doc.rust-lang.org/book/>
 
 [Back to top](#)
 
