@@ -21,6 +21,7 @@
 * [Rust](#rust)
 * [Blockchains](#blockchains)
 * [Leisure](#leisure)
+* [MSSQL](#mssql)
 
 ## C/C++
 
@@ -42,6 +43,13 @@
 <br><https://github.com/silentbicycle/theft>
 * Throw The Switch - C Code That Doesn't Suck
 <br><https://github.com/ThrowTheSwitch>
+
+[Back to top](#)
+
+## MSSQL
+
+* Cannot truncate table because it is being referenced by a FOREIGN KEY constraint?
+<br><https://stackoverflow.com/a/24706210>
 
 [Back to top](#)
 
