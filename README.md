@@ -55,6 +55,8 @@
 
 ## Python
 
+* What is the meaning of single and double underscore before an object name?
+<br><https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name#comment62071537_1301369>
 * Diagrams - Diagrams lets you draw the cloud system architecture in Python code.
 <br><https://diagrams.mingrammer.com>
 
