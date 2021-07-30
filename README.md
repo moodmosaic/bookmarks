@@ -59,6 +59,8 @@
 <br><https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name#comment62071537_1301369>
 * rhettinger/Python's Class Development Toolkit
 <br><https://www.youtube.com/watch?v=HTLu2DFOdTg>
+* rhettinger/modernpython
+<br><https://github.com/rhettinger/modernpython>
 * Diagrams - Diagrams lets you draw the cloud system architecture in Python code.
 <br><https://diagrams.mingrammer.com>
 
