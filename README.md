@@ -68,6 +68,8 @@
 
 ## Haskell
 
+* Quickstrom - Writing Your First Specification
+<br><https://docs.quickstrom.io/en/latest/tutorials/cloud/first.html>
 * Haskell Books: This page provides a tagged index of English books related to the Haskell programming language.
 <br><https://www.extrema.is/articles/haskell-books>
 * Graham Hutton's Haskell videos on YouTube
