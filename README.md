@@ -934,6 +934,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Mozilla JavaScript/Reference
+<br><https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference>
 * Microsoft + Node.js Guidelines
 <br><https://github.com/microsoft/nodejs-guidelines>
 * RedwoodJS - Bringing full-stack to the Jamstack
