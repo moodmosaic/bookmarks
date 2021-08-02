@@ -934,6 +934,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Mozilla JavaScript/Guide
+<br><https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide>
 * Mozilla JavaScript/Reference
 <br><https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference>
 * Microsoft + Node.js Guidelines
