@@ -22,6 +22,7 @@
 * [Blockchains](#blockchains)
 * [Leisure](#leisure)
 * [MSSQL](#mssql)
+* [Microsoft Visual Studio](#microsoft-visual-studio)
 
 ## C/C++
 
@@ -981,6 +982,13 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/git-school/visualizing-git>
 * Talk: Git as Blockchain
 <br><https://ndcsydney.com/talk/git-as-blockchain>
+
+[Back to top](#)
+
+## Microsoft Visual Studio
+
+* Add Visual Studio editor support for other languages
+<br><https://docs.microsoft.com/en-us/visualstudio/ide/adding-visual-studio-editor-support-for-other-languages>
 
 [Back to top](#)
 
