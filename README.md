@@ -1030,6 +1030,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* oclif - The Open CLI Framework
+<br><https://oclif.io/>
 * tealdeer - A very fast implementation of tldr in Rust
 <br><https://github.com/dbrgn/tealdeer>
 * Rewritten in Rust: Modern Alternatives of Command-Line Tools
