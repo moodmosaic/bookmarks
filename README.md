@@ -1109,6 +1109,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* Let's Go! A start-to-finish guide to building web apps with Go
+<br><https://lets-go.alexedwards.net/>
 * Go by Example
 <br><https://gobyexample.com>
 * Mark McGranaghan - Lessons from Stripe
