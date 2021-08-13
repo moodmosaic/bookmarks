@@ -1109,6 +1109,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* Go Resources / An Introduction to Programming in Go
+<br><https://www.golang-book.com/books/intro>
 * Let's Go! A start-to-finish guide to building web apps with Go
 <br><https://lets-go.alexedwards.net/>
 * Go by Example
