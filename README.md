@@ -1320,12 +1320,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://stablecoinindex.com>
 * A guide to available tools and platforms for developing on Ethereum.
 <br><https://github.com/ConsenSys/ethereum-developer-tools-list>
-* Support for Ethereum, Ripple, EOS
-<br><https://github.com/Nethereum/Nethereum>
-<br><https://github.com/GetScatter/eos-sharp>
-<br><https://github.com/SNIKO/eosnet>
-<br><https://github.com/ripple/ripple-dot-net>
-<br><https://github.com/chriswill/RippleDotNet>
 * CCXWS - Subset of CCXT w. WebSockets
 <br> https://github.com/altangent/ccxws
 * Arbitrage bot that currently works on bittrex & poloniex
