@@ -1130,8 +1130,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Rust
 
-* Begin Rust
-<br><https://www.beginrust.com>
 
 [Back to top](#)
 
