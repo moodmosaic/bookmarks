@@ -69,6 +69,14 @@
 
 ## Haskell
 
+* This is worth it! Core Haskell tools
+<br><https://gilmi.me/blog/post/2021/08/14/hs-core-tools>
+* State Machine Testing in Hedgehog
+<br><https://www.youtube.com/watch?v=LCaNfT8WiPw>
+* Sandwich - Yet another test framework for Haskell
+<br><https://github.com/codedownio/sandwich>
+* fromMaybe is Just a fold
+<br><https://danso.ca/blog/frommaybe-is-just-a-fold/>
 * Quickstrom - Writing Your First Specification
 <br><https://docs.quickstrom.io/en/latest/tutorials/cloud/first.html>
 * Haskell Books: This page provides a tagged index of English books related to the Haskell programming language.
@@ -738,6 +746,10 @@
 
 ## F# ##
 
+* ASP.NET Community Standup - Building ASP.NET Core apps in F#
+<br><https://www.youtube.com/watch?v=JuIq7mU50jA>
+* Don Teaches Guido F# | #dotNETConf: Focus on F#
+<br><https://www.youtube.com/watch?v=e2J9PGC-K1E>
 * OCaml Programming: Correct + Efficient + Beautiful
 <br><https://cs3110.github.io/textbook/cover.html>
 * Playing some song with F#!
@@ -1147,6 +1159,20 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* OpenZeppelin - Test Environment: Blazing fast smart contract testing. One-line setup for an awesome testing experience.
+<br><https://docs.openzeppelin.com/test-environment>
+* Bitcoin / Lightning - LN Markets docs
+<br><https://docs.lnmarkets.com/docs/step>
+* lnbook/lnbook - Mastering the Lightning Network (LN)
+<br><https://github.com/lnbook/lnbook>
+* ultra sound awakening - track ETH become ultra sound
+<br><https://ultrasound.money>
+* Mempool Explorer - Example 1
+<br><https://explorer.blocknative.com/?v=1.27.1&0=ethereum&1=main&s=%7B%22name%22%3A%22UNI%22%2C%22address%22%3A%220x1f9840a85d5af5bf1d1762f925bdaddc4201f984%22%7D&fr=%7B%22contractCall.decimalValue%22%3A%7B%22gte%22%3A500%7D%7D>
+* Mempool Explorer - Example 2
+<br><https://explorer.blocknative.com/?v=1.27.1&0=ethereum&1=main&s=%7B%22name%22%3A%22USDT-ETH+Pool+%E2%80%94+Uniswap+V2%22%2C%22address%22%3A%220x0d4a11d5eeaac28ec3f61d100daf4d40471f1852%22%7D&s=%7B%22name%22%3A%22USDT-ETH+Pool+%E2%80%94+Uniswap+V3%22%2C%22address%22%3A%220x4e68ccd3e89f51c3074ca5072bbac773960dfa36%22%7D>
+* How to Verify an Electrum Download on Windows
+<br><https://bitzuma.com/posts/how-to-verify-an-electrum-download-on-windows>
 * Awesome zero knowledge proofs (zkp)
 <br><https://github.com/matter-labs/awesome-zero-knowledge-proofs>
 * Find your way on Pancake Github
