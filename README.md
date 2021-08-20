@@ -1142,7 +1142,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Boiler plate for Uniswap v2 flash loans (and flash swaps)
 <br><https://github.com/Austin-Williams/uniswap-flash-swapper>
 * Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies (PSBTs, etc)
-<br><https://bitcoinops.org/en/topics/psbt/>
+<br><https://bitcoinops.org/en/topics/psbt>
 * The table below grades Bitcoin, gold and fiat money (such as dollars) against the attributes listed above
 <br><https://twitter.com/Sureshsinghn/status/1405814723384332288>
 * SOPR (Spent Output Profit Ratio)
@@ -1278,7 +1278,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * A minimal viable blockchain
 <br><https://github.com/adjoint-io/nanochain>
 * My Crypto Guide - The Definitive Crypto guide for Beginners and Veterans Alike
-<br><https://mycrypto.guide>
+<br><http://web.archive.org/web/20200514193042/https://mycrypto.guide>
 * CCRG - The Cryptocurrency Research Group
 <br><http://ccrg.org>
 * Why Haskellers should be interested in 'Smart Contracts'
