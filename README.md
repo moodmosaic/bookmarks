@@ -935,6 +935,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Fluid Framework: Operational Transformation by Microsoft
+<br><https://fluidframework.com/docs/start/quick-start/>
 * Mozilla JavaScript/Guide
 <br><https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide>
 * Mozilla JavaScript/Reference
