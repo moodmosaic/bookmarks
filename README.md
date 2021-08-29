@@ -1159,6 +1159,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Pangolin - A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution.
+<br><https://github.com/pangolindex>
 * What Sets Avalanche Apart From Other Blockchains?
 <br><https://cryptoseq.medium.com/what-sets-avalanche-apart-from-other-blockchains-3c5f4a4c0889>
 * OpenZeppelin - Test Environment: Blazing fast smart contract testing. One-line setup for an awesome testing experience.
