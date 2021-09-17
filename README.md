@@ -1159,6 +1159,18 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* nvk/walletsrecovery.org - Giving users their seed phrase is not enough
+<br><https://github.com/nvk/walletsrecovery.org>
+* Cryptography Toolkit - A web-based collection of cryptography tools for schemes/algorithms used in Bitcoin and LND
+<br><https://guggero.github.io/cryptography-toolkit>
+* Timeline of the Lightning Network
+<br><https://gcomte.github.io/lightning-timeline>
+* Bitcoin's Lightning Network, Simply Explained!
+<br><https://www.youtube.com/watch?v=rrr_zPmEiME>
+* mempool.space
+<br><https://mempool.space/>
+* dethcrypto/TypeChain
+<br><https://github.com/dethcrypto/TypeChain>
 * Ropsten Ethereum (rETH) Faucet
 <br><https://faucet.dimensions.network/>
 * Pangolin - A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution.
