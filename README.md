@@ -1159,6 +1159,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* 8 Ways of Reducing the Gas Consumption of your Smart Contracts
+<br><https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a>
+* (Almost) Everything you need to know about Optimistic Rollup
+<br><https://research.paradigm.xyz/rollups>
 * nvk/walletsrecovery.org - Giving users their seed phrase is not enough
 <br><https://github.com/nvk/walletsrecovery.org>
 * Cryptography Toolkit - A web-based collection of cryptography tools for schemes/algorithms used in Bitcoin and LND
