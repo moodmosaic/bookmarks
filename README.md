@@ -69,6 +69,10 @@
 
 ## Haskell
 
+* tfausak/evoke -  GHC plugin that automatically derives type class instances without using generics or Template Haskell
+<br><https://github.com/tfausak/evoke>
+* Magical Haskell - modern functional programming and type theory in a fun and accessible way
+<br><https://leanpub.com/magicalhaskell>
 * This is worth it! Core Haskell tools
 <br><https://gilmi.me/blog/post/2021/08/14/hs-core-tools>
 * State Machine Testing in Hedgehog
