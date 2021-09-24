@@ -859,6 +859,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 *(and some Java as well, for now)*
 
+* jetCheck is a property-based testing library for Java 8+, inspired by QuickCheck and Hypothesis. (Simple Java!)
+<br><https://github.com/JetBrains/jetCheck>
 * Gradle command-line interface
 <br><https://docs.gradle.org/current/userguide/command_line_interface.html>
 * How to run only one unit test class using Gradle
