@@ -69,6 +69,8 @@
 
 ## Haskell
 
+* lazamar/haskell-docs-cli - Browse Hackage from the terminal
+<br><https://github.com/lazamar/haskell-docs-cli>
 * tfausak/evoke -  GHC plugin that automatically derives type class instances without using generics or Template Haskell
 <br><https://github.com/tfausak/evoke>
 * Magical Haskell - modern functional programming and type theory in a fun and accessible way
