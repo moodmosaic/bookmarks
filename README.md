@@ -1131,6 +1131,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* miguelmota/golang-for-nodejs-developers
+<br><https://github.com/miguelmota/golang-for-nodejs-developers>
 * miguelmota/ethereum-development-with-go-book
 <br><https://github.com/miguelmota/ethereum-development-with-go-book>
 * praetorian-inc/gokart
