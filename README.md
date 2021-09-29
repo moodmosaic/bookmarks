@@ -1421,6 +1421,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Awesome, minimalistic blog using just a github repo and jekyll config
+<br><https://github.com/simontreanor/blog>
 * Sounds Good to Me - Up Till Late Edit
 <br><https://open.spotify.com/track/4KRoTgkiQlAirrghqIzVin>
 * sindresorhus/awesome
