@@ -1171,6 +1171,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Julian's ERC20 token generator (Token: Name, Symbol, Decimals | Supply: Fixed, Capped, Unlimited | Options: ERC20, Verified on Etherscan, Copyright link, Mintable, Burnable, Recoverable | Access type: Owner, Roles | Network: Mainnet, Testnet)
+<br><https://tokenmaker.eattheblocks.com/>
 * ds-test - Solidity assertions, equality checks and other test helpers
 <br><https://github.com/dapphub/ds-test>
 * 8 Ways of Reducing the Gas Consumption of your Smart Contracts
