@@ -1171,6 +1171,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* cointop - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies (brew install cointop)
+<br><https://cointop.sh/cli/>
 * Julian's ERC20 token generator (Token: Name, Symbol, Decimals | Supply: Fixed, Capped, Unlimited | Options: ERC20, Verified on Etherscan, Copyright link, Mintable, Burnable, Recoverable | Access type: Owner, Roles | Network: Mainnet, Testnet)
 <br><https://tokenmaker.eattheblocks.com/>
 * ds-test - Solidity assertions, equality checks and other test helpers
