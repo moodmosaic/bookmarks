@@ -1171,6 +1171,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Everything you need to know about Uniswap, how it works and how to become a liqudity provider
+<br><https://cryptotesters.com/blog/what-is-uniswap>
 * 1/11 $HAT tokens are inspired by @Uniswap's $SOCK tokens. In this thread I’ll explain what Unisocks are and how its pricing made it go from $11.92 to over $40K. (Part 1)
 <br><https://twitter.com/traderjoeintern/status/1418281845498675201>
 * 1/17 In my last thread, I spoke about Uniswap pools using xy = k to price assets. This formula is actually a type of bonding curve. (Part 2) *The basis of the bonding curve is the idea that when a person purchases an asset that is available in a limited quantity, then each subsequent buyer will have to pay slightly more for it.*
