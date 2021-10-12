@@ -1171,8 +1171,16 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* nambrot/blockchain-in-js
+<br><https://github.com/nambrot/blockchain-in-js>
+* lhartikk/naivecoin - A tutorial for building a cryptocurrency
+<br><https://github.com/lhartikk/naivecoin>
 * jamesob/coldcore - Trust-minimized, airgapped Bitcoin management
 <br><https://github.com/jamesob/coldcore>
+* useWeb3 - curated overview of the best and latest resources on Ethereum, blockchain and Web3 development
+<br><https://www.useweb3.xyz/>
+* Hop: Send Tokens Across Rollups
+<br><https://ethresear.ch/t/hop-send-tokens-across-rollups/8581>
 * This morning something interesting happened on @traderjoe_xyz: A user tried to zap 2080 USDT.e to UDST.e/DAI.e and ended up receiving only $22 of LP tokens
 <br><https://twitter.com/cryptofishx/status/1428456670208794626>
 * Everything you need to know about Uniswap, how it works and how to become a liqudity provider
