@@ -1446,6 +1446,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Dan Luu blog - another minimalistic blog
+<br> https://danluu.com
 * Awesome, minimalistic blog using just a github repo and jekyll config
 <br><https://github.com/simontreanor/blog>
 * Sounds Good to Me - Up Till Late Edit
