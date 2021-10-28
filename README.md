@@ -1175,6 +1175,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/nambrot/blockchain-in-js>
 * lhartikk/naivecoin - A tutorial for building a cryptocurrency
 <br><https://github.com/lhartikk/naivecoin>
+* lhartikk/naivechain - A blockchain implementation in 200 lines of code
+<br><https://github.com/lhartikk/naivechain>
 * jamesob/coldcore - Trust-minimized, airgapped Bitcoin management
 <br><https://github.com/jamesob/coldcore>
 * useWeb3 - curated overview of the best and latest resources on Ethereum, blockchain and Web3 development
