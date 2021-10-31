@@ -1171,6 +1171,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* ExtropyIO/defi-bot - Tutorial for building DeFi arbitrage bots
+<br><https://github.com/ExtropyIO/defi-bot>
 * nambrot/blockchain-in-js
 <br><https://github.com/nambrot/blockchain-in-js>
 * lhartikk/naivecoin - A tutorial for building a cryptocurrency
