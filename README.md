@@ -1183,6 +1183,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/lhartikk/naivecoin>
 * lhartikk/naivechain - A blockchain implementation in 200 lines of code
 <br><https://github.com/lhartikk/naivechain>
+* jamesob/tinychain - A pocket-sized implementation of Bitcoin
+<br><https://github.com/jamesob/tinychain>
 * jamesob/coldcore - Trust-minimized, airgapped Bitcoin management
 <br><https://github.com/jamesob/coldcore>
 * useWeb3 - curated overview of the best and latest resources on Ethereum, blockchain and Web3 development
