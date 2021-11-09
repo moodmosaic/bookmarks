@@ -1175,6 +1175,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://charts.woobull.com>
 * Crypto Yield Farming Rankings
 <br><https://coinmarketcap.com/yield-farming/>
+* skellet0r/arbie - Flash Loan Arbitrage Bot targetting Curve.fi Crypto Pool v1
+<br><https://github.com/skellet0r/arbie>
 * AleRapchan/flash-swap-arbitrage-bot - Smart Contract BOT code, running on Ethereum Blockchain, watching for and executing profitable arbitrage opportunities using flash loans and flash swaps
 <br><https://github.com/AleRapchan/flash-swap-arbitrage-bot>
 * ExtropyIO/defi-bot - Tutorial for building DeFi arbitrage bots
