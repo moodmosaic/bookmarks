@@ -1171,6 +1171,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* An In-Depth Guide to Testing Ethereum Smart Contracts
+<br><https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-ff061e79bb86>
 * Woobull Charts
 <br><http://charts.woobull.com>
 * Crypto Yield Farming Rankings
