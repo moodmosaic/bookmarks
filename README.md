@@ -1171,6 +1171,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Curve Brownie Tutorial
+<br><https://github.com/curvefi/brownie-tutorial>
+<br><https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ>
 * An In-Depth Guide to Testing Ethereum Smart Contracts
 <br><https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-ff061e79bb86>
 * Woobull Charts
