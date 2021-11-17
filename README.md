@@ -1202,6 +1202,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.useweb3.xyz/>
 * Hop: Send Tokens Across Rollups
 <br><https://ethresear.ch/t/hop-send-tokens-across-rollups/8581>
+* Julian - Create a Complete NFT App - Smart contract, Backend, Frontend
+<br><https://www.youtube.com/watch?v=WsZyb2T83lo>
+* Julian - Fork Uniswap & Create Your Own Sushiswap
+<br><https://www.youtube.com/watch?v=U3fTTqHy7F4>
 * This morning something interesting happened on @traderjoe_xyz: A user tried to zap 2080 USDT.e to UDST.e/DAI.e and ended up receiving only $22 of LP tokens
 <br><https://twitter.com/cryptofishx/status/1428456670208794626>
 * Everything you need to know about Uniswap, how it works and how to become a liqudity provider
