@@ -69,6 +69,8 @@
 
 ## Haskell
 
+* Hexgrip - Haskell Cloud IDE based on (I think) haskell-language-server
+<br><https://www.hexgrip.com/>
 * lazamar/haskell-docs-cli - Browse Hackage from the terminal
 <br><https://github.com/lazamar/haskell-docs-cli>
 * tfausak/evoke -  GHC plugin that automatically derives type class instances without using generics or Template Haskell
