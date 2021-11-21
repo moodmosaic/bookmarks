@@ -754,6 +754,10 @@
 
 ## F# ##
 
+* Don Syme - What's new in F# 5 and F# 6
+<br><https://github.com/dsyme/fsharp-presentations/blob/master/2021-11-17-fsharp-london/whats-new-fsharp-5-6.pdf>
+<br><https://github.com/dsyme/fsharp-presentations/tree/master/FSharp6/FSharp6>
+<br><https://github.com/dsyme/fsharp-presentations/blob/cc792a67c92e6e9f07c3192b7f5f354add10df3e/FSharp6/FSharp6/FSharp6.fsproj>
 * ASP.NET Community Standup - Building ASP.NET Core apps in F#
 <br><https://www.youtube.com/watch?v=JuIq7mU50jA>
 * Don Teaches Guido F# | #dotNETConf: Focus on F#
