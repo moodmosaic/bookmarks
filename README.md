@@ -961,6 +961,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Elringus/DotNetJS - JS in C# etc via BlazorWebAssembly
+<br><https://github.com/Elringus/DotNetJS>
 * Fluid Framework: Operational Transformation by Microsoft
 <br><https://fluidframework.com/docs/start/quick-start/>
 * Mozilla JavaScript/Guide
