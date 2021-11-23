@@ -1179,6 +1179,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
+<br><https://github.com/dethcrypto/eth-sdk>
 * Curve Brownie Tutorial
 <br><https://github.com/curvefi/brownie-tutorial>
 <br><https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ>
