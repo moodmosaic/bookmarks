@@ -1181,6 +1181,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
 <br><https://github.com/dethcrypto/eth-sdk>
+* A nice desc of UTXOs - The MobileCoin blockchain is the source of truth for the allocation of value. It consists of an ordered collection of transaction outputs, organized into blocks. Each transaction output ("txo") has a unique corresponding construction called a key image. Every txo initially appears in the blockchain in a spendable state, as an unspent transaction output or utxo. Every successful payment consumes some utxos as inputs and creates new utxos as outputs. When a utxo is consumed, its corresponding key image is permanently added to the blockchain, ensuring that it can not be spent a second time.
+<br><https://github.com/mobilecoinfoundation/mobilecoin/blob/7c2eda693f3b33978984624c989d8e29136501dd/README.md#transactions>
 * Curve Brownie Tutorial
 <br><https://github.com/curvefi/brownie-tutorial>
 <br><https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ>
