@@ -1185,6 +1185,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/mobilecoinfoundation/mobilecoin/blob/7c2eda693f3b33978984624c989d8e29136501dd/README.md#transactions>
 * The Best Business Show with Anthony Pompliano: EXCLUSIVE Michael Saylor Interview
 <br><https://www.youtube.com/watch?v=c3E91-RGjQE>
+* Crypto Guru Says "Bitcoin Will Hit $1,000,000 by…" ft. Anthony Pompliano | Flagrant 2
+<br><https://www.youtube.com/watch?v=GGV7hVjbYR8>
 * Curve Brownie Tutorial
 <br><https://github.com/curvefi/brownie-tutorial>
 <br><https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ>
