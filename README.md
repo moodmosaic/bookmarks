@@ -731,6 +731,8 @@
 
 ## C# ##
 
+* Testing is pretty nice with #aspnetcore minimal APIs
+<br><https://twitter.com/maartenballiauw/status/1467800214832660480>
 * dotnet-repl
 <br><https://github.com/jonsequitur/dotnet-repl>
 * 18 years of .NET development and I had no idea you could do this (DefineConstants)
