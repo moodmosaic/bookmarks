@@ -19,6 +19,7 @@
 * [Unix-like](#unix-like)
 * [Go](#go)
 * [Rust](#rust)
+* [Clarity](#clarity)
 * [Blockchains](#blockchains)
 * [Leisure](#leisure)
 * [MSSQL](#mssql)
@@ -1176,6 +1177,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://doc.rust-lang.org/book/>
 * Programming Rust: Fast, Safe Systems Development
 <br><https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590>
+
+[Back to top](#)
+
+## Clarity
+
+* ClarityӾTools
+<br><https://clarity.tools/>
+* clarity-lang/overview (Hello World Tutorial)
+<br><https://github.com/clarity-lang/overview>
 
 [Back to top](#)
 
