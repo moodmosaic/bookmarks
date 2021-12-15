@@ -57,6 +57,8 @@
 
 ## Python
 
+* Hypermodern Python
+<br><https://medium.com/@cjolowicz/hypermodern-python-6-ci-cd-b233accfa2f6>
 * What is the meaning of single and double underscore before an object name?
 <br><https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name#comment62071537_1301369>
 * rhettinger/Python's Class Development Toolkit
