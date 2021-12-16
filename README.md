@@ -72,6 +72,8 @@
 
 ## Haskell
 
+* Very clean Haskell codebase - nasa/ogma
+<br><https://github.com/nasa/ogma>
 * Hexgrip - Haskell Cloud IDE based on (I think) haskell-language-server
 <br><https://www.hexgrip.com/>
 * lazamar/haskell-docs-cli - Browse Hackage from the terminal
