@@ -1067,6 +1067,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* What command do I need to unzip/extract a .tar.gz file?
+<br><https://askubuntu.com/questions/25347/what-command-do-i-need-to-unzip-extract-a-tar-gz-file>
+<br>`tar -xvzf name_of_archive_file.tar.gz`
 * Compress a folder with tar?
 <br><https://unix.stackexchange.com/questions/46969/compress-a-folder-with-tar>
 <br>`tar czf name_of_archive_file.tar.gz name_of_directory_to_tar`
