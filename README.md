@@ -1067,6 +1067,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Compress a folder with tar?
+<br><https://unix.stackexchange.com/questions/46969/compress-a-folder-with-tar>
+<br>`tar czf name_of_archive_file.tar.gz name_of_directory_to_tar`
 * HowToSHA256SUM
 <br><https://help.ubuntu.com/community/HowToSHA256SUM>
 <br>`sha256sum name_of_file`
