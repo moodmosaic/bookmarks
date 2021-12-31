@@ -1067,6 +1067,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* HowToSHA256SUM
+<br><https://help.ubuntu.com/community/HowToSHA256SUM>
+<br>`sha256sum name_of_file`
 * The simplest web server: while + nc
 <br><https://twitter.com/antonmedv/status/1474838597991813127?t=bVU2UonnmQM9VsczwVkTsQ>
 * oclif - The Open CLI Framework
