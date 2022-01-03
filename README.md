@@ -1249,6 +1249,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.convexfinance.com/>
 * nambrot/blockchain-in-js
 <br><https://github.com/nambrot/blockchain-in-js>
+* Jeiwan/blockchain_go - A simplified blockchain implementation in Golang
+<br><https://github.com/Jeiwan/blockchain_go>
 * lhartikk/naivecoin - A tutorial for building a cryptocurrency
 <br><https://github.com/lhartikk/naivecoin>
 * lhartikk/naivechain - A blockchain implementation in 200 lines of code
