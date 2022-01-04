@@ -1245,6 +1245,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/ExtropyIO/defi-bot>
 * yTrade - yTrade is a leveraged stablecoin exchange. It enables users to borrow stablecoins with up to 1000x leverage
 <br><https://github.com/yearn/yearn-docs/tree/master/yearn-ecosystem/r-and-d>
+* Convex - Boosted Curve Staking
+<br><https://www.convexfinance.com/>
 * nambrot/blockchain-in-js
 <br><https://github.com/nambrot/blockchain-in-js>
 * lhartikk/naivecoin - A tutorial for building a cryptocurrency
