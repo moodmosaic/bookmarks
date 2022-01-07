@@ -1232,6 +1232,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://charts.woobull.com>
 * Understanding StableSwap (Curve)
 <br><https://miguelmota.com/blog/understanding-stableswap-curve/>
+* Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
+<br><https://github.com/jklepatch/eattheblocks>
+<br><https://github.com/jklepatch/eattheblocks/tree/master/screencast>
 * Crypto Yield Farming Rankings
 <br><https://coinmarketcap.com/yield-farming/>
 * skellet0r/arbie - Flash Loan Arbitrage Bot targetting Curve.fi Crypto Pool v1
