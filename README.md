@@ -1230,6 +1230,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-ff061e79bb86>
 * Woobull Charts
 <br><http://charts.woobull.com>
+* Understanding StableSwap (Curve)
+<br><https://miguelmota.com/blog/understanding-stableswap-curve/>
 * Crypto Yield Farming Rankings
 <br><https://coinmarketcap.com/yield-farming/>
 * skellet0r/arbie - Flash Loan Arbitrage Bot targetting Curve.fi Crypto Pool v1
