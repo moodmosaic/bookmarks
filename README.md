@@ -1207,6 +1207,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers>
 * How to call a contract method using the eth_call JSON-RPC API
 <br><https://ethereum.stackexchange.com/a/3520>
+* First steps with Ethereum Private Networks and Smart Contracts on Ubuntu 16.04
+<br><https://alanbuxton.wordpress.com/2017/07/19/first-steps-with-ethereum-private-networks-and-smart-contracts-on-ubuntu-16-04/>
 * dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
 <br><https://github.com/dethcrypto/eth-sdk>
 * Bitcoin Glossary - river.com
