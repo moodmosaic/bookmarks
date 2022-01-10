@@ -1205,6 +1205,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://bitcoin.stackexchange.com/questions/111098/what-is-the-script-assembly-and-execution-in-p2tr-spend-spend-from-taproot/111100#111100>
 * Proof of stake is a scam and the people promoting it are scammers
 <br><https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers>
+* How to call a contract method using the eth_call JSON-RPC API
+<br><https://ethereum.stackexchange.com/a/3520>
 * dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
 <br><https://github.com/dethcrypto/eth-sdk>
 * Bitcoin Glossary - river.com
