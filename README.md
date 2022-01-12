@@ -1201,6 +1201,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://ethereum.stackexchange.com/questions/13086/whats-the-difference-between-solcs-bin-bytecode-versus-bin-runtime/13087>
 * Introducing the Foundry Ethereum development toolbox - Georgios Konstantopoulos
 <br><https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox/>
+* What is the script assembly and execution in P2TR spend (spend from Taproot)
+<br><https://bitcoin.stackexchange.com/questions/111098/what-is-the-script-assembly-and-execution-in-p2tr-spend-spend-from-taproot/111100#111100>
 * dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
 <br><https://github.com/dethcrypto/eth-sdk>
 * Bitcoin Glossary - river.com
