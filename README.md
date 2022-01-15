@@ -1197,6 +1197,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* What's the difference between solc's bin bytecode versus bin runtime?
+<br><https://ethereum.stackexchange.com/questions/13086/whats-the-difference-between-solcs-bin-bytecode-versus-bin-runtime/13087>
 * dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
 <br><https://github.com/dethcrypto/eth-sdk>
 * Bitcoin Glossary - river.com
