@@ -1067,6 +1067,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* The simplest web server: while + nc
+<br><https://twitter.com/antonmedv/status/1474838597991813127?t=bVU2UonnmQM9VsczwVkTsQ>
 * oclif - The Open CLI Framework
 <br><https://oclif.io/>
 * tealdeer - A very fast implementation of tldr in Rust
