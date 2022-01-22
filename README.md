@@ -736,6 +736,8 @@
 
 ## C# ##
 
+* Favor real dependencies for unit testing
+<br><https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/>
 * Testing is pretty nice with #aspnetcore minimal APIs
 <br><https://twitter.com/maartenballiauw/status/1467800214832660480>
 * dotnet-repl
