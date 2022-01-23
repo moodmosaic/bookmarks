@@ -1208,6 +1208,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* If you self custody your Bitcoin then you almost certainly have come across a mnemonic phrase of 12 or 24 words. What is a mnemonic? Why do I have one? How does it work?
+<br><https://twitter.com/JohnCantrell97/status/1483881638518038532>
 * What's the difference between solc's bin bytecode versus bin runtime?
 <br><https://ethereum.stackexchange.com/questions/13086/whats-the-difference-between-solcs-bin-bytecode-versus-bin-runtime/13087>
 * Introducing the Foundry Ethereum development toolbox - Georgios Konstantopoulos
