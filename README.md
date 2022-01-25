@@ -1284,6 +1284,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.youtube.com/watch?v=U3fTTqHy7F4>
 * NBitcoin project setup
 <br><https://programmingblockchain.gitbook.io/programmingblockchain/introduction/project_setup>
+* OpenZeppelin docs - Developing smart contracts
+<br><https://docs.openzeppelin.com/learn/developing-smart-contracts>
 * This morning something interesting happened on @traderjoe_xyz: A user tried to zap 2080 USDT.e to UDST.e/DAI.e and ended up receiving only $22 of LP tokens
 <br><https://twitter.com/cryptofishx/status/1428456670208794626>
 * Everything you need to know about Uniswap, how it works and how to become a liqudity provider
