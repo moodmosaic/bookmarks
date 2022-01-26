@@ -1069,6 +1069,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* How to solve "sign_and_send_pubkey: signing failed: agent refused operation"
+<br><https://stackoverflow.com/questions/44250002/how-to-solve-sign-and-send-pubkey-signing-failed-agent-refused-operation/44250739#44250739>
 * What command do I need to unzip/extract a .tar.gz file?
 <br><https://askubuntu.com/questions/25347/what-command-do-i-need-to-unzip-extract-a-tar-gz-file>
 <br>`tar -xvzf name_of_archive_file.tar.gz`
