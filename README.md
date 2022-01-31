@@ -1212,6 +1212,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* xf97/SolidityCheck
+<br><https://github.com/xf97/SolidityCheck>
 * BiAn is a code obfuscation tool for Solidity smart contracts (APSEC 2020)
 <br><https://github.com/xf97/BiAn>
 * Cryptoasset Inheritance Planning: a simple guide for owners
