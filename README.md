@@ -1212,6 +1212,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Stacks 2.0 — the largest smart contract project on the Bitcoin
+<br><https://medium.com/@S17_labs/stacks-2-0-the-largest-smart-contract-project-on-the-bitcoin-d24b624f04bf>
 * xf97/SolidityCheck
 <br><https://github.com/xf97/SolidityCheck>
 * BiAn is a code obfuscation tool for Solidity smart contracts (APSEC 2020)
