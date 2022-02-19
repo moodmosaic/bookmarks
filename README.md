@@ -1069,6 +1069,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* ARM64 Ubuntu <> ARM64 Windows: How to Access Shares on Windows 11 from Ubuntu?
+<br><https://websiteforstudents.com/how-to-access-shares-on-windows-11-from-ubuntu/>
 * How to solve "sign_and_send_pubkey: signing failed: agent refused operation"
 <br><https://stackoverflow.com/questions/44250002/how-to-solve-sign-and-send-pubkey-signing-failed-agent-refused-operation/44250739#44250739>
 * ssh "permissions are too open" error - chmod 400 ~/.ssh/id_rsa
