@@ -1069,6 +1069,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* ARM64 Ubuntu <> ARM64 Windows: How to use SSH to move a file from Ubuntu to Windows?
+<br><https://unix.stackexchange.com/questions/199530/how-to-use-ssh-to-move-a-file-from-ubuntu-to-windows>
 * ARM64 Ubuntu <> ARM64 Windows: How to Access Shares on Windows 11 from Ubuntu?
 <br><https://websiteforstudents.com/how-to-access-shares-on-windows-11-from-ubuntu/>
 * How to solve "sign_and_send_pubkey: signing failed: agent refused operation"
