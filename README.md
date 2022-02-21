@@ -1216,6 +1216,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Clarity is now recognized as an official programming language on GitHub
+<br><https://github.com/github/linguist/pull/5665>
 * Stacks 2.0 — the largest smart contract project on the Bitcoin
 <br><https://medium.com/@S17_labs/stacks-2-0-the-largest-smart-contract-project-on-the-bitcoin-d24b624f04bf>
 * NoahZinsmeister/web3-react - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
