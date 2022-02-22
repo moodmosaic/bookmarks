@@ -72,6 +72,8 @@
 
 ## Haskell
 
+* Haskell to-do list
+<br><https://twitter.com/tikhonjelvis/status/1495808960103948291>
 * Very clean Haskell codebase - nasa/ogma
 <br><https://github.com/nasa/ogma>
 * Hexgrip - Haskell Cloud IDE based on (I think) haskell-language-server
@@ -1216,6 +1218,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Mining Industry Makes Bitcoin Vulnerable - Bitcoin Magazine
+<br><https://bitcoinmagazine.com/business/mining-industry-makes-bitcoin-vulnerable>
 * Clarity is now recognized as an official programming language on GitHub
 <br><https://github.com/github/linguist/pull/5665>
 * Stacks 2.0 — the largest smart contract project on the Bitcoin
