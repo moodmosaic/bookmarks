@@ -729,6 +729,10 @@
 
 ## TypeScript ##
 
+* dubzzz/fast-check - Model based testing or UI test
+<br><https://github.com/dubzzz/fast-check/blob/main/documentation/Tips.md#model-based-testing-or-ui-test>
+* dubzzz/pure-rand - Pure random number generator written in TypeScript
+<br><https://github.com/dubzzz/pure-rand>
 * Typed functional programming in TypeScript
 <br><https://gcanti.github.io/fp-ts>
 * JavaScript Import Syntax - Why??
