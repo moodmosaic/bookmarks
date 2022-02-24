@@ -999,6 +999,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Git
 
+* Include diagrams in your Markdown files with Mermaid
+<br><https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid>
+<br><http://mermaid-js.github.io/mermaid>
+<br><https://www.amazon.com/dp/B098KHTVJ2/>
 * Tooling for converting pre 2017 project to the new Visual Studio 2017 format
 <br><https://github.com/hvanbakel/CsprojToVs2017>
 * Radicle - peer-to-peer code collaboration
