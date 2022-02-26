@@ -1079,6 +1079,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* grassmunk/Chicago95 - A rendition of everyone's favorite 1995 Microsoft operating system for Linux
+<br><https://github.com/grassmunk/Chicago95>
 * ARM64 Ubuntu <> ARM64 Windows: How to use SSH to move a file from Ubuntu to Windows?
 <br><https://unix.stackexchange.com/questions/199530/how-to-use-ssh-to-move-a-file-from-ubuntu-to-windows>
 * ARM64 Ubuntu <> ARM64 Windows: How to Access Shares on Windows 11 from Ubuntu?
@@ -1217,6 +1219,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* Stacks on-chain analytics
+<br><https://stacksonchain.com>
 * ClarityӾTools
 <br><https://clarity.tools/>
 * clarity-lang/overview (Hello World Tutorial)
