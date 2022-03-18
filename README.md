@@ -45,6 +45,8 @@
 <br><https://github.com/silentbicycle/theft>
 * Throw The Switch - C Code That Doesn't Suck
 <br><https://github.com/ThrowTheSwitch>
+* w64devkit: a Portable C and C++ Development Kit for Windows
+<br><https://nullprogram.com/blog/2020/05/15/>
 
 [Back to top](#)
 
