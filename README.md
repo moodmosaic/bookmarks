@@ -1234,6 +1234,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* saurik - Attacking an Ethereum L2 with Unbridled Optimism
+<br><https://www.saurik.com/optimism.html>
 * Mining Industry Makes Bitcoin Vulnerable - Bitcoin Magazine
 <br><https://bitcoinmagazine.com/business/mining-industry-makes-bitcoin-vulnerable>
 * Clarity is now recognized as an official programming language on GitHub
