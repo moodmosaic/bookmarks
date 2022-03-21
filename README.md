@@ -1234,6 +1234,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* (Mark Russinovich) I've recently come to believe that public (permissionless) ledgers/blockchains (aka Web3) are a dead end. This post by David Rosenthal does a fantastic job of explaining the issues I identified and more:
+<br><https://blog.dshr.org/2022/02/ee380-talk.html>
 * saurik - Attacking an Ethereum L2 with Unbridled Optimism
 <br><https://www.saurik.com/optimism.html>
 * Mining Industry Makes Bitcoin Vulnerable - Bitcoin Magazine
