@@ -1597,6 +1597,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* kwigglebike - Compact folding bike made in Germany
+<br><https://www.kwigglebike.com>
+* How much faster and snappier Windows XP feels compared to Windows 10
+<br><https://github.com/skeeto/w64devkit/issues/11#issuecomment-921408987>
 * Dan Luu blog - another minimalistic blog
 <br> https://danluu.com
 * Awesome, minimalistic blog using just a github repo and jekyll config
