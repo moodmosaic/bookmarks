@@ -27,6 +27,12 @@
 
 ## C/C++
 
+* Why Aren't There C Conferences?
+<br><https://nullprogram.com/blog/2018/11/21>
+* More DLL fun with w64devkit: Go, assembly, and Python
+<br><https://nullprogram.com/blog/2021/06/29>
+* C? Go? Cgo!
+<br><https://go.dev/blog/cgo>
 * Why use double indirection? or Why use pointers to pointers?
 <br><https://stackoverflow.com/a/5580952>
 * jq - lightweight and flexible command-line JSON processor, written in portable C
