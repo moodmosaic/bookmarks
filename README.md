@@ -87,7 +87,7 @@
 * Very clean Haskell codebase - nasa/ogma
 <br><https://github.com/nasa/ogma>
 * Hexgrip - Haskell Cloud IDE based on (I think) haskell-language-server
-<br><https://www.hexgrip.com/>
+<br><https://www.hexgrip.com>
 * lazamar/haskell-docs-cli - Browse Hackage from the terminal
 <br><https://github.com/lazamar/haskell-docs-cli>
 * tfausak/evoke -  GHC plugin that automatically derives type class instances without using generics or Template Haskell
@@ -101,7 +101,7 @@
 * Sandwich - Yet another test framework for Haskell
 <br><https://github.com/codedownio/sandwich>
 * fromMaybe is Just a fold
-<br><https://danso.ca/blog/frommaybe-is-just-a-fold/>
+<br><https://danso.ca/blog/frommaybe-is-just-a-fold>
 * Quickstrom - Writing Your First Specification
 <br><https://docs.quickstrom.io/en/latest/tutorials/cloud/first.html>
 * Haskell Books: This page provides a tagged index of English books related to the Haskell programming language.
