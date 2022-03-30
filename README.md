@@ -104,6 +104,7 @@
 <br><https://danso.ca/blog/frommaybe-is-just-a-fold>
 * Quickstrom - Writing Your First Specification
 <br><https://docs.quickstrom.io/en/latest/tutorials/cloud/first.html>
+<br><https://arxiv.org/abs/2203.11532>
 * Haskell Books: This page provides a tagged index of English books related to the Haskell programming language.
 <br><https://www.extrema.is/articles/haskell-books>
 * Graham Hutton's Haskell videos on YouTube
