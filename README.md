@@ -53,6 +53,8 @@
 <br><https://github.com/ThrowTheSwitch>
 * w64devkit: a Portable C and C++ Development Kit for Windows
 <br><https://nullprogram.com/blog/2020/05/15>
+* Running w64devkit.exe from an existing cmd.exe prompt
+<br><https://github.com/skeeto/w64devkit/issues/18>
 
 [Back to top](#)
 
@@ -754,7 +756,7 @@
 ## C# ##
 
 * Favor real dependencies for unit testing
-<br><https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/>
+<br><https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing>
 * Testing is pretty nice with #aspnetcore minimal APIs
 <br><https://twitter.com/maartenballiauw/status/1467800214832660480>
 * dotnet-repl
@@ -990,7 +992,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Elringus/DotNetJS - JS in C# etc via BlazorWebAssembly
 <br><https://github.com/Elringus/DotNetJS>
 * Fluid Framework: Operational Transformation by Microsoft
-<br><https://fluidframework.com/docs/start/quick-start/>
+<br><https://fluidframework.com/docs/start/quick-start>
 * Mozilla JavaScript/Guide
 <br><https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide>
 * Mozilla JavaScript/Reference
@@ -1013,7 +1015,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Include diagrams in your Markdown files with Mermaid
 <br><https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid>
 <br><http://mermaid-js.github.io/mermaid>
-<br><https://www.amazon.com/dp/B098KHTVJ2/>
+<br><https://www.amazon.com/dp/B098KHTVJ2>
 * Tooling for converting pre 2017 project to the new Visual Studio 2017 format
 <br><https://github.com/hvanbakel/CsprojToVs2017>
 * Radicle - peer-to-peer code collaboration
@@ -1095,7 +1097,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * ARM64 Ubuntu <> ARM64 Windows: How to use SSH to move a file from Ubuntu to Windows?
 <br><https://unix.stackexchange.com/questions/199530/how-to-use-ssh-to-move-a-file-from-ubuntu-to-windows>
 * ARM64 Ubuntu <> ARM64 Windows: How to Access Shares on Windows 11 from Ubuntu?
-<br><https://websiteforstudents.com/how-to-access-shares-on-windows-11-from-ubuntu/>
+<br><https://websiteforstudents.com/how-to-access-shares-on-windows-11-from-ubuntu>
 * How to solve "sign_and_send_pubkey: signing failed: agent refused operation"
 <br><https://stackoverflow.com/questions/44250002/how-to-solve-sign-and-send-pubkey-signing-failed-agent-refused-operation/44250739#44250739>
 * ssh "permissions are too open" error - chmod 400 ~/.ssh/id_rsa
@@ -1112,7 +1114,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * The simplest web server: while + nc
 <br><https://twitter.com/antonmedv/status/1474838597991813127?t=bVU2UonnmQM9VsczwVkTsQ>
 * oclif - The Open CLI Framework
-<br><https://oclif.io/>
+<br><https://oclif.io>
 * tealdeer - A very fast implementation of tldr in Rust
 <br><https://github.com/dbrgn/tealdeer>
 * Rewritten in Rust: Modern Alternatives of Command-Line Tools
@@ -1191,7 +1193,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 ## Go
 
 * Go's Tooling is an Undervalued Technology
-<br><https://nullprogram.com/blog/2020/01/21/>
+<br><https://nullprogram.com/blog/2020/01/21>
 * miguelmota/golang-for-nodejs-developers
 <br><https://github.com/miguelmota/golang-for-nodejs-developers>
 * miguelmota/ethereum-development-with-go-book
@@ -1207,7 +1209,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Go Resources / An Introduction to Programming in Go
 <br><https://www.golang-book.com/books/intro>
 * Let's Go! A start-to-finish guide to building web apps with Go
-<br><https://lets-go.alexedwards.net/>
+<br><https://lets-go.alexedwards.net>
 * Go by Example
 <br><https://gobyexample.com>
 * Mark McGranaghan - Lessons from Stripe
@@ -1224,7 +1226,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 ## Rust
 
 * The Rust Programming Language book
-<br><https://doc.rust-lang.org/book/>
+<br><https://doc.rust-lang.org/book>
 * Programming Rust: Fast, Safe Systems Development
 <br><https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590>
 
@@ -1235,7 +1237,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Stacks on-chain analytics
 <br><https://stacksonchain.com>
 * ClarityӾTools
-<br><https://clarity.tools/>
+<br><https://clarity.tools>
 * clarity-lang/overview (Hello World Tutorial)
 <br><https://github.com/clarity-lang/overview>
 
@@ -1264,13 +1266,13 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Cryptoasset Inheritance Planning: a simple guide for owners
 <br><https://www.amazon.com/gp/product/1947910116>
 * Bitcoin Monkeys NFTs
-<br><https://bitcoinmonkeys.io/>
+<br><https://bitcoinmonkeys.io>
 * If you self custody your Bitcoin then you almost certainly have come across a mnemonic phrase of 12 or 24 words. What is a mnemonic? Why do I have one? How does it work?
 <br><https://twitter.com/JohnCantrell97/status/1483881638518038532>
 * What's the difference between solc's bin bytecode versus bin runtime?
 <br><https://ethereum.stackexchange.com/questions/13086/whats-the-difference-between-solcs-bin-bytecode-versus-bin-runtime/13087>
 * Introducing the Foundry Ethereum development toolbox - Georgios Konstantopoulos
-<br><https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox/>
+<br><https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox>
 * What is the script assembly and execution in P2TR spend (spend from Taproot)
 <br><https://bitcoin.stackexchange.com/questions/111098/what-is-the-script-assembly-and-execution-in-p2tr-spend-spend-from-taproot/111100#111100>
 * Proof of stake is a scam and the people promoting it are scammers
@@ -1278,11 +1280,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * How to call a contract method using the eth_call JSON-RPC API
 <br><https://ethereum.stackexchange.com/a/3520>
 * First steps with Ethereum Private Networks and Smart Contracts on Ubuntu 16.04
-<br><https://alanbuxton.wordpress.com/2017/07/19/first-steps-with-ethereum-private-networks-and-smart-contracts-on-ubuntu-16-04/>
+<br><https://alanbuxton.wordpress.com/2017/07/19/first-steps-with-ethereum-private-networks-and-smart-contracts-on-ubuntu-16-04>
 * dethcrypto/eth-sdk - Type-safe, lightweight SDKs for your Ethereum smart contracts
 <br><https://github.com/dethcrypto/eth-sdk>
 * Bitcoin Glossary - river.com
-<br><https://river.com/learn/terms/>
+<br><https://river.com/learn/terms>
 * Paper - Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets
 <br><https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets>
 * A nice desc of UTXOs - The MobileCoin blockchain is the source of truth for the allocation of value. It consists of an ordered collection of transaction outputs, organized into blocks. Each transaction output ("txo") has a unique corresponding construction called a key image. Every txo initially appears in the blockchain in a spendable state, as an unspent transaction output or utxo. Every successful payment consumes some utxos as inputs and creates new utxos as outputs. When a utxo is consumed, its corresponding key image is permanently added to the blockchain, ensuring that it can not be spent a second time.
@@ -1301,12 +1303,12 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Woobull Charts
 <br><http://charts.woobull.com>
 * Understanding StableSwap (Curve)
-<br><https://miguelmota.com/blog/understanding-stableswap-curve/>
+<br><https://miguelmota.com/blog/understanding-stableswap-curve>
 * Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 <br><https://github.com/jklepatch/eattheblocks>
 <br><https://github.com/jklepatch/eattheblocks/tree/master/screencast>
 * Crypto Yield Farming Rankings
-<br><https://coinmarketcap.com/yield-farming/>
+<br><https://coinmarketcap.com/yield-farming>
 * skellet0r/arbie - Flash Loan Arbitrage Bot targetting Curve.fi Crypto Pool v1
 <br><https://github.com/skellet0r/arbie>
 * AleRapchan/flash-swap-arbitrage-bot - Smart Contract BOT code, running on Ethereum Blockchain, watching for and executing profitable arbitrage opportunities using flash loans and flash swaps
@@ -1316,7 +1318,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * yTrade - yTrade is a leveraged stablecoin exchange. It enables users to borrow stablecoins with up to 1000x leverage
 <br><https://github.com/yearn/yearn-docs/tree/master/yearn-ecosystem/r-and-d>
 * Convex - Boosted Curve Staking
-<br><https://www.convexfinance.com/>
+<br><https://www.convexfinance.com>
 * nambrot/blockchain-in-js
 <br><https://github.com/nambrot/blockchain-in-js>
 * Jeiwan/blockchain_go - A simplified blockchain implementation in Golang
@@ -1330,7 +1332,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * jamesob/coldcore - Trust-minimized, airgapped Bitcoin management
 <br><https://github.com/jamesob/coldcore>
 * useWeb3 - curated overview of the best and latest resources on Ethereum, blockchain and Web3 development
-<br><https://www.useweb3.xyz/>
+<br><https://www.useweb3.xyz>
 * Hop: Send Tokens Across Rollups
 <br><https://ethresear.ch/t/hop-send-tokens-across-rollups/8581>
 * Julian - Create a Complete NFT App - Smart contract, Backend, Frontend
@@ -1351,9 +1353,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/traderjoeintern/status/1420037750514872327>
 <br><https://github.com/traderjoe-xyz/joe-hat>
 * cointop - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies (brew install cointop)
-<br><https://cointop.sh/cli/>
+<br><https://cointop.sh/cli>
 * Julian's ERC20 token generator (Token: Name, Symbol, Decimals | Supply: Fixed, Capped, Unlimited | Options: ERC20, Verified on Etherscan, Copyright link, Mintable, Burnable, Recoverable | Access type: Owner, Roles | Network: Mainnet, Testnet)
-<br><https://tokenmaker.eattheblocks.com/>
+<br><https://tokenmaker.eattheblocks.com>
 * ds-test - Solidity assertions, equality checks and other test helpers
 <br><https://github.com/dapphub/ds-test>
 * 8 Ways of Reducing the Gas Consumption of your Smart Contracts
@@ -1369,7 +1371,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Bitcoin's Lightning Network, Simply Explained!
 <br><https://www.youtube.com/watch?v=rrr_zPmEiME>
 * mempool.space
-<br><https://mempool.space/>
+<br><https://mempool.space>
 * dethcrypto/TypeChain
 <br><https://github.com/dethcrypto/TypeChain>
 * Ropsten Ethereum (rETH) Faucet
@@ -1399,8 +1401,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Swerve Finance
 <br><https://github.com/SwerveFinance>
 * Introducing the Transaction Permission Layer (TPL) Protocol
-<br><https://blog.openzeppelin.com/introducing-the-transaction-permission-layer-tpl-protocol-358f28cfff40/>
-<br><https://tplprotocol.org/>
+<br><https://blog.openzeppelin.com/introducing-the-transaction-permission-layer-tpl-protocol-358f28cfff40>
+<br><https://tplprotocol.org>
 * A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back.
 <br><https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e>
 * Boiler plate for Uniswap v2 flash loans (and flash swaps)
