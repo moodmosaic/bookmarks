@@ -27,6 +27,8 @@
 
 ## C/C++
 
+* Walkthrough: Compiling a Native C++ Program on the Command Line
+<br><https://docs.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line>
 * Why Aren't There C Conferences?
 <br><https://nullprogram.com/blog/2018/11/21>
 * More DLL fun with w64devkit: Go, assembly, and Python
