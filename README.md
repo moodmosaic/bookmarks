@@ -991,6 +991,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* What Are CJS, AMD, UMD, and ESM in Javascript?
+<br><https://irian.to/blogs/what-are-cjs-amd-umd-and-esm-in-javascript/>
 * Elringus/DotNetJS - JS in C# etc via BlazorWebAssembly
 <br><https://github.com/Elringus/DotNetJS>
 * Fluid Framework: Operational Transformation by Microsoft
