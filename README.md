@@ -744,6 +744,12 @@
 
 ## TypeScript ##
 
+* Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does
+<br><https://github.com/lebab/lebab>
+* Lebab editor
+<br><https://lebab.unibtc.me/editor>
+* Lebal editor GitHub
+<br><https://github.com/uniibu/lebab-ce>
 * dubzzz/fast-check - Model based testing or UI test
 <br><https://github.com/dubzzz/fast-check/blob/main/documentation/Tips.md#model-based-testing-or-ui-test>
 * dubzzz/pure-rand - Pure random number generator written in TypeScript
