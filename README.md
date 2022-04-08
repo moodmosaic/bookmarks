@@ -750,6 +750,10 @@
 <br><https://lebab.unibtc.me/editor>
 * Lebal editor GitHub
 <br><https://github.com/uniibu/lebab-ce>
+* distributed-ledger-technology/web3 - Deno / TypeScript to Ethereum Connector
+<br><https://github.com/distributed-ledger-technology/web3>
+* deno-web3/solc - Solidity bindings for Deno
+<br><https://github.com/deno-web3/solc>
 * dubzzz/fast-check - Model based testing or UI test
 <br><https://github.com/dubzzz/fast-check/blob/main/documentation/Tips.md#model-based-testing-or-ui-test>
 * dubzzz/pure-rand - Pure random number generator written in TypeScript
