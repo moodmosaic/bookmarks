@@ -1106,6 +1106,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* asdf-vm/asdf - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+<br><https://github.com/asdf-vm/asdf>
+* Switching from pyenv, rbenv, goenv and nvm to asdf
+<br><https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf>
 * grassmunk/Chicago95 - A rendition of everyone's favorite 1995 Microsoft operating system for Linux
 <br><https://github.com/grassmunk/Chicago95>
 * ARM64 Ubuntu <> ARM64 Windows: How to use SSH to move a file from Ubuntu to Windows?
