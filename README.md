@@ -1263,6 +1263,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* All Clarity types/refs in one Rust module
+<br><https://github.com/hirosystems/clarity-repl/blob/main/src/clarity/docs/mod.rs>
+* BTCPay Server
+<br><https://btcpayserver.org/>
 * Submarine Swaps
 <br><https://medium.com/boltzhq/submarine-swaps-c509ce0fb1db>
 * (Mark Russinovich) I've recently come to believe that public (permissionless) ledgers/blockchains (aka Web3) are a dead end. This post by David Rosenthal does a fantastic job of explaining the issues I identified and more:
