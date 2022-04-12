@@ -1281,6 +1281,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://medium.com/@S17_labs/stacks-2-0-the-largest-smart-contract-project-on-the-bitcoin-d24b624f04bf>
 * NoahZinsmeister/web3-react - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 <br><https://github.com/NoahZinsmeister/web3-react>
+* JiuZhou is a data set of Ethereum bug smart contracts (ICSME 2020)
+<br><https://github.com/xf97/JiuZhou>
+* JiuZhou for Clarity (Łukasz Nowicki aka LNow)
+<br><https://github.com/LNow/clarity-notes>
 * xf97/SolidityCheck
 <br><https://github.com/xf97/SolidityCheck>
 * BiAn is a code obfuscation tool for Solidity smart contracts (APSEC 2020)
