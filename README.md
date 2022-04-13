@@ -1634,6 +1634,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* AngelList Talent - Join the world's #1 startup community specialized in remote & local technical talent and opportunities
+<br><https://angel.co/candidates/overview>
 * kwigglebike - Compact folding bike made in Germany
 <br><https://www.kwigglebike.com>
 * How much faster and snappier Windows XP feels compared to Windows 10
