@@ -1357,6 +1357,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/jamesob/tinychain>
 * jamesob/coldcore - Trust-minimized, airgapped Bitcoin management
 <br><https://github.com/jamesob/coldcore>
+* solidity-patterns - A compilation of patterns and best practices for the smart contract programming language Solidity
+<br><https://fravoll.github.io/solidity-patterns>
+* Solidity by Example v 0.8.3
+<br><https://solidity-by-example.org>
 * useWeb3 - curated overview of the best and latest resources on Ethereum, blockchain and Web3 development
 <br><https://www.useweb3.xyz>
 * Hop: Send Tokens Across Rollups
@@ -1367,6 +1371,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.youtube.com/watch?v=U3fTTqHy7F4>
 * NBitcoin project setup
 <br><https://programmingblockchain.gitbook.io/programmingblockchain/introduction/project_setup>
+* Contracts Wizard - Use the interactive generator below to bootstrap your smart contract and learn about OpenZeppelin Contracts
+<br><https://wizard.openzeppelin.com>
 * OpenZeppelin docs - Developing smart contracts
 <br><https://docs.openzeppelin.com/learn/developing-smart-contracts>
 * This morning something interesting happened on @traderjoe_xyz: A user tried to zap 2080 USDT.e to UDST.e/DAI.e and ended up receiving only $22 of LP tokens
