@@ -1247,6 +1247,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://doc.rust-lang.org/book>
 * Programming Rust: Fast, Safe Systems Development
 <br><https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590>
+* Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive
+<br><https://github.com/warpdotdev/Warp>
 
 [Back to top](#)
 
