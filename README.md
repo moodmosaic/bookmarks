@@ -794,6 +794,8 @@
 
 ## F# ##
 
+* I find #fsharp to be such an elegant means of defining .NET abstractions.
+<br><https://twitter.com/70696d/status/1514239304389771270>
 * Don Syme - What's new in F# 5 and F# 6
 <br><https://github.com/dsyme/fsharp-presentations/blob/master/2021-11-17-fsharp-london/whats-new-fsharp-5-6.pdf>
 <br><https://github.com/dsyme/fsharp-presentations/tree/master/FSharp6/FSharp6>
