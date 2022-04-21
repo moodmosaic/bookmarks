@@ -1256,6 +1256,18 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* A detailed list of all functions for the Clarity language
+<br><https://docs.stacks.co/write-smart-contracts/language-functions>
+* LNow (Łukasz Nowicki) notes for Clarity (kind of similar to JiuZhou notes for Solidity)
+<br><https://github.com/LNow/clarity-notes>
+* Clarity-lang book
+<br><https://book.clarity-lang.org>
+* Clearness.dev useful links
+<br><https://www.clearness.dev/00-annexes/02-useful-links>
+* MultiSafe is a shared crypto wallet for managing Stacks (STX) and Bitcoin (BTC)
+<br><https://github.com/Trust-Machines/multisafe>
+* Multi-Signature Wallet for Stacks Blockchain
+<br><https://github.com/talhasch/stacks-multi-signature-wallet>
 * Stacks on-chain analytics
 <br><https://stacksonchain.com>
 * ClarityӾTools
@@ -1287,8 +1299,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/NoahZinsmeister/web3-react>
 * JiuZhou is a data set of Ethereum bug smart contracts (ICSME 2020)
 <br><https://github.com/xf97/JiuZhou>
-* JiuZhou for Clarity (Łukasz Nowicki aka LNow)
-<br><https://github.com/LNow/clarity-notes>
 * xf97/SolidityCheck
 <br><https://github.com/xf97/SolidityCheck>
 * BiAn is a code obfuscation tool for Solidity smart contracts (APSEC 2020)
