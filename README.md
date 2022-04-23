@@ -27,6 +27,8 @@
 
 ## C/C++
 
+* h/cpp hacking C++
+<br><https://hackingcpp.com>
 * Walkthrough: Compiling a Native C++ Program on the Command Line
 <br><https://docs.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line>
 * Why Aren't There C Conferences?
@@ -754,6 +756,10 @@
 <br><https://github.com/distributed-ledger-technology/web3>
 * deno-web3/solc - Solidity bindings for Deno
 <br><https://github.com/deno-web3/solc>
+* The TypeScript Handbook
+<br><https://www.typescriptlang.org/docs/handbook/intro.html>
+* typescript-cheatsheet
+<br><https://rmolinamir.github.io/typescript-cheatsheet/>
 * dubzzz/fast-check - Model based testing or UI test
 <br><https://github.com/dubzzz/fast-check/blob/main/documentation/Tips.md#model-based-testing-or-ui-test>
 * dubzzz/pure-rand - Pure random number generator written in TypeScript
