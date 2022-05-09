@@ -1262,6 +1262,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* Write your Clarity contracts under a /contracts folder Automatically generate interfaces for your contracts with yarn clarigen --watch
+<br><https://github.com/mechanismHQ/clarigen>
 * A detailed list of all functions for the Clarity language
 <br><https://docs.stacks.co/write-smart-contracts/language-functions>
 * LNow (Łukasz Nowicki) notes for Clarity (kind of similar to JiuZhou notes for Solidity)
