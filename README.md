@@ -1009,6 +1009,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Practical functional Javascript
+<br><https://github.com/ramda/ramda>
 * What Are CJS, AMD, UMD, and ESM in Javascript?
 <br><https://irian.to/blogs/what-are-cjs-amd-umd-and-esm-in-javascript/>
 * Elringus/DotNetJS - JS in C# etc via BlazorWebAssembly
@@ -1662,6 +1664,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Discover websites you didn't know existed.
+<br><https://www.insanelyusefulwebsites.com>
 * AngelList Talent - Join the world's #1 startup community specialized in remote & local technical talent and opportunities
 <br><https://angel.co/candidates/overview>
 * kwigglebike - Compact folding bike made in Germany
