@@ -1664,6 +1664,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* SpaceInBrowser - Travel space in your browser
+<br><https://spaceinbrowser.com>
 * Discover websites you didn't know existed.
 <br><https://www.insanelyusefulwebsites.com>
 * AngelList Talent - Join the world's #1 startup community specialized in remote & local technical talent and opportunities
