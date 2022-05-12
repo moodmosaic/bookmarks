@@ -1289,6 +1289,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Jameson Lopp @lopp - DeFi is seeing hockey stick growth! Funds stolen 2020, 2021, 2022
+<br><https://twitter.com/lopp/status/1522174871995834369>
 * All Clarity types/refs in one Rust module
 <br><https://github.com/hirosystems/clarity-repl/blob/main/src/clarity/docs/mod.rs>
 * BTCPay Server
