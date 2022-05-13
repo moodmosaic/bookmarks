@@ -1264,6 +1264,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* Stacks Hyperchains (fka subnets)
+<br><https://github.com/stacks-network/stacks-blockchain/discussions/2974>
+* Building on HyperChains
+<br><https://github.com/hirosystems/stacks-hyperchains/discussions/55>
 * Write your Clarity contracts under a /contracts folder Automatically generate interfaces for your contracts with yarn clarigen --watch
 <br><https://github.com/mechanismHQ/clarigen>
 * A detailed list of all functions for the Clarity language
