@@ -1116,6 +1116,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Fig adds autocomplete to your terminal
+<br><https://github.com/withfig/autocomplete>
+* vim.so
+<br><https://www.vim.so>
 * asdf-vm/asdf - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 <br><https://github.com/asdf-vm/asdf>
 * Switching from pyenv, rbenv, goenv and nvm to asdf
