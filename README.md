@@ -759,7 +759,7 @@
 * The TypeScript Handbook
 <br><https://www.typescriptlang.org/docs/handbook/intro.html>
 * typescript-cheatsheet
-<br><https://rmolinamir.github.io/typescript-cheatsheet/>
+<br><https://rmolinamir.github.io/typescript-cheatsheet>
 * dubzzz/fast-check - Model based testing or UI test
 <br><https://github.com/dubzzz/fast-check/blob/main/documentation/Tips.md#model-based-testing-or-ui-test>
 * dubzzz/pure-rand - Pure random number generator written in TypeScript
@@ -1012,7 +1012,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Practical functional Javascript
 <br><https://github.com/ramda/ramda>
 * What Are CJS, AMD, UMD, and ESM in Javascript?
-<br><https://irian.to/blogs/what-are-cjs-amd-umd-and-esm-in-javascript/>
+<br><https://irian.to/blogs/what-are-cjs-amd-umd-and-esm-in-javascript>
 * Elringus/DotNetJS - JS in C# etc via BlazorWebAssembly
 <br><https://github.com/Elringus/DotNetJS>
 * Fluid Framework: Operational Transformation by Microsoft
@@ -1304,7 +1304,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * All Clarity types/refs in one Rust module
 <br><https://github.com/hirosystems/clarity-repl/blob/main/src/clarity/docs/mod.rs>
 * BTCPay Server
-<br><https://btcpayserver.org/>
+<br><https://btcpayserver.org>
 * Submarine Swaps
 <br><https://medium.com/boltzhq/submarine-swaps-c509ce0fb1db>
 * (Mark Russinovich) I've recently come to believe that public (permissionless) ledgers/blockchains (aka Web3) are a dead end. This post by David Rosenthal does a fantastic job of explaining the issues I identified and more:
