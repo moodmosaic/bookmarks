@@ -1680,6 +1680,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Awesome critique of crypto/web3
+<br><https://github.com/life-itself/web3>
 * SpaceInBrowser - Travel space in your browser
 <br><https://spaceinbrowser.com>
 * Discover websites you didn't know existed.
