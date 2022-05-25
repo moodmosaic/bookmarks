@@ -88,6 +88,14 @@
 
 ## Haskell
 
+* Principles of Model Checking (The MIT Press) (Joost-Pieter Katoen, Christel Baier)
+<br><https://www.amazon.com/Principles-Model-Checking-MIT-Press/dp/026202649X>
+* Model Checking lectures (Joost-Pieter Katoen)
+<br><https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh>
+* This is a simple introduction to model checking, written in literate Haskell
+<br><https://github.com/benjaminselfridge/model-checking>
+* trailofbits/umberto - poststructural fuzzing
+<br><https://github.com/trailofbits/umberto>
 * Haskell to-do list
 <br><https://twitter.com/tikhonjelvis/status/1495808960103948291>
 * Very clean Haskell codebase - nasa/ogma
