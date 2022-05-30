@@ -88,6 +88,10 @@
 
 ## Haskell
 
+* digitally induced GmbH - ihp, thin-backend, and more
+<br><https://github.com/digitallyinduced>
+<br><https://github.com/digitallyinduced/ihp>
+<br><https://github.com/digitallyinduced/thin-backend>
 * Principles of Model Checking (The MIT Press) (Joost-Pieter Katoen, Christel Baier)
 <br><https://www.amazon.com/Principles-Model-Checking-MIT-Press/dp/026202649X>
 * Model Checking lectures (Joost-Pieter Katoen)
