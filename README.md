@@ -758,6 +758,8 @@
 
 ## TypeScript ##
 
+* This really helps make unions and intersections clear
+<br><https://twitter.com/dagda1/status/1531536904990105605>
 * Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does
 <br><https://github.com/lebab/lebab>
 * Lebab editor
