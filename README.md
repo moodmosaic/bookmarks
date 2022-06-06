@@ -1130,6 +1130,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* UTM
+<br><https://getutm.app/>
 * Fig adds autocomplete to your terminal
 <br><https://github.com/withfig/autocomplete>
 * vim.so
