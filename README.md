@@ -814,6 +814,9 @@
 
 ## F# ##
 
+* I'm as shocked as you, but the Darklang backend rewrite is actually complete
+<br><https://blog.darklang.com/backend-rewrite-complete>
+<br><https://twitter.com/darklang/status/1533824772064399360>
 * I find #fsharp to be such an elegant means of defining .NET abstractions.
 <br><https://twitter.com/70696d/status/1514239304389771270>
 * Don Syme - What's new in F# 5 and F# 6
