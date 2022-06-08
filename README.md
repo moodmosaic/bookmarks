@@ -1026,6 +1026,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Svelvet allows you to easily create intuitive flow diagrams using pre-built components with seamless zooming and panning, and more
+<br><https://svelvet.io>
 * Practical functional Javascript
 <br><https://github.com/ramda/ramda>
 * What Are CJS, AMD, UMD, and ESM in Javascript?
