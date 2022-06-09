@@ -1320,6 +1320,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Paolo Ardoino - CTO Tether/Bitfinex on what happened with Luna, Terra, etc
+<br><https://twitter.com/i/broadcasts/1YqxoprjadvKv?t=dEjLLsYjClS6HbLElQAjYA>
 * Glassnode - Unstable Coins
 <br><https://insights.glassnode.com/the-week-onchain-week-20-2022>
 * Lyn Alden - Digital Alchemy: A Post-Mortem of the Crypto Crash
