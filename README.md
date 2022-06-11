@@ -1291,6 +1291,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* How to Debug Your Smart Contracts With Clarinet
+<br><https://www.hiro.so/blog/how-to-debug-your-smart-contracts-with-clarinet>
 * Stacks Hyperchains (fka subnets)
 <br><https://github.com/stacks-network/stacks-blockchain/discussions/2974>
 * Building on HyperChains
