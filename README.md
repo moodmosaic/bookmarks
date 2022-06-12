@@ -88,6 +88,8 @@
 
 ## Haskell
 
+* Could not find module ‘Test.QuickCheck’ (hint: cabal install --lib QuickCheck)
+<br><https://stackoverflow.com/a/67557883>
 * digitally induced GmbH - ihp, thin-backend, and more
 <br><https://github.com/digitallyinduced>
 <br><https://github.com/digitallyinduced/ihp>
