@@ -1282,6 +1282,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Rust
 
+* Easy Rust
+<br><https://dhghomon.github.io/easy_rust>
+* cheats.rs
+<br><https://cheats.rs>
 * Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 <br><https://github.com/spacedriveapp/spacedrive>
 * The Rust Programming Language book
