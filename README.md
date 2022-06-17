@@ -92,6 +92,8 @@
 <br><https://stackoverflow.com/a/67557883>
 * TDD for an algorithm involving randomness
 <br><https://stackoverflow.com/questions/72168364/tdd-for-an-algorithm-involving-randomness>
+* Ever think to yourself, "How do I know if my generators are good enough?"
+<br><https://jacobstanley.io/5-tips-for-better-hedgehog-tests/#coverage>
 * digitally induced GmbH - ihp, thin-backend, and more
 <br><https://github.com/digitallyinduced>
 <br><https://github.com/digitallyinduced/ihp>
