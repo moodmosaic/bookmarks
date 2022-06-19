@@ -1305,6 +1305,16 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* fast-check - bias
+<br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/HowItWorks.md#bias>
+* fast-check - biased arbitraries
+<br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/AdvancedArbitraries.md#biased-arbitraries>
+* fast-check - size explained
+<br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/Arbitraries.md#size-explained>
+* fast-check - docs
+<br><https://github.com/dubzzz/fast-check/tree/main/packages/fast-check/documentation>
+* fast-check - explicit bias
+<br><https://github.com/dubzzz/fast-check/discussions/2978>
 * How to Debug Your Smart Contracts With Clarinet
 <br><https://www.hiro.so/blog/how-to-debug-your-smart-contracts-with-clarinet>
 * Stacks Hyperchains (fka subnets)
