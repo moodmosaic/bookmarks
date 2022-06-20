@@ -1315,6 +1315,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/dubzzz/fast-check/tree/main/packages/fast-check/documentation>
 * fast-check - explicit bias
 <br><https://github.com/dubzzz/fast-check/discussions/2978>
+* castig.btc - Just published a new video tutorial: "MultiSafe: Step-by-Step Tutorial in 12 minutes"
+<br><https://twitter.com/castig/status/1537110164251234304>
 * How to Debug Your Smart Contracts With Clarinet
 <br><https://www.hiro.so/blog/how-to-debug-your-smart-contracts-with-clarinet>
 * Stacks Hyperchains (fka subnets)
