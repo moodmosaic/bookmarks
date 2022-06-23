@@ -1735,6 +1735,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Useful utilities and services over DNS - dns.toys is a DNS server that takes creative liberties with the DNS protocol to offer handy utilities and services that are easily accessible via the command line.
 <br><https://www.dns.toys>
+* airalo - Stay connected, wherever you travel, at affordable rates (eSIM)
+<br><https://www.airalo.com>
 * Keep the web free, say no to Web3
 <br><https://yesterweb.org/no-to-web3>
 * Awesome critique of crypto/web3
