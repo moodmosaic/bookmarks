@@ -1353,6 +1353,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/milesdeutscher/status/1538918965703249920?t=-MA2JmchJr7jI54WMvoqyA>
 * jcnelson/status.sh - Self-contained single-file Stacks chain explorer, and faucet, written in 100% bash.
 <br><https://github.com/jcnelson/status.sh>
+* Model checking: Generating test cases so you don’t have to. (Spotify R&D)
+<br><https://engineering.atspotify.com/2015/06/rapid-check>
 * Paolo Ardoino - CTO Tether/Bitfinex on what happened with Luna, Terra, etc
 <br><https://twitter.com/i/broadcasts/1YqxoprjadvKv?t=dEjLLsYjClS6HbLElQAjYA>
 * Glassnode - Unstable Coins
