@@ -1359,6 +1359,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/kenrogers/sup/pull/1/files>
 * meta: forge fuzzer improvements
 <br><https://github.com/foundry-rs/foundry/issues/387>
+* Symbolic Execution With ds-test
+<br><https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test>
 * Paolo Ardoino - CTO Tether/Bitfinex on what happened with Luna, Terra, etc
 <br><https://twitter.com/i/broadcasts/1YqxoprjadvKv?t=dEjLLsYjClS6HbLElQAjYA>
 * Glassnode - Unstable Coins
