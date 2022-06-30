@@ -88,6 +88,20 @@
 
 ## Haskell
 
+* hemanth/functional-programming-jargon - Jargon from the functional programming world in simple terms
+<br><https://github.com/hemanth/functional-programming-jargon>
+* Could not find module ‘Test.QuickCheck’ (hint: cabal install --lib QuickCheck)
+<br><https://stackoverflow.com/a/67557883>
+* TDD for an algorithm involving randomness
+<br><https://stackoverflow.com/questions/72168364/tdd-for-an-algorithm-involving-randomness>
+* Ever think to yourself, "How do I know if my generators are good enough?"
+<br><https://jacobstanley.io/5-tips-for-better-hedgehog-tests/#coverage>
+* John Hughes - Building on developers' intuitions
+<br><https://www.youtube.com/watch?v=NcJOiQlzlXQ>
+* digitally induced GmbH - ihp, thin-backend, and more
+<br><https://github.com/digitallyinduced>
+<br><https://github.com/digitallyinduced/ihp>
+<br><https://github.com/digitallyinduced/thin-backend>
 * Principles of Model Checking (The MIT Press) (Joost-Pieter Katoen, Christel Baier)
 <br><https://www.amazon.com/Principles-Model-Checking-MIT-Press/dp/026202649X>
 * Model Checking lectures (Joost-Pieter Katoen)
@@ -754,6 +768,8 @@
 
 ## TypeScript ##
 
+* This really helps make unions and intersections clear
+<br><https://twitter.com/dagda1/status/1531536904990105605>
 * Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does
 <br><https://github.com/lebab/lebab>
 * Lebab editor
@@ -808,6 +824,9 @@
 
 ## F# ##
 
+* I'm as shocked as you, but the Darklang backend rewrite is actually complete
+<br><https://blog.darklang.com/backend-rewrite-complete>
+<br><https://twitter.com/darklang/status/1533824772064399360>
 * I find #fsharp to be such an elegant means of defining .NET abstractions.
 <br><https://twitter.com/70696d/status/1514239304389771270>
 * Don Syme - What's new in F# 5 and F# 6
@@ -1017,6 +1036,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* Svelvet allows you to easily create intuitive flow diagrams using pre-built components with seamless zooming and panning, and more
+<br><https://svelvet.io>
 * Practical functional Javascript
 <br><https://github.com/ramda/ramda>
 * What Are CJS, AMD, UMD, and ESM in Javascript?
@@ -1124,6 +1145,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Install Ubuntu Desktop 22.04 ARM64 on macOS Apple Silicon (M1/Pro/Max) in Parallels
+<br><https://askubuntu.com/questions/1405124/install-ubuntu-desktop-22-04-arm64-on-macos-apple-silicon-m1-pro-max-in-parall>
+* UTM
+<br><https://getutm.app>
 * Fig adds autocomplete to your terminal
 <br><https://github.com/withfig/autocomplete>
 * vim.so
@@ -1265,6 +1290,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Rust
 
+* Easy Rust
+<br><https://dhghomon.github.io/easy_rust>
+* cheats.rs
+<br><https://cheats.rs>
 * Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 <br><https://github.com/spacedriveapp/spacedrive>
 * The Rust Programming Language book
@@ -1278,6 +1307,20 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* fast-check - bias
+<br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/HowItWorks.md#bias>
+* fast-check - biased arbitraries
+<br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/AdvancedArbitraries.md#biased-arbitraries>
+* fast-check - size explained
+<br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/Arbitraries.md#size-explained>
+* fast-check - docs
+<br><https://github.com/dubzzz/fast-check/tree/main/packages/fast-check/documentation>
+* fast-check - explicit bias
+<br><https://github.com/dubzzz/fast-check/discussions/2978>
+* castig.btc - Just published a new video tutorial: "MultiSafe: Step-by-Step Tutorial in 12 minutes"
+<br><https://twitter.com/castig/status/1537110164251234304>
+* How to Debug Your Smart Contracts With Clarinet
+<br><https://www.hiro.so/blog/how-to-debug-your-smart-contracts-with-clarinet>
 * Stacks Hyperchains (fka subnets)
 <br><https://github.com/stacks-network/stacks-blockchain/discussions/2974>
 * Building on HyperChains
@@ -1307,6 +1350,21 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Got into crypto out of disgust for banks who control your money so now I use DEFI where random devs control my money
+* 9/ If we learnt anything from the Celsius and 3AC situations, it's that on-chain transparency is a much-needed component of the crypto financial ecosystem. This is the exact problem that DeFi is intended to solve.
+<br><https://twitter.com/milesdeutscher/status/1538918965703249920?t=-MA2JmchJr7jI54WMvoqyA>
+* jcnelson/status.sh - Self-contained single-file Stacks chain explorer, and faucet, written in 100% bash.
+<br><https://github.com/jcnelson/status.sh>
+* Model checking: Generating test cases so you don’t have to. (Spotify R&D)
+<br><https://engineering.atspotify.com/2015/06/rapid-check>
+* sup: Add basic fast-check tests
+<br><https://github.com/kenrogers/sup/pull/1/files>
+* meta: forge fuzzer improvements
+<br><https://github.com/foundry-rs/foundry/issues/387>
+* Symbolic Execution With ds-test
+<br><https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test>
+* Paolo Ardoino - CTO Tether/Bitfinex on what happened with Luna, Terra, etc
+<br><https://twitter.com/i/broadcasts/1YqxoprjadvKv?t=dEjLLsYjClS6HbLElQAjYA>
 * Glassnode - Unstable Coins
 <br><https://insights.glassnode.com/the-week-onchain-week-20-2022>
 * Lyn Alden - Digital Alchemy: A Post-Mortem of the Crypto Crash
@@ -1429,6 +1487,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://cryptotesters.com/blog/what-is-uniswap>
 * 1/11 $HAT tokens are inspired by @Uniswap's $SOCK tokens. In this thread I’ll explain what Unisocks are and how its pricing made it go from $11.92 to over $40K. (Part 1)
 <br><https://twitter.com/traderjoeintern/status/1418281845498675201>
+* Back to the Basics: Uniswap, Balancer, Curve
+<br><https://twitter.com/kinaumov/status/1533174556747350019>
 * 1/17 In my last thread, I spoke about Uniswap pools using xy = k to price assets. This formula is actually a type of bonding curve. (Part 2) *The basis of the bonding curve is the idea that when a person purchases an asset that is available in a limited quantity, then each subsequent buyer will have to pay slightly more for it.*
 <br><https://twitter.com/traderjoeintern/status/1420037750514872327>
 <br><https://github.com/traderjoe-xyz/joe-hat>
@@ -1688,6 +1748,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Useful utilities and services over DNS - dns.toys is a DNS server that takes creative liberties with the DNS protocol to offer handy utilities and services that are easily accessible via the command line.
+<br><https://www.dns.toys>
+* airalo - Stay connected, wherever you travel, at affordable rates (eSIM)
+<br><https://www.airalo.com>
 * Keep the web free, say no to Web3
 <br><https://yesterweb.org/no-to-web3>
 * Awesome critique of crypto/web3
