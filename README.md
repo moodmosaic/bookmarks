@@ -768,6 +768,10 @@
 
 ## TypeScript ##
 
+* fresh - The next-gen web framework. (Deno, TypeScript)
+<br><https://fresh.deno.dev>
+* Aleksandr Pakulev (Serokell) - How to Write TypeScript Like a Haskeller
+<br><https://serokell.io/blog/typescript-for-haskellers>
 * This really helps make unions and intersections clear
 <br><https://twitter.com/dagda1/status/1531536904990105605>
 * Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does
