@@ -242,13 +242,13 @@
 * TOTBWF/omit-generics - Omit fields for instance deriving
 <br><https://github.com/TOTBWF/omit-generics>
 * Cleaning up threads in Haskell
-<br><https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html>
+<br><https://dev.to/chrismwendt/cleaning-up-threads-in-haskell-1ng6>
 * How to define JSON instances quickly
 <br><https://dev.to/tfausak/how-to-define-json-instances-quickly-5ei7>
 * odd-jobs: Haskell job queue with an admin UI
 <br><https://np.reddit.com/r/haskell/comments/gle7mm/ann_oddjobs_haskell_job_queue_with_an_admin_ui>
 * Cleaning up threads in Haskell
-<br><https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html>
+<br><https://dev.to/chrismwendt/cleaning-up-threads-in-haskell-1ng6>
 * Environment variables parsing for free (applicatives)
 <br><https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives>
 * Dead simple cross-platform GitHub Actions for Haskell
