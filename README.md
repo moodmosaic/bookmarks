@@ -1358,6 +1358,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* dabit3/foundry-cheatsheet
+<br><https://github.com/dabit3/foundry-cheatsheet>
 * Got into crypto out of disgust for banks who control your money so now I use DEFI where random devs control my money
 * 9/ If we learnt anything from the Celsius and 3AC situations, it's that on-chain transparency is a much-needed component of the crypto financial ecosystem. This is the exact problem that DeFi is intended to solve.
 <br><https://twitter.com/milesdeutscher/status/1538918965703249920?t=-MA2JmchJr7jI54WMvoqyA>
