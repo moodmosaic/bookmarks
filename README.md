@@ -1364,6 +1364,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/Rari-Capital/solmate>
 * Rari-Capital/solcurity - Opinionated security and code quality standard for Solidity smart contracts
 <br><https://github.com/Rari-Capital/solcurity>
+* SunWeb3Sec/DeFiVulnLabs - common smart contract vulnerabilities using Foundry
+<br><https://github.com/SunWeb3Sec/DeFiVulnLabs>
 * Got into crypto out of disgust for banks who control your money so now I use DEFI where random devs control my money
 * 9/ If we learnt anything from the Celsius and 3AC situations, it's that on-chain transparency is a much-needed component of the crypto financial ecosystem. This is the exact problem that DeFi is intended to solve.
 <br><https://twitter.com/milesdeutscher/status/1538918965703249920?t=-MA2JmchJr7jI54WMvoqyA>
