@@ -1768,6 +1768,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* 10 Powerful Laws to Improve Your Life
+<br><https://twitter.com/PhilosophyPath/status/1544214784857579520>
 * Useful utilities and services over DNS - dns.toys is a DNS server that takes creative liberties with the DNS protocol to offer handy utilities and services that are easily accessible via the command line.
 <br><https://www.dns.toys>
 * airalo - Stay connected, wherever you travel, at affordable rates (eSIM)
