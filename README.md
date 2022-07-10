@@ -1774,6 +1774,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/TansuYegen/status/1543534003520770052>
 * Scunthorpe Sans - A font that blocks fuck and other bad words.
 <br><https://vole.wtf/scunthorpe-sans/>
+* Popping the Crypto Bubble - Stephen Diehl (Adjoint)
+<br><https://www.amazon.com/dp/B0B4B9J4RK>
 * Useful utilities and services over DNS - dns.toys is a DNS server that takes creative liberties with the DNS protocol to offer handy utilities and services that are easily accessible via the command line.
 <br><https://www.dns.toys>
 * airalo - Stay connected, wherever you travel, at affordable rates (eSIM)
