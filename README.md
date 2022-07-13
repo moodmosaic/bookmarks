@@ -81,7 +81,7 @@
 <br><https://www.youtube.com/watch?v=HTLu2DFOdTg>
 * rhettinger/modernpython
 <br><https://github.com/rhettinger/modernpython>
-* Diagrams - Diagrams lets you draw the cloud system architecture in Python code.
+* Diagrams - Diagrams lets you draw the cloud system architecture in Python code
 <br><https://diagrams.mingrammer.com>
 
 [Back to top](#)
@@ -133,7 +133,7 @@
 * Quickstrom - Writing Your First Specification
 <br><https://docs.quickstrom.io/en/latest/tutorials/cloud/first.html>
 <br><https://arxiv.org/abs/2203.11532>
-* Haskell Books: This page provides a tagged index of English books related to the Haskell programming language.
+* Haskell Books: This page provides a tagged index of English books related to the Haskell programming language
 <br><https://www.extrema.is/articles/haskell-books>
 * Graham Hutton's Haskell videos on YouTube
 <br><https://www.youtube.com/c/GrahamHuttonNotts/videos?view=0&sort=da>
@@ -175,13 +175,13 @@
 * I wrote a nice display function for parse errors in Parsec (Haskell library)
 <br><https://twitter.com/chordbug/status/1315412432362369024>
 <br><https://gist.github.com/lynn/46dff5b6cff3851bc4a176d3859664e2>
-* ihp - batteries-included Web Framework, built on top of Haskell and Nix.
+* ihp - batteries-included Web Framework, built on top of Haskell and Nix
 <br><https://github.com/digitallyinduced/ihp>
 * Don't use Ghcide anymore (directly)
 <br><http://neilmitchell.blogspot.com/2020/09/dont-use-ghcide-anymore-directly.html>
 * thma/TypelevelReflection
 <br><https://github.com/thma/TypelevelReflection>
-* cabal-auto-expose is a build time library which, like hpack, auto detects new and removed Haskell modules and Backpack signatures in your project’s sources and exposes them for you so you don’t have to manually keep your .cabal file in sync.
+* cabal-auto-expose is a build time library which, like hpack, auto detects new and removed Haskell modules and Backpack signatures in your project’s sources and exposes them for you so you don’t have to manually keep your .cabal file in sync
 <br><https://github.com/deech/cabal-auto-expose/tree/master/cabal-auto-expose>
 * serras/munihac-2020-miso
 <br><https://github.com/serras/munihac-2020-miso>
@@ -406,7 +406,7 @@
 <br><https://github.com/cohomolo-gy/haskell-resources>
 * Demystifying folds with ghci
 <br><https://github.com/aymannadeem/foldilocks>
-* Haskell bindings for libarchive. Provides the ability to unpack archives, including the ability to unpack archives lazily.
+* Haskell bindings for libarchive. Provides the ability to unpack archives, including the ability to unpack archives lazily
 <br><http://hackage.haskell.org/package/libarchive>
 * Installing and Running Multiple GHC Versions
 <br><https://qfpl.io/posts/multiple-ghcs>
@@ -516,7 +516,7 @@
 <br><https://github.com/theam/require>
 * An example of dynamically loading a Haskell source module
 <br><https://github.com/jwiegley/ghc-dynamic-example>
-* Haskell has a type called Dynamic which resembles a dynamically-typed variable in some other languages.
+* Haskell has a type called Dynamic which resembles a dynamically-typed variable in some other languages
 <br><https://typeclasses.com/phrasebook/dynamic>
 * Dynamic typing in Haskell
 <br><https://github.com/chrisdone/dynamic>
@@ -652,7 +652,7 @@
 <br><https://www.johnchandlerburnham.com/posts/workthrough-lambda-calculus-rojas.html>
 * Workthrough: Haskell Programming (Allen & Moronuki)
 <br><https://www.johnchandlerburnham.com/posts/workthrough-hpfp.html>
-* Assert Explainer is a library & GHC source plugin to help writing assertions. In particular, it is to help you understand <em>why</em> an assertion has failed.
+* Assert Explainer is a library & GHC source plugin to help writing assertions. In particular, it is to help you understand <em>why</em> an assertion has failed
 <br><https://github.com/ocharles/assert-explainer>
 * OOPH: Data Inheritance
 <br><http://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html>
@@ -660,15 +660,15 @@
 <br><https://www.snoyman.com/blog/2018/07/stop-supporting-older-ghcs>
 * A reckless introduction to Hindley-Milner type inference
 <br><http://reasonableapproximation.net/2019/05/05/hindley-milner.html>
-* This table correlates GHC versions with the versions of the base and Cabal libraries it ships with.
+* This table correlates GHC versions with the versions of the base and Cabal libraries it ships with
 <br><https://www.snoyman.com/base>
-* This table lists the versions of GHC against those of its boot libraries, including most notably the `base` library. This may be useful if you ever want to find out which version of the `base` package was bundled with which version of GHC or vice versa.
+* This table lists the versions of GHC against those of its boot libraries, including most notably the `base` library. This may be useful if you ever want to find out which version of the `base` package was bundled with which version of GHC or vice versa
 <br><https://ghc.haskell.org/trac/ghc/wiki/Commentary/Libraries/VersionHistory>
-* A table covering some GHC 6.* releases. Core packages are shaded yellow. From GHC 6.12.1, only core packages are released with GHC.
+* A table covering some GHC 6.* releases. Core packages are shaded yellow. From GHC 6.12.1, only core packages are released with GHC
 <br><https://wiki.haskell.org/Libraries_released_with_GHC>
 * Your easy guide to Monads, Applicatives, & Functors
 <br><https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610>
-* Papers We Love Athens - Prof. Nikolaos Papaspyrou on QuickCheck. The talk was in Greek.
+* Papers We Love Athens - Prof. Nikolaos Papaspyrou on QuickCheck. The talk was in Greek
 <br><https://www.youtube.com/watch?v=s7lOOuvppaw>
 * Learn Haskell In One Video (incl. Cheatsheet)
 <br><http://www.newthinktank.com/2015/08/learn-haskell-one-video>
@@ -831,7 +831,7 @@
 * I'm as shocked as you, but the Darklang backend rewrite is actually complete
 <br><https://blog.darklang.com/backend-rewrite-complete>
 <br><https://twitter.com/darklang/status/1533824772064399360>
-* I find #fsharp to be such an elegant means of defining .NET abstractions.
+* I find #fsharp to be such an elegant means of defining .NET abstractions
 <br><https://twitter.com/70696d/status/1514239304389771270>
 * Don Syme - What's new in F# 5 and F# 6
 <br><https://github.com/dsyme/fsharp-presentations/blob/master/2021-11-17-fsharp-london/whats-new-fsharp-5-6.pdf>
@@ -1124,9 +1124,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Nix Ecosystem
 <br><https://nixos.wiki/wiki/Nix_Ecosystem>
-* home-manager - A basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs.
+* home-manager - A basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs
 <br><https://github.com/rycee/home-manager>
-* nix-darwin - Nix modules for darwin, /etc/nixos/configuration.nix for macOS.
+* nix-darwin - Nix modules for darwin, /etc/nixos/configuration.nix for macOS
 <br><https://github.com/LnL7/nix-darwin>
 * What does `nix-darwin` provide?
 <br><https://stackoverflow.com/a/53381974>
@@ -1234,11 +1234,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/rhysd/vim.wasm>
 * The Ultimate Vim Distribution
 <br><http://vim.spf13.com>
-* Now color-coded! Two diagrams of the Unix architecture, 50 years apart. What they tell us and how I drew them.
+* Now color-coded! Two diagrams of the Unix architecture, 50 years apart. What they tell us and how I drew them
 <br><https://twitter.com/CoolSWEng/status/863090134232821761>
 * fzf - A command-line fuzzy finder written in Go
 <br><https://github.com/junegunn/fzf>
-* tmux - a "terminal multiplexer". It enables a number of terminals to be accessed and controlled from a single terminal.
+* tmux - a "terminal multiplexer". It enables a number of terminals to be accessed and controlled from a single terminal
 <br><https://github.com/tmux/tmux>
 * Linux intro course - A gentle introduction to programming networked services on linux
 <br><https://github.com/haf/linux-intro-course>
@@ -1302,7 +1302,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://dhghomon.github.io/easy_rust>
 * cheats.rs
 <br><https://cheats.rs>
-* Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+* Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust
 <br><https://github.com/spacedriveapp/spacedrive>
 * The Rust Programming Language book
 <br><https://doc.rust-lang.org/book>
@@ -1371,9 +1371,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * JoshuaTrujillo15/loopinator - map, forEach, reduce, and others, for Solidity
 <br><https://github.com/JoshuaTrujillo15/loopinator>
 * Got into crypto out of disgust for banks who control your money so now I use DEFI where random devs control my money
-* 9/ If we learnt anything from the Celsius and 3AC situations, it's that on-chain transparency is a much-needed component of the crypto financial ecosystem. This is the exact problem that DeFi is intended to solve.
+* 9/ If we learnt anything from the Celsius and 3AC situations, it's that on-chain transparency is a much-needed component of the crypto financial ecosystem. This is the exact problem that DeFi is intended to solve
 <br><https://twitter.com/milesdeutscher/status/1538918965703249920?t=-MA2JmchJr7jI54WMvoqyA>
-* jcnelson/status.sh - Self-contained single-file Stacks chain explorer, and faucet, written in 100% bash.
+* jcnelson/status.sh - Self-contained single-file Stacks chain explorer, and faucet, written in 100% bash
 <br><https://github.com/jcnelson/status.sh>
 * Model checking: Generating test cases so you don’t have to. (Spotify R&D)
 <br><https://engineering.atspotify.com/2015/06/rapid-check>
@@ -1439,7 +1439,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://river.com/learn/terms>
 * Paper - Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets
 <br><https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets>
-* A nice desc of UTXOs - The MobileCoin blockchain is the source of truth for the allocation of value. It consists of an ordered collection of transaction outputs, organized into blocks. Each transaction output ("txo") has a unique corresponding construction called a key image. Every txo initially appears in the blockchain in a spendable state, as an unspent transaction output or utxo. Every successful payment consumes some utxos as inputs and creates new utxos as outputs. When a utxo is consumed, its corresponding key image is permanently added to the blockchain, ensuring that it can not be spent a second time.
+* A nice desc of UTXOs - The MobileCoin blockchain is the source of truth for the allocation of value. It consists of an ordered collection of transaction outputs, organized into blocks. Each transaction output ("txo") has a unique corresponding construction called a key image. Every txo initially appears in the blockchain in a spendable state, as an unspent transaction output or utxo. Every successful payment consumes some utxos as inputs and creates new utxos as outputs. When a utxo is consumed, its corresponding key image is permanently added to the blockchain, ensuring that it can not be spent a second time
 <br><https://github.com/mobilecoinfoundation/mobilecoin/blob/7c2eda693f3b33978984624c989d8e29136501dd/README.md#transactions>
 * The Best Business Show with Anthony Pompliano: EXCLUSIVE Michael Saylor Interview
 <br><https://www.youtube.com/watch?v=c3E91-RGjQE>
@@ -1536,11 +1536,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/dethcrypto/TypeChain>
 * Ropsten Ethereum (rETH) Faucet
 <br><https://faucet.dimensions.network>
-* Pangolin - A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution.
+* Pangolin - A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution
 <br><https://github.com/pangolindex>
 * What Sets Avalanche Apart From Other Blockchains?
 <br><https://cryptoseq.medium.com/what-sets-avalanche-apart-from-other-blockchains-3c5f4a4c0889>
-* OpenZeppelin - Test Environment: Blazing fast smart contract testing. One-line setup for an awesome testing experience.
+* OpenZeppelin - Test Environment: Blazing fast smart contract testing. One-line setup for an awesome testing experience
 <br><https://docs.openzeppelin.com/test-environment>
 * Bitcoin / Lightning - LN Markets docs
 <br><https://docs.lnmarkets.com/docs/step>
@@ -1563,7 +1563,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Introducing the Transaction Permission Layer (TPL) Protocol
 <br><https://blog.openzeppelin.com/introducing-the-transaction-permission-layer-tpl-protocol-358f28cfff40>
 <br><https://tplprotocol.org>
-* A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back.
+* A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back
 <br><https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e>
 * Boiler plate for Uniswap v2 flash loans (and flash swaps)
 <br><https://github.com/Austin-Williams/uniswap-flash-swapper>
@@ -1588,9 +1588,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/pedrobergamini/flashloaner-contract>
 <br><https://github.com/Uniswap/uniswap-v2-periphery/tree/master/contracts/examples>
 <br><https://github.com/Uniswap/uniswap-v2-periphery/tree/master/test>
-* A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back.
+* A single-file simplest possible template for a contract that obtains a flash loan from dydx, does things, and pays it back
 <br><https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e>
-* Satoshi Nakamoto cites 8 references in the Bitcoin white paper. Each one uniquely influencing the design of the Bitcoin protocol.  In this thread we’ll explore what they are and why they’re important.
+* Satoshi Nakamoto cites 8 references in the Bitcoin white paper. Each one uniquely influencing the design of the Bitcoin protocol.  In this thread we’ll explore what they are and why they’re important
 <br><https://twitter.com/anilsaidso/status/1399039422192971781>
 * The course “Blockchain and Money" is freely available online and of critical importance this year to anyone that cares about money, #bitcoin, & the future of crypto.  Less than 1% make it thru all the lectures, but it is definitely worth your time
 <br><https://twitter.com/michael_saylor/status/1393265323370065924>
@@ -1624,7 +1624,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://docs.blockstack.org>
 * BITCOIN INFORMATION & RESOURCES
 <br><https://www.lopp.net/bitcoin-information.html>
-* Use Bitcoin with confidence.
+* Use Bitcoin with confidence
 <br><https://bitzuma.com/owning-bitcoin>
 * Pruned Node
 <br><https://programmingblockchain.gitbook.io/programmingblockchain/wallet/pruned-node>
@@ -1679,7 +1679,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://elementsproject.org>
 * freqtrade - Free, open source crypto trading bot https://www.freqtrade.io
 <br><https://github.com/freqtrade/freqtrade>
-* Token.io - Token provides access to banking infrastructure, allowing developers to easily make bank direct payments, retrieve information, and request authorization from end-users.
+* Token.io - Token provides access to banking infrastructure, allowing developers to easily make bank direct payments, retrieve information, and request authorization from end-users
 <br><https://developer.token.io>
 * Introducing the Digital Asset Modeling Language: A Powerful Alternative to Smart Contracts for Financial Institutions
 <br><http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions>
@@ -1744,7 +1744,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://messari.io>
 * Stablecoin Index
 <br><https://stablecoinindex.com>
-* A guide to available tools and platforms for developing on Ethereum.
+* A guide to available tools and platforms for developing on Ethereum
 <br><https://github.com/ConsenSys/ethereum-developer-tools-list>
 * CCXWS - Subset of CCXT w. WebSockets
 <br> https://github.com/altangent/ccxws
@@ -1758,7 +1758,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/stockmlbot>
 * Arbitrage.js - Node.js copy of C++ blackbird library with some improvements
 <br><https://github.com/vladthelittleone/arbitrage.js>
-* Bellman-Form-BTCe-Arbitrager - Runs the bellman-ford algorithm against bitcoin exchanges (currently Btc-e.com) to detect arbitrageable trade cycles.
+* Bellman-Form-BTCe-Arbitrager - Runs the bellman-ford algorithm against bitcoin exchanges (currently Btc-e.com) to detect arbitrageable trade cycles
 <br><https://github.com/a-r-d/Bellman-Form-BTCe-Arbitrager>
 * thanhnguyennguyen/trading-indicator - combines ccxt and technicalindicators
 <br><https://github.com/thanhnguyennguyen/trading-indicator>
@@ -1772,11 +1772,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/PhilosophyPath/status/1544214784857579520>
 * Simple science experiments you can do at home - children will love them
 <br><https://twitter.com/TansuYegen/status/1543534003520770052>
-* Scunthorpe Sans - A font that blocks fuck and other bad words.
+* Scunthorpe Sans - A font that blocks fuck and other bad words
 <br><https://vole.wtf/scunthorpe-sans/>
 * Popping the Crypto Bubble - Stephen Diehl (Adjoint)
 <br><https://www.amazon.com/dp/B0B4B9J4RK>
-* Useful utilities and services over DNS - dns.toys is a DNS server that takes creative liberties with the DNS protocol to offer handy utilities and services that are easily accessible via the command line.
+* Useful utilities and services over DNS - dns.toys is a DNS server that takes creative liberties with the DNS protocol to offer handy utilities and services that are easily accessible via the command line
 <br><https://www.dns.toys>
 * airalo - Stay connected, wherever you travel, at affordable rates (eSIM)
 <br><https://www.airalo.com>
@@ -1786,7 +1786,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/life-itself/web3>
 * SpaceInBrowser - Travel space in your browser
 <br><https://spaceinbrowser.com>
-* Discover websites you didn't know existed.
+* Discover websites you didn't know existed
 <br><https://www.insanelyusefulwebsites.com>
 * AngelList Talent - Join the world's #1 startup community specialized in remote & local technical talent and opportunities
 <br><https://angel.co/candidates/overview>
@@ -1862,11 +1862,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://keepachangelog.com>
 * The Problem with Software: Why Smart Engineers Write Bad Code
 <br><https://www.goodreads.com/review/show/2746187450>
-* Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+* Windows 95 in Electron. Runs on macOS, Linux, and Windows
 <br><https://github.com/felixrieseberg/windows95>
 * Terminal based YouTube player and downloader
 <br><https://github.com/mps-youtube/mps-youtube>
-* 1Password. Go ahead. Forget your passwords.
+* 1Password. Go ahead. Forget your passwords
 <br><https://1password.com>
 * mermaid - A simple markdown-like script language for generating charts from text via javascript
 <br><https://mermaidjs.github.io>
@@ -1880,15 +1880,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.maximiliankiener.com/digitalprojects/time>
 * I quit my job today & my coworker told me to find my "Ikigai". Thought this was awesome so just wanted to share
 <br><https://twitter.com/rachelpage13/status/1034903963944898560>
-* We rely on 15 people to do our science. Without them matplotlib, numpy and pandas would not be maintained.
+* We rely on 15 people to do our science. Without them matplotlib, numpy and pandas would not be maintained
 <br><https://twitter.com/Sydonahi/status/991797172877381632>
-* In 1999, I asked David Gerrold to write a "future of computing" prediction for the magazine where I was Technology Editor. Here's what he wrote.
+* In 1999, I asked David Gerrold to write a "future of computing" prediction for the magazine where I was Technology Editor. Here's what he wrote
 <br><https://twitter.com/estherschindler/status/979005249452232704>
 * My latest attempt to get code reviews faster
 <br><https://twitter.com/kylebshr/status/973965922670018560>
-* 10 lines of code = 10 issues. 500 lines of code = "looks fine." Code reviews.
+* 10 lines of code = 10 issues. 500 lines of code = "looks fine." Code reviews
 <br><https://twitter.com/iamdevloper/status/397664295875805184>
-* The challenge with adding more engineers to a project. Just moving from 3 developers to 4 doubles the number of lines of communication.
+* The challenge with adding more engineers to a project. Just moving from 3 developers to 4 doubles the number of lines of communication
 <br><https://twitter.com/RichRogersIoT/status/914577613300965377>
 * This guy surely has the best opening paragraph of any Wikipedia biography ever
 <br><https://twitter.com/MBarrettCH/status/353998845144875008>
@@ -1905,7 +1905,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.esstech.com/index.php/en/news/newsroom/lg-g7-thinq>
 * SABRE HiFi Mobile DACs
 <br><http://www.esstech.com/index.php/en/products/sabre-digital-analog-converters/sabre-hifi-mobile-dacs>
-* Did Sony’s Chief Sound Architect just tell me they can’t hear or measure the difference between upsampled 248k files and true high-res audio? Wow.
+* Did Sony’s Chief Sound Architect just tell me they can’t hear or measure the difference between upsampled 248k files and true high-res audio? Wow
 <br><http://www.avhub.com.au/news/sound-image/did-sony8217s-chief-sound-architect-just-tell-me-they-can8217t-hear-or-measure-the-difference-between-upsampled-248k-files-and-true-high-res-audio-wow-437891>
 * Hoerboard – Pro Audio & DJ Furniture
 <br><http://www.hoerboard.com/furniture/nineteen>
@@ -1943,7 +1943,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><http://www.mercuryserver.com/forums/showthread.php?168148-Kiss-100-or-Transitions-solve-the-mystery/page2>
 * Last show on Kiss tonight after over 10 years at the station - Transitions continues worldwide in over 40 countries
 <br><https://twitter.com/DJJohnDigweed/status/21251750392504320>
-* Mixriot - archive of dance music, DJ mixes, and digital performances.
+* Mixriot - archive of dance music, DJ mixes, and digital performances
 <br><https://www.mixriot.com>
 * Global Underground Series (001 - 027)
 <br><http://95.211.186.214/Incoming/djmixes_collection_by_oVPN.to/Global%20Underground>
@@ -1967,7 +1967,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://twitter.com/mykola/status/1101337299525267457>
 * S3Express: Amazon S3 Command Line Utility
 <br><https://www.s3express.com>
-* THE LEGASOV TAPES - This blog is dedicaded to the text that comes from academician V.Legasov audio tapes which he recorded after the Chernobyl accident and not long before his death.
+* THE LEGASOV TAPES - This blog is dedicaded to the text that comes from academician V.Legasov audio tapes which he recorded after the Chernobyl accident and not long before his death
 <br><https://legasovtapetranslation.blogspot.com>
 <br><http://www.pseudology.org/razbory/Legasov/00.htm>
 * XiVero MusicScope
