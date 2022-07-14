@@ -88,6 +88,8 @@
 
 ## Haskell
 
+* Algebraic Data Types in Haskell
+<br><https://serokell.io/blog/algebraic-data-types-in-haskell>
 * hemanth/functional-programming-jargon - Jargon from the functional programming world in simple terms
 <br><https://github.com/hemanth/functional-programming-jargon>
 * Could not find module ‘Test.QuickCheck’ (hint: cabal install --lib QuickCheck)
