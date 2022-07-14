@@ -1271,6 +1271,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* pocketbase/pocketbase - Open Source realtime backend in 1 file
+<br><https://github.com/pocketbase/pocketbase>
 * Go's Tooling is an Undervalued Technology
 <br><https://nullprogram.com/blog/2020/01/21>
 * miguelmota/golang-for-nodejs-developers
