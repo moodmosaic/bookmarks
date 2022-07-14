@@ -1151,6 +1151,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* Borg - Deduplicating archiver with compression and authenticated encryption
+<br><https://github.com/borgbackup/borg>
 * browsh-org/browsh - A fully-modern text-based browser, rendering to TTY and browsers
 <br><https://github.com/browsh-org/browsh>
 * macOS: App sandboxing via `sandbox-exec`
@@ -1163,6 +1165,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/withfig/autocomplete>
 * vim.so
 <br><https://www.vim.so>
+* vimified
+<br><https://www.vimified.com>
 * asdf-vm/asdf - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 <br><https://github.com/asdf-vm/asdf>
 * Switching from pyenv, rbenv, goenv and nvm to asdf
