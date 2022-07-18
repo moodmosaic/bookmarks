@@ -1366,6 +1366,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Lefteris Kokoris-Kogias - Understanding Blockchain Latency and Throughput
+<br><https://www.paradigm.xyz/2022/07/consensus-throughput>
 * dabit3/foundry-cheatsheet
 <br><https://github.com/dabit3/foundry-cheatsheet>
 * Rari-Capital/solmate - Modern, opinionated, and gas optimized building blocks for smart contract development
@@ -1776,6 +1778,16 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* GoFullPage - Full Page Screen Capture
+<br><https://gofullpage.com>
+* Top 10 mind blowing movies you should watch
+<br><https://twitter.com/First_alphas/status/1546764774465208323>
+* The simplest SQL cheat sheet you'll ever find
+<br><https://twitter.com/swapnakpanda/status/1545033898287153158>
+* The simplest regular expressions cheat sheet you'll ever find
+<br><https://twitter.com/avikumart_/status/1545158214525878276>
+* Good GitHub README
+<br><https://twitter.com/michaelroker/status/1545859378896523264>
 * 10 Powerful Laws to Improve Your Life
 <br><https://twitter.com/PhilosophyPath/status/1544214784857579520>
 * Simple science experiments you can do at home - children will love them
