@@ -27,6 +27,8 @@
 
 ## C/C++
 
+* C++ Best Practises - Part of Jason Turner's collection of C++ Best Practices resources
+<br><https://github.com/cpp-best-practices/cppbestpractices>
 * h/cpp hacking C++
 <br><https://hackingcpp.com>
 * Walkthrough: Compiling a Native C++ Program on the Command Line
