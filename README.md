@@ -90,6 +90,10 @@
 
 ## Haskell
 
+* Universal and Existential Quantification in Haskell
+<br><https://serokell.io/blog/universal-and-existential-quantification>
+* Set Up a Haskell Development Environment in Three Steps (incl Stack integration with GHCUp)
+<br><https://gist.github.com/lsmor/bb632565cd96be9da589b6e91f80f9ba/35038622363704b00258f857344845af29d5f4f8>
 * Algebraic Data Types in Haskell
 <br><https://serokell.io/blog/algebraic-data-types-in-haskell>
 * hemanth/functional-programming-jargon - Jargon from the functional programming world in simple terms
