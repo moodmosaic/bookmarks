@@ -776,6 +776,8 @@
 
 ## TypeScript ##
 
+* A simplified implementation of TypeScript's type system that's written in TypeScript's type annotations
+<br><https://github.com/ronami/HypeScript>
 * fresh - The next-gen web framework. (Deno, TypeScript)
 <br><https://fresh.deno.dev>
 * Aleksandr Pakulev (Serokell) - How to Write TypeScript Like a Haskeller
