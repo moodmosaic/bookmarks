@@ -838,6 +838,8 @@
 
 ## F# ##
 
+* Return total balance from unsorted purchase items that may have specials
+<br><https://codereview.stackexchange.com/questions/139578/return-total-balance-from-unsorted-purchase-items-that-may-have-specials>
 * I'm as shocked as you, but the Darklang backend rewrite is actually complete
 <br><https://blog.darklang.com/backend-rewrite-complete>
 <br><https://twitter.com/darklang/status/1533824772064399360>
