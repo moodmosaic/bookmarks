@@ -1792,6 +1792,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Leisurenftbadger - Missing piece
+<br><https://twitter.com/nftbadger/status/1550150258662973441>
+* pblasucci's PowerShell blog
+<br><https://github.com/pblasucci/pblasucci.github.io>
 * GoFullPage - Full Page Screen Capture
 <br><https://gofullpage.com>
 * Top 10 mind blowing movies you should watch
