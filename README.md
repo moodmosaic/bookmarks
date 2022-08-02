@@ -1385,9 +1385,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * dabit3/foundry-cheatsheet
 <br><https://github.com/dabit3/foundry-cheatsheet>
 * Rari-Capital/solmate - Modern, opinionated, and gas optimized building blocks for smart contract development
-<br><https://github.com/Rari-Capital/solmate>
+<br><https://github.com/transmissions11/solmate>
 * Rari-Capital/solcurity - Opinionated security and code quality standard for Solidity smart contracts
-<br><https://github.com/Rari-Capital/solcurity>
+<br><https://github.com/transmissions11/solcurity>
 * SunWeb3Sec/DeFiVulnLabs - common smart contract vulnerabilities using Foundry
 <br><https://github.com/SunWeb3Sec/DeFiVulnLabs>
 * t4sk/notes - note on uniswap, impermanent loss, geometric mean, and more
