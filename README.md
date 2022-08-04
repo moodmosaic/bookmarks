@@ -1337,6 +1337,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Clarity
 
+* pointer.gg - Build a DEX on Stacks
+<br><https://www.pointer.gg/tutorials/build-a-dex-with-stacks/56abb3a4-05c1-4608-b096-f82189e9f759>
 * fast-check - bias
 <br><https://github.com/dubzzz/fast-check/blob/main/packages/fast-check/documentation/HowItWorks.md#bias>
 * fast-check - biased arbitraries
