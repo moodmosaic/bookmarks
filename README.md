@@ -90,6 +90,10 @@
 
 ## Haskell
 
+* Dynamic Exception Reporting in Haskell
+<br><https://www.parsonsmatt.org/2022/08/16/dynamic_exception_reporting_in_haskell.html>
+* Across the Kmettverse with Edward Kmett
+<br><https://www.youtube.com/watch?v=jZrCVp5ekbA>
 * Universal and Existential Quantification in Haskell
 <br><https://serokell.io/blog/universal-and-existential-quantification>
 * Set Up a Haskell Development Environment in Three Steps (incl Stack integration with GHCUp)
