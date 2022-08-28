@@ -1390,6 +1390,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Solidity Gas Optimizations Cheat Sheet
+<br><https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet>
+* Summary of the #bitcoin whitepaper
+<br><https://twitter.com/DocumentingBTC/status/1560014346373287936>
 * This is the most relaxing website on the Internet. You can watch live as #bitcoin transactions enter the mempool and then get published in a block!
 <br><https://bitfeed.live>
 * jtriley_eth - So I was looking at the way
