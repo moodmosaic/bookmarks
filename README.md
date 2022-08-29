@@ -1925,8 +1925,11 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/mps-youtube/mps-youtube>
 * 1Password. Go ahead. Forget your passwords
 <br><https://1password.com>
+* How to include graphviz graphs in github README
+<br><https://github.com/TLmaK0/gravizo>
 * mermaid - A simple markdown-like script language for generating charts from text via javascript
 <br><https://mermaidjs.github.io>
+<br><https://gist.github.com/terrajobst/a6013eefce5ec803bd967257226c25ec>
 * Hyperpolyglot - Programming Languages - Cmmonly used features in a side-by-side format
 <br><http://hyperpolyglot.org>
 * 1.1.1.1 — the Internet's Fastest, Privacy-First DNS Resolver
