@@ -1811,6 +1811,12 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* An open source list of developer questions to ask prospective employers
+<br><https://github.com/Twipped/InterviewThis>
+* Technical Writing Courses from Google
+<br><https://developers.google.com/tech-writing>
+* With this folding hack, the child develops a basic set of life tools
+<br><https://twitter.com/TansuYegen/status/1556522930493857794>
 * Leisurenftbadger - Missing piece
 <br><https://twitter.com/nftbadger/status/1550150258662973441>
 * pblasucci's PowerShell blog
