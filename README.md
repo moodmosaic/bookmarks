@@ -1811,6 +1811,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* Optimize the audio quality of loudspeakers
+<br><https://github.com/erdewit/HiFiScan>
 * Windows Server: how to use as a desktop PC - Adam In TechWindows Server: how to use as a desktop PC - Adam In Tech
 <br><https://www.adamintech.com/run-windows-server-as-a-desktop-pc>
 * An open source list of developer questions to ask prospective employers
