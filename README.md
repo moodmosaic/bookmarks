@@ -90,6 +90,8 @@
 
 ## Haskell
 
+* Easy JSON in Haskell
+<br><https://blog.drewolson.org/easy-json>
 * mtl is Not a Monad Transformer Library
 <br><https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html>
 * Dynamic Exception Reporting in Haskell
