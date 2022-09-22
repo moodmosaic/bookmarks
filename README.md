@@ -61,6 +61,8 @@
 <br><https://nullprogram.com/blog/2020/05/15>
 * Running w64devkit.exe from an existing cmd.exe prompt
 <br><https://github.com/skeeto/w64devkit/issues/18>
+* C++ By Example
+<br><https://cppbyexample.com>
 
 [Back to top](#)
 
