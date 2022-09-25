@@ -1396,6 +1396,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Comments on the White House report on the climate implications of crypto mining
+<br><https://medium.com/@nic__carter/comments-on-the-white-house-report-on-the-climate-implications-of-crypto-mining-8d65d30ec942>
 * Solidity Gas Optimizations Cheat Sheet
 <br><https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet>
 * Summary of the #bitcoin whitepaper
