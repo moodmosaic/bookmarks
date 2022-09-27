@@ -1819,6 +1819,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Leisure
 
+* 58 bytes of CSS to look great nearly everywhere
+<br><https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41>
 * Optimize the audio quality of loudspeakers
 <br><https://github.com/erdewit/HiFiScan>
 * Windows Server: how to use as a desktop PC - Adam In TechWindows Server: how to use as a desktop PC - Adam In Tech
