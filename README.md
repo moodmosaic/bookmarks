@@ -1813,7 +1813,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/a-r-d/Bellman-Form-BTCe-Arbitrager>
 * thanhnguyennguyen/trading-indicator - combines ccxt and technicalindicators
 <br><https://github.com/thanhnguyennguyen/trading-indicator>
-
+* Binance's new hot wallet teleporting for 76$
+<br><https://twitter.com/DocumentingBTC/status/1575850464804950018>
+<br><https://mempool.space/tx/dbc7b2c594b67ccd19fe657b0acf80121b59ebb43e98cba5eb3bd1509fb9d428>
 
 [Back to top](#)
 
