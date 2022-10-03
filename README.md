@@ -2056,5 +2056,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.xivero.com/tutorial-how-to-analyze-any-audio-format>
 * Emotiva XPS-1 high-performance phono preamplifier
 <br><https://emotiva.com/products/xps-1>
+* Introduction to the Theory of Programming Languages: full book now freely available
+<br><https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available>
+<br><https://bertrandmeyer.com/itpl>
 
 [Back to top](#)
