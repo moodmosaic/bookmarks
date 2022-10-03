@@ -2059,5 +2059,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Introduction to the Theory of Programming Languages: full book now freely available
 <br><https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available>
 <br><https://bertrandmeyer.com/itpl>
+* NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad
+<br><https://netnewswire.com>
 
 [Back to top](#)
