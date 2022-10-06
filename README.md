@@ -2065,5 +2065,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://worldsensorium.com/why-are-plants-green>
 * How to switch to 1920x1080 resolution on a Mac with QuickRes
 <br><https://thnkdev.com/QuickRes/1920-1080-resolution>
+* Why RCS? Better carrier messaging for everyone
+<br><https://jibe.google.com>
 
 [Back to top](#)
