@@ -2067,5 +2067,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://thnkdev.com/QuickRes/1920-1080-resolution>
 * Why RCS? Better carrier messaging for everyone
 <br><https://jibe.google.com>
+* Living with the Dark Winters in Sweden | Midnight sun & Polar night
+<br><https://www.youtube.com/watch?v=3zTR4ayDG38>
+* ZOV - 978-1-80081-731-9 (ISBN)
+<br><https://www.lehmanns.de/shop/sozialwissenschaften/60893330-9781800817319-zov>
 
 [Back to top](#)
