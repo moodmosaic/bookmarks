@@ -1815,7 +1815,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/a-r-d/Bellman-Form-BTCe-Arbitrager>
 * thanhnguyennguyen/trading-indicator - combines ccxt and technicalindicators
 <br><https://github.com/thanhnguyennguyen/trading-indicator>
-
+* Binance's new hot wallet teleporting for 76$
+<br><https://twitter.com/DocumentingBTC/status/1575850464804950018>
+<br><https://mempool.space/tx/dbc7b2c594b67ccd19fe657b0acf80121b59ebb43e98cba5eb3bd1509fb9d428>
 
 [Back to top](#)
 
@@ -2056,5 +2058,20 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.xivero.com/tutorial-how-to-analyze-any-audio-format>
 * Emotiva XPS-1 high-performance phono preamplifier
 <br><https://emotiva.com/products/xps-1>
+* Introduction to the Theory of Programming Languages: full book now freely available
+<br><https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available>
+<br><https://bertrandmeyer.com/itpl>
+* NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad
+<br><https://netnewswire.com>
+* Why Plants Are Green?
+<br><https://worldsensorium.com/why-are-plants-green>
+* How to switch to 1920x1080 resolution on a Mac with QuickRes
+<br><https://thnkdev.com/QuickRes/1920-1080-resolution>
+* Why RCS? Better carrier messaging for everyone
+<br><https://jibe.google.com>
+* Living with the Dark Winters in Sweden | Midnight sun & Polar night
+<br><https://www.youtube.com/watch?v=3zTR4ayDG38>
+* ZOV - 978-1-80081-731-9 (ISBN)
+<br><https://www.lehmanns.de/shop/sozialwissenschaften/60893330-9781800817319-zov>
 
 [Back to top](#)
