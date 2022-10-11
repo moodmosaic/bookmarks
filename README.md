@@ -92,6 +92,8 @@
 
 ## Haskell
 
+* dmjio/functional-lexing-and-parsing-talk
+<br><https://github.com/dmjio/functional-lexing-and-parsing-talk>
 * Easy JSON in Haskell
 <br><https://blog.drewolson.org/easy-json>
 * mtl is Not a Monad Transformer Library
