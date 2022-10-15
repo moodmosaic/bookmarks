@@ -21,7 +21,7 @@
 * [Rust](#rust)
 * [Clarity](#clarity)
 * [Blockchains](#blockchains)
-* [Leisure](#leisure)
+* [Further](#further)
 * [MSSQL](#mssql)
 * [Microsoft Visual Studio](#microsoft-visual-studio)
 
@@ -1821,7 +1821,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 [Back to top](#)
 
-## Leisure
+## Further
 
 * 58 bytes of CSS to look great nearly everywhere
 <br><https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41>
