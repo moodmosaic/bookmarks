@@ -1823,6 +1823,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* PO-80 record factory is a compact and portable record cutter, made in collaboration with yuri suzuki
+<br><https://teenage.engineering/products/po-80>
 * 58 bytes of CSS to look great nearly everywhere
 <br><https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41>
 * Optimize the audio quality of loudspeakers
