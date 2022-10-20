@@ -1827,6 +1827,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://teenage.engineering/products/po-80>
 * How To Download All of Wikipedia onto a USB Flash Drive in 2022
 <br><https://planetofthepaul.com/wikipedia-download-usb-flash>
+<br><https://www.kiwix.org>
 * 58 bytes of CSS to look great nearly everywhere
 <br><https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41>
 * Optimize the audio quality of loudspeakers
