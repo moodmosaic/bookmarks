@@ -1823,6 +1823,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts.
+<br><https://chartscss.org>
 * PO-80 record factory is a compact and portable record cutter, made in collaboration with yuri suzuki
 <br><https://teenage.engineering/products/po-80>
 * How To Download All of Wikipedia onto a USB Flash Drive in 2022
