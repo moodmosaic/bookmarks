@@ -1825,6 +1825,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts.
 <br><https://chartscss.org>
+* Wrap Sealer Machine I-Bar Shrink Wrap Machine 12" 450W with 1800W Heat Gun and Shrink Wrap for PVC POF Film Plastic Bags
+<br><https://www.amazon.com/dp/B09HXN478Y>
 * PO-80 record factory is a compact and portable record cutter, made in collaboration with yuri suzuki
 <br><https://teenage.engineering/products/po-80>
 * How To Download All of Wikipedia onto a USB Flash Drive in 2022
