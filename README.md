@@ -1829,6 +1829,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.amazon.com/dp/B09HXN478Y>
 * uNetworking/uWebSockets - Simple, secure & standards compliant web server for the most demanding of applications
 <br><https://github.com/uNetworking/uWebSockets>
+* Today is a big day @InfluxDB. We're announcing the release of InfluxDB IOx, the new core of the database written in #rustlang and built with @ApacheArrow. It delivers infinite cardinality, tiered data storage, SQL compatibility and so much more. Here's some of the background...
+<br><https://twitter.com/pauldix/status/1585291514728435712>
 * PO-80 record factory is a compact and portable record cutter, made in collaboration with yuri suzuki
 <br><https://teenage.engineering/products/po-80>
 * How To Download All of Wikipedia onto a USB Flash Drive in 2022
