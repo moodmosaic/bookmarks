@@ -1831,6 +1831,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/uNetworking/uWebSockets>
 * Today is a big day @InfluxDB. We're announcing the release of InfluxDB IOx, the new core of the database written in #rustlang and built with @ApacheArrow. It delivers infinite cardinality, tiered data storage, SQL compatibility and so much more. Here's some of the background...
 <br><https://twitter.com/pauldix/status/1585291514728435712>
+* iPhone 14 Pro Camera Review: A Small Step, A Huge Leap
+<br><https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap>
+<br><https://apps.apple.com/us/app/halide-mark-ii-pro-camera/id885697368>
 * PO-80 record factory is a compact and portable record cutter, made in collaboration with yuri suzuki
 <br><https://teenage.engineering/products/po-80>
 * How To Download All of Wikipedia onto a USB Flash Drive in 2022
