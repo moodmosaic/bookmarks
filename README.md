@@ -27,6 +27,10 @@
 
 ## C/C++
 
+* rxi/microui - A tiny immediate-mode UI library
+<br><https://github.com/rxi/microui>
+* kroitor/gjk.c - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C. (Beautiful diagrams!)
+<br><https://github.com/kroitor/gjk.c>
 * C++ Best Practises - Part of Jason Turner's collection of C++ Best Practices resources
 <br><https://github.com/cpp-best-practices/cppbestpractices>
 * h/cpp hacking C++
@@ -75,6 +79,8 @@
 
 ## Python
 
+* kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts
+<br><https://github.com/kellyjonbrazil/jc>
 * Python Design Patterns
 <br><https://python-patterns.guide>
 * Hypermodern Python
