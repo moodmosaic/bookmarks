@@ -98,6 +98,15 @@
 
 ## Haskell
 
+* Parametrised unit tests in Haskell
+<br><https://twitter.com/nikosbaxevanis/status/990931616095711232>
+<br><https://gist.github.com/moodmosaic/8fe5dbd596e45af00e1af8edcd7e851b>
+* Applicative assertions
+<br><https://twitter.com/lucasdicioccio/status/1572639255582867456>
+<br><https://gist.github.com/lucasdicioccio/cc16f604a12cd83bf6a1a6bc5b37afd3>
+<br><https://blog.ploeh.dk/2022/11/07/applicative-assertions>
+* tittoassini/notebook - Transform your old and tired Haskell source files into shining Notebooks
+<br><https://github.com/tittoassini/notebook>
 * dmjio/functional-lexing-and-parsing-talk
 <br><https://github.com/dmjio/functional-lexing-and-parsing-talk>
 * Easy JSON in Haskell
@@ -1070,6 +1079,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## JavaScript
 
+* hemanth/functional-programming-jargon - Functional Programming Jargon
+<br><https://github.com/hemanth/functional-programming-jargon#functional-programming-libraries-in-javascript>
 * Svelvet allows you to easily create intuitive flow diagrams using pre-built components with seamless zooming and panning, and more
 <br><https://svelvet.io>
 * Practical functional Javascript
