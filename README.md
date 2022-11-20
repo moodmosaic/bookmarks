@@ -1844,6 +1844,14 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* macOS keeps a huge wallpapers cache
+<br><https://giuliomagnifico.blog/tips/2022/09/25/macos-wallpaper-huge-cache.html>
+* Make-A-Video is a state-of-the-art AI system that generates videos from text. (From Meta, Facebook.)
+<br><https://makeavideo.studio>
+* Enable SSH Windows Server 2019
+<br><https://www.experiencingit.net/windows/windows-server/native-ssh-windows-server-2019>
+* How Regexes Work
+<br><https://perl.plover.com/Regex/article.html>
 * Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts.
 <br><https://chartscss.org>
 * Wrap Sealer Machine I-Bar Shrink Wrap Machine 12" 450W with 1800W Heat Gun and Shrink Wrap for PVC POF Film Plastic Bags
