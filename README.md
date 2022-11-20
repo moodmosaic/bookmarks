@@ -1349,6 +1349,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Rust
 
+* LGUG2Z/komorebi - A tiling window manager for Windows
+<br><https://github.com/LGUG2Z/komorebi>
 * Easy Rust
 <br><https://dhghomon.github.io/easy_rust>
 * cheats.rs
@@ -1415,6 +1417,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Bitcoin is transparent, predictable, and reliable
+<br><https://twitter.com/DocumentingBTC/status/1582773654991294464>
 * Comments on the White House report on the climate implications of crypto mining
 <br><https://medium.com/@nic__carter/comments-on-the-white-house-report-on-the-climate-implications-of-crypto-mining-8d65d30ec942>
 * Solidity Gas Optimizations Cheat Sheet
