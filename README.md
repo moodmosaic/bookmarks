@@ -1195,8 +1195,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/browsh-org/browsh>
 * macOS: App sandboxing via `sandbox-exec`
 <br><https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html>
-* Install Ubuntu Desktop 22.04 ARM64 on macOS Apple Silicon (M1/Pro/Max) in Parallels
-<br><https://askubuntu.com/questions/1405124/install-ubuntu-desktop-22-04-arm64-on-macos-apple-silicon-m1-pro-max-in-parall>
 * Fig adds autocomplete to your terminal
 <br><https://github.com/withfig/autocomplete>
 * vim.so
