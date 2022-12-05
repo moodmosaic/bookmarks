@@ -1187,6 +1187,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* skeeto/gnupg-windows-build - Cross-compile GnuPG for Windows using Docker
+<br><https://github.com/skeeto/gnupg-windows-build>
 * Borg - Deduplicating archiver with compression and authenticated encryption
 <br><https://github.com/borgbackup/borg>
 * browsh-org/browsh - A fully-modern text-based browser, rendering to TTY and browsers
