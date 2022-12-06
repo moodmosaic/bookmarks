@@ -1855,6 +1855,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* Obsidian.md - A second brain, for you, forever.
+<br><https://obsidian.md>
 * OpenAI's new ChatGPT is mind-blowing. Asking it to explain a complicated regex with no context
 <br><https://twitter.com/jwblackwell/status/1598090447854792705>
 * macOS keeps a huge wallpapers cache
