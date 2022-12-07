@@ -1835,6 +1835,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Binance's new hot wallet teleporting for 76$
 <br><https://twitter.com/DocumentingBTC/status/1575850464804950018>
 <br><https://mempool.space/tx/dbc7b2c594b67ccd19fe657b0acf80121b59ebb43e98cba5eb3bd1509fb9d428>
+* Intraday RSI MACD back test using ccxt and backtrader
+<br><https://norman-lm-fung.medium.com/intraday-rsi-macd-back-test-using-ccxt-and-backtrader-bc09c995ce8d>
 * Grademark - An API for backtesting trading strategies in JavaScript and TypeScript
 <br><https://github.com/Grademark/grademark>
 * Debut - Environment for developing and launching trading strategies
