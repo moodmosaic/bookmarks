@@ -1835,6 +1835,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Binance's new hot wallet teleporting for 76$
 <br><https://twitter.com/DocumentingBTC/status/1575850464804950018>
 <br><https://mempool.space/tx/dbc7b2c594b67ccd19fe657b0acf80121b59ebb43e98cba5eb3bd1509fb9d428>
+* DeviaVir/zenbot - Command-line Bitcoin and Crypto trading bot
+<br><https://github.com/DeviaVir/zenbot>
 * Luca Zanolini - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
 <br><https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md>
 
