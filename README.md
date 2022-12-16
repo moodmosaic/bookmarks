@@ -1835,6 +1835,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Binance's new hot wallet teleporting for 76$
 <br><https://twitter.com/DocumentingBTC/status/1575850464804950018>
 <br><https://mempool.space/tx/dbc7b2c594b67ccd19fe657b0acf80121b59ebb43e98cba5eb3bd1509fb9d428>
+* Octobot - A trading robot which is designed to be easy to use and infinitely customizable
+<br><https://www.octobot.online>
 * Wolfbot - Bitcoin and Crypto trading bot
 <br><https://github.com/Ekliptor/WolfBot>
 * DeviaVir/zenbot - Command-line Bitcoin and Crypto trading bot
