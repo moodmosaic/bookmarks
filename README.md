@@ -1874,6 +1874,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.adamintech.com/run-windows-server-as-a-desktop-pc>
 * An open source list of developer questions to ask prospective employers
 <br><https://github.com/Twipped/InterviewThis>
+* Same but for CTOs - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+<br><https://github.com/kuchin/awesome-cto>
 * Technical Writing Courses from Google
 <br><https://developers.google.com/tech-writing>
 * With this folding hack, the child develops a basic set of life tools
