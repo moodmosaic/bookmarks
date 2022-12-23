@@ -89,6 +89,8 @@
 
 ## Haskell
 
+* chshersh/dr-cabal - Haskell dependencies build times profiler
+<br><https://github.com/chshersh/dr-cabal>
 * Parametrised unit tests in Haskell
 <br><https://twitter.com/nikosbaxevanis/status/990931616095711232>
 <br><https://gist.github.com/moodmosaic/8fe5dbd596e45af00e1af8edcd7e851b>
