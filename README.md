@@ -14,16 +14,14 @@
 * [CLR](#clr)
 * [JavaScript](#javascript)
 * [Git](#git)
+* [Microsoft Visual Studio](#microsoft-visual-studio)
 * [Sublime Text](#sublime-text)
 * [Nix](#nix)
 * [Unix-like](#unix-like)
 * [Go](#go)
 * [Rust](#rust)
-* [Clarity](#clarity)
 * [Blockchains](#blockchains)
 * [Further](#further)
-* [MSSQL](#mssql)
-* [Microsoft Visual Studio](#microsoft-visual-studio)
 
 ## C/C++
 
@@ -67,13 +65,6 @@
 <br><https://github.com/skeeto/w64devkit/issues/18>
 * C++ By Example
 <br><https://cppbyexample.com>
-
-[Back to top](#)
-
-## MSSQL
-
-* Cannot truncate table because it is being referenced by a FOREIGN KEY constraint?
-<br><https://stackoverflow.com/a/24706210>
 
 [Back to top](#)
 
@@ -1366,7 +1357,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 [Back to top](#)
 
-## Clarity
+## Blockchains
 
 * Image taken from @Spotify engineering blog, https://engineering.atspotify.com/2015/06/rapid-check/, but has its roots in the Erlang version of QuickCheck. I've encoded the technique a couple of times in Stacks using Clarinet. See the links at the previous tweets.
 <br><https://mobile.twitter.com/nikosbaxevanis/status/1540731191300685825>
@@ -1412,11 +1403,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://clarity.tools>
 * clarity-lang/overview (Hello World Tutorial)
 <br><https://github.com/clarity-lang/overview>
-
-[Back to top](#)
-
-## Blockchains
-
 * Bitcoin is transparent, predictable, and reliable
 <br><https://twitter.com/DocumentingBTC/status/1582773654991294464>
 * Comments on the White House report on the climate implications of crypto mining
