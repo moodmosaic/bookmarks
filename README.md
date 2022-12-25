@@ -831,6 +831,8 @@
 
 ## C# ##
 
+* I just listened to the @NoDogmaPodcast with @MadsTorgersen and while I don't know much about language design, I do know my way around C#, #fsharp, and Haskell, so would like to humbly make some comments. 1/5
+<br><https://twitter.com/ploeh/status/1605894663914782723>
 * Favor real dependencies for unit testing
 <br><https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing>
 * Testing is pretty nice with #aspnetcore minimal APIs
