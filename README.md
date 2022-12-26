@@ -1835,11 +1835,16 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Binance's new hot wallet teleporting for 76$
 <br><https://twitter.com/DocumentingBTC/status/1575850464804950018>
 <br><https://mempool.space/tx/dbc7b2c594b67ccd19fe657b0acf80121b59ebb43e98cba5eb3bd1509fb9d428>
+* Luca Zanolini - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
+<br><https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md>
+
 
 [Back to top](#)
 
 ## Further
 
+* OpenAI's new ChatGPT is mind-blowing. Asking it to explain a complicated regex with no context
+<br><https://twitter.com/jwblackwell/status/1598090447854792705>
 * macOS keeps a huge wallpapers cache
 <br><https://giuliomagnifico.blog/tips/2022/09/25/macos-wallpaper-huge-cache.html>
 * Make-A-Video is a state-of-the-art AI system that generates videos from text. (From Meta, Facebook.)
