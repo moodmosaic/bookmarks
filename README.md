@@ -1114,6 +1114,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Git
 
+* A Note About Git Commit Messages
+<br><https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
 * Include diagrams in your Markdown files with Mermaid
 <br><https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid>
 <br><http://mermaid-js.github.io/mermaid>
