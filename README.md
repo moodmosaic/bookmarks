@@ -1203,6 +1203,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* How to manage Wi-Fi with Terminal commands on macOS
+<br><https://www.techrepublic.com/article/pro-tip-manage-wi-fi-with-terminal-commands-on-os-x>
+* airport: a hidden Wi-Fi tool in macOS Sierra
+<br><https://eclecticlight.co/2017/07/08/airport-a-hidden-wi-fi-tool-in-macos-sierra>
 * skeeto/gnupg-windows-build - Cross-compile GnuPG for Windows using Docker
 <br><https://github.com/skeeto/gnupg-windows-build>
 * Borg - Deduplicating archiver with compression and authenticated encryption
