@@ -14,8 +14,9 @@
 * [CLR](#clr)
 * [JavaScript](#javascript)
 * [Git](#git)
-* [Microsoft Visual Studio](#microsoft-visual-studio)
+* [Docker](#docker)
 * [Sublime Text](#sublime-text)
+* [Microsoft Visual Studio](#microsoft-visual-studio)
 * [Nix](#nix)
 * [Unix-like](#unix-like)
 * [Go](#go)
@@ -89,6 +90,8 @@
 
 ## Haskell
 
+* thma/srv - srv is a tiny web server for local deployments
+<br><https://github.com/thma/srv>
 * chshersh/dr-cabal - Haskell dependencies build times profiler
 <br><https://github.com/chshersh/dr-cabal>
 * Parametrised unit tests in Haskell
@@ -833,6 +836,8 @@
 
 * I just listened to the @NoDogmaPodcast with @MadsTorgersen and while I don't know much about language design, I do know my way around C#, #fsharp, and Haskell, so would like to humbly make some comments. 1/5
 <br><https://twitter.com/ploeh/status/1605894663914782723>
+* bflattened/bflat - C# as you know it but with Go-inspired tooling that produces small, selfcontained, and native executables out of the box
+<br><https://github.com/bflattened/bflat>
 * Favor real dependencies for unit testing
 <br><https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing>
 * Testing is pretty nice with #aspnetcore minimal APIs
@@ -1142,10 +1147,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 [Back to top](#)
 
-## Microsoft Visual Studio
+## Docker
 
-* Add Visual Studio editor support for other languages
-<br><https://docs.microsoft.com/en-us/visualstudio/ide/adding-visual-studio-editor-support-for-other-languages>
+* Cross-compile GnuPG for Windows using Docker
+<br><https://github.com/skeeto/gnupg-windows-build>
 
 [Back to top](#)
 
@@ -1155,6 +1160,13 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/tonsky/sublime-scheme-alabaster>
 * Porting Atom packages to VSCode? (Perhaps works also with Sublime Text?)
 <br><https://www.reddit.com/r/vscode/comments/7qins6/porting_atom_packages_to_vscode/dsrdeqb>
+
+[Back to top](#)
+
+## Microsoft Visual Studio
+
+* Add Visual Studio editor support for other languages
+<br><https://docs.microsoft.com/en-us/visualstudio/ide/adding-visual-studio-editor-support-for-other-languages>
 
 [Back to top](#)
 
@@ -1405,6 +1417,13 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://clarity.tools>
 * clarity-lang/overview (Hello World Tutorial)
 <br><https://github.com/clarity-lang/overview>
+
+[Back to top](#)
+
+## Blockchains
+
+* Stablecoin mechanisms and use cases - Patrick McKenzie (patio11)
+<br><https://www.bitsaboutmoney.com/archive/stablecoin-mechanisms-and-use-cases>
 * The Lightning Network Made Easy
 <br><https://www.youtube.com/watch?v=nusOl6wb1a4>
 * 1ML - Lightning Network Search and Analysis Engine
@@ -1855,6 +1874,14 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://obsidian.md>
 * OpenAI's new ChatGPT is mind-blowing. Asking it to explain a complicated regex with no context
 <br><https://twitter.com/jwblackwell/status/1598090447854792705>
+* Extreme questions to trigger new, better ideas
+<br><https://longform.asmartbear.com/posts/extreme-questions>
+* r/learnprogramming - u/Clydeazy - I'm in prison & trying to learn to code.
+<br><https://www.reddit.com/r/learnprogramming/comments/6ekb7k>
+* Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files
+<br><https://obsidian.md>
+* My 3yo daughter and I just made a book together, written by GPT-3 and illustrated by Dall-e 2
+<br><https://twitter.com/runarorama/status/1608482155314966529>
 * macOS keeps a huge wallpapers cache
 <br><https://giuliomagnifico.blog/tips/2022/09/25/macos-wallpaper-huge-cache.html>
 * Make-A-Video is a state-of-the-art AI system that generates videos from text. (From Meta, Facebook.)
