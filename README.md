@@ -1318,6 +1318,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/lukechilds/chest>
 * Epic! Watching Brian Kernighan interviewing Ken Thompson where Ken appears with the geekiest t-shirt ever. T-shirt says "ΕΠΙΤΕΛΟΥΣ ΤΟ ΚΑΤΑΛΑΒΑ"
 <br><https://twitter.com/pmoust/status/1152351455749255168>
+* Portable use of Bitvise SSH Client
+<br><>
 
 [Back to top](#)
 
@@ -1425,11 +1427,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://clarity.tools>
 * clarity-lang/overview (Hello World Tutorial)
 <br><https://github.com/clarity-lang/overview>
-
-[Back to top](#)
-
-## Blockchains
-
 * Stablecoin mechanisms and use cases - Patrick McKenzie (patio11)
 <br><https://www.bitsaboutmoney.com/archive/stablecoin-mechanisms-and-use-cases>
 * The Lightning Network Made Easy
