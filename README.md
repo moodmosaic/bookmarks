@@ -1171,6 +1171,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Add Visual Studio editor support for other languages
 <br><https://docs.microsoft.com/en-us/visualstudio/ide/adding-visual-studio-editor-support-for-other-languages>
+* Have you heard of .http files?
+<br><https://twitter.com/HassanRezkHabib/status/1617734005306294272>
 
 [Back to top](#)
 
