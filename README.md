@@ -26,6 +26,8 @@
 
 ## C/C++
 
+* Build Your Own Redis with C/C++
+<br><https://build-your-own.org>
 * rxi/microui - A tiny immediate-mode UI library
 <br><https://github.com/rxi/microui>
 * kroitor/gjk.c - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C. (Beautiful diagrams!)
