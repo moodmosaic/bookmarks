@@ -803,6 +803,8 @@
 
 * TSDX - Zero-config CLI for TypeScript package development
 <br><https://tsdx.io>
+* palladin/typescript-snippets/src/eff.ts
+<br><https://github.com/palladin/typescript-snippets/blob/main/src/eff.ts>
 * A simplified implementation of TypeScript's type system that's written in TypeScript's type annotations
 <br><https://github.com/ronami/HypeScript>
 * fresh - The next-gen web framework. (Deno, TypeScript)
