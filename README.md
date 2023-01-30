@@ -1215,6 +1215,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://eclecticlight.co/2017/07/08/airport-a-hidden-wi-fi-tool-in-macos-sierra>
 * skeeto/gnupg-windows-build - Cross-compile GnuPG for Windows using Docker
 <br><https://github.com/skeeto/gnupg-windows-build>
+* A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding
+<br><https://iximiuz.com/en/posts/ssh-tunnels>
+* warpgate - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
+<br><https://github.com/warp-tech/warpgate>
 * Borg - Deduplicating archiver with compression and authenticated encryption
 <br><https://github.com/borgbackup/borg>
 * browsh-org/browsh - A fully-modern text-based browser, rendering to TTY and browsers
