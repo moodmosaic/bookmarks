@@ -1885,12 +1885,17 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* Kudos to the folks at Google that have worked on this https://developer.android.com/courses/android-basics-compose/course. The way it is structured, guiding you, yet allowing you to explore specific code labs, skipping others, marking things as optional, etc... is extremely well done!
+<br><https://twitter.com/hhariri/status/1619635765964832769>
+<br><https://developer.android.com/courses/android-basics-compose/course>
 * Obsidian.md - A second brain, for you, forever.
 <br><https://obsidian.md>
 * OpenAI's new ChatGPT is mind-blowing. Asking it to explain a complicated regex with no context
 <br><https://twitter.com/jwblackwell/status/1598090447854792705>
 * Extreme questions to trigger new, better ideas
 <br><https://longform.asmartbear.com/posts/extreme-questions>
+* Software Engineering at Google
+<br><https://abseil.io/resources/swe-book/html/toc.html>
 * r/learnprogramming - u/Clydeazy - I'm in prison & trying to learn to code.
 <br><https://www.reddit.com/r/learnprogramming/comments/6ekb7k>
 * Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files
