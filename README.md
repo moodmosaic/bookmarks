@@ -1393,6 +1393,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Forkable Ethereum dev stack focused on fast product iterations
+<br><https://github.com/scaffold-eth/scaffold-eth>
 * Image taken from @Spotify engineering blog, https://engineering.atspotify.com/2015/06/rapid-check/, but has its roots in the Erlang version of QuickCheck. I've encoded the technique a couple of times in Stacks using Clarinet. See the links at the previous tweets.
 <br><https://mobile.twitter.com/nikosbaxevanis/status/1540731191300685825>
 * Ken Roger's DEV.to articles
