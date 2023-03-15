@@ -1887,6 +1887,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* little-reasoner - A small hack that combines the power of ChatGPT and the Z3 theorem prover
+<br><https://twitter.com/NickPalladinos/status/1634937711395225601>
 * Kudos to the folks at Google that have worked on this https://developer.android.com/courses/android-basics-compose/course. The way it is structured, guiding you, yet allowing you to explore specific code labs, skipping others, marking things as optional, etc... is extremely well done!
 <br><https://twitter.com/hhariri/status/1619635765964832769>
 <br><https://developer.android.com/courses/android-basics-compose/course>
