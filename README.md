@@ -1393,6 +1393,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* The Trojan Horse of DeFi (Part 1): Uniswap is an Options Market disguising itself as a DEX
+<br>A deep dive into the mechanics of Automated Market Makers (AMMs) and the similarity to the dynamic hedging strategies of TradFi MMs
+<br><https://twitter.com/0xDevinG/status/1632736369297481728?t=IaMZJ3ffaqALF6nF7Dtdog>
 * Forkable Ethereum dev stack focused on fast product iterations
 <br><https://github.com/scaffold-eth/scaffold-eth>
 * Image taken from @Spotify engineering blog, https://engineering.atspotify.com/2015/06/rapid-check/, but has its roots in the Erlang version of QuickCheck. I've encoded the technique a couple of times in Stacks using Clarinet. See the links at the previous tweets.
