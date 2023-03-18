@@ -756,6 +756,8 @@
 
 ## Category theory
 
+* Category Theory Illustrated
+<br><https://abuseofnotation.github.io/category-theory-illustrated>
 * What is the pattern called where you override the values of an existing record but keep the values you didn't override?
 <br><https://stackoverflow.com/a/64836363/467754>
 * 18.S097: Programming with Categories
