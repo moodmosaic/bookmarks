@@ -1395,6 +1395,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Uniswap V3: what does price mean at a given tick?
+<br><https://stackoverflow.com/q/74555451>
+<br><https://stackoverflow.com/a/74619134>
 * The Trojan Horse of DeFi (Part 1): Uniswap is an Options Market disguising itself as a DEX
 <br>A deep dive into the mechanics of Automated Market Makers (AMMs) and the similarity to the dynamic hedging strategies of TradFi MMs
 <br><https://twitter.com/0xDevinG/status/1632736369297481728?t=IaMZJ3ffaqALF6nF7Dtdog>
