@@ -845,6 +845,11 @@
 
 ## C# ##
 
+* This is the best explanation of the async state machine I've ever read. It's also the *only* explanation of ExecutionContext, ICriticalNotifyCompletion.UnsafeOnCompleted, and impersonation flow on .NET Core that I've ever read.
+<br><https://twitter.com/aSteveCleary/status/1637856685657128961>
+<br><https://devblogs.microsoft.com/dotnet/how-async-await-really-works>
+* SimonCropp/Polyfill - Source only package that exposes newer .net and C# features to older runtimes.
+<br><https://github.com/SimonCropp/Polyfill>
 * I just listened to the @NoDogmaPodcast with @MadsTorgersen and while I don't know much about language design, I do know my way around C#, #fsharp, and Haskell, so would like to humbly make some comments. 1/5
 <br><https://twitter.com/ploeh/status/1605894663914782723>
 * bflattened/bflat - C# as you know it but with Go-inspired tooling that produces small, selfcontained, and native executables out of the box
@@ -1900,6 +1905,18 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* Check Device Coverage - Review your Apple warranty status and eligibility to purchase additional AppleCare coverage
+<br><https://checkcoverage.apple.com>
+* typst/typst - A new markup-based typesetting system that is powerful and easy to learn.
+<br><https://github.com/typst/typst>
+* Absolutely addicting agricultural engineering to watch
+<br><https://twitter.com/Kristennetten/status/1637684639560257536>
+* excalidraw/excalidraw - Virtual whiteboard for sketching hand-drawn like diagrams
+<br><https://github.com/excalidraw/excalidraw>
+* Remote Communication - Thorsten Ball
+<br><https://thorstenball.com/remote-communication>
+* terror/zk - A note-taking tool based on the famous Zettelkasten method
+<br><https://github.com/terror/zk>
 * little-reasoner - A small hack that combines the power of ChatGPT and the Z3 theorem prover
 <br><https://twitter.com/NickPalladinos/status/1634937711395225601>
 * Kudos to the folks at Google that have worked on this https://developer.android.com/courses/android-basics-compose/course. The way it is structured, guiding you, yet allowing you to explore specific code labs, skipping others, marking things as optional, etc... is extremely well done!
