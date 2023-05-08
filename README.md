@@ -1900,11 +1900,15 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 * Luca Zanolini - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
 <br><https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md>
 
-
 [Back to top](#)
 
 ## Further
 
+* Enduro2 vs fēnix 7X – Sapphire Solar Edition
+<br><https://www.garmin.com/en-US/p/854515>
+<br><https://www.garmin.com/en-US/p/735563>
+* PSA For All Americans Traveling in Europe - Lunch Ain't aThing
+<br><https://twitter.com/stoolpresidente/status/1646166518839885824>
 * Check Device Coverage - Review your Apple warranty status and eligibility to purchase additional AppleCare coverage
 <br><https://checkcoverage.apple.com>
 * typst/typst - A new markup-based typesetting system that is powerful and easy to learn.
