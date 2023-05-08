@@ -845,6 +845,8 @@
 
 ## C# ##
 
+* Test Contra-variance
+<br><https://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html>
 * This is the best explanation of the async state machine I've ever read. It's also the *only* explanation of ExecutionContext, ICriticalNotifyCompletion.UnsafeOnCompleted, and impersonation flow on .NET Core that I've ever read.
 <br><https://twitter.com/aSteveCleary/status/1637856685657128961>
 <br><https://devblogs.microsoft.com/dotnet/how-async-await-really-works>
