@@ -92,6 +92,11 @@
 
 ## Haskell
 
+* falsify: Hypothesis-inspired shrinking for Haskell
+<br><https://well-typed.com/blog/2023/04/falsify>
+<br><https://hackage.haskell.org/package/falsify>
+* Bartosz Milewski - ploeh Enjoyed your one-liner implementation of anagrams. Using Data.List.Extra, you can shorten it even further
+<br><https://twitter.com/ploeh/status/1646950783831666688>
 * thma/srv - srv is a tiny web server for local deployments
 <br><https://github.com/thma/srv>
 * chshersh/dr-cabal - Haskell dependencies build times profiler
@@ -1409,6 +1414,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://www.nansen.ai>
 * Block explorer running on private network
 <br><https://ethereum.stackexchange.com/a/2928>
+* V3Utils is back! - Revert
+<br><https://mirror.xyz/revertfinance.eth/d3Fn5KJZ3xeg0NSZadSyP6mkLWHRbbftURH2iBariS0>
 * Uniswap V3: what does price mean at a given tick?
 <br><https://stackoverflow.com/q/74555451>
 <br><https://stackoverflow.com/a/74619134>
