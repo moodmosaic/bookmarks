@@ -1405,6 +1405,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Nansen.ai - Discover Insights You Can't Get Anywhere Else
+<br><https://www.nansen.ai>
 * Uniswap V3: what does price mean at a given tick?
 <br><https://stackoverflow.com/q/74555451>
 <br><https://stackoverflow.com/a/74619134>
