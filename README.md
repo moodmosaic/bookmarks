@@ -1410,6 +1410,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Default - Ethereum Protocol Development & Upgradability Framework
+<br><https://github.com/fullyallocated/Default>
 * Nansen.ai - Discover Insights You Can't Get Anywhere Else
 <br><https://www.nansen.ai>
 * Block explorer running on private network
