@@ -1412,6 +1412,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Default - Ethereum Protocol Development & Upgradability Framework
 <br><https://github.com/fullyallocated/Default>
+* Ryan Shea's Nextra website (Stacks co-founder)
+<br><https://www.shea.io>
 * Nansen.ai - Discover Insights You Can't Get Anywhere Else
 <br><https://www.nansen.ai>
 * Block explorer running on private network
