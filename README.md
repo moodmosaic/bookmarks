@@ -1412,6 +1412,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Default - Ethereum Protocol Development & Upgradability Framework
 <br><https://github.com/fullyallocated/Default>
+* Trust Machines Bitcoin History
+<br><https://trustmachines.co/bitcoin-history>
 * Nextra - Make beautiful websites with Next.js & MDX
 <br><https://nextra.site>
 * Ryan Shea's Nextra website (Stacks co-founder)
