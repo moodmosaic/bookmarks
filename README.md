@@ -1925,6 +1925,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* ZUBY: on Twitter: "Real Talk with Zuby Podcast Ep. 263 - Elon Musk
+<br><https://twitter.com/ZubyMusic/status/1670098987037208577>
 * Enduro2 vs fēnix 7X – Sapphire Solar Edition
 <br><https://www.garmin.com/en-US/p/854515>
 <br><https://www.garmin.com/en-US/p/735563>
