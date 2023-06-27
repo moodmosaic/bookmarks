@@ -1135,6 +1135,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Git
 
+* Create a private fork of a public repository
+<br><https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274>
 * A Note About Git Commit Messages
 <br><https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
 * Include diagrams in your Markdown files with Mermaid
