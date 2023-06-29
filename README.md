@@ -1412,6 +1412,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* AMPL - Technical: Implementation of the Rebase Operation
+<br><https://forum.ampleforth.org/t/technical-implementation-of-the-rebase-operation/578>
 * Default - Ethereum Protocol Development & Upgradability Framework
 <br><https://github.com/fullyallocated/Default>
 * Trust Machines Bitcoin History
