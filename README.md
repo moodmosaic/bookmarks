@@ -1416,6 +1416,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://forum.ampleforth.org/t/technical-implementation-of-the-rebase-operation/578>
 * AMPL - Orchestrator | Address 0x6fb00a180781e75f87e2b690af0196baa77c7e7c | Etherscan
 <br><https://etherscan.io/address/0x6fb00a180781e75f87e2b690af0196baa77c7e7c#readContract>
+* Building a Token Vesting Contract
+<br><https://medium.com/cardstack/building-a-token-vesting-contract-b368a954f99>
 * Default - Ethereum Protocol Development & Upgradability Framework
 <br><https://github.com/fullyallocated/Default>
 * Trust Machines Bitcoin History
