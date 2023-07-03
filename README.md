@@ -1931,6 +1931,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+Rekt - The dark web of DeFi journalism
+<br><https://rekt.news>
 * ZUBY: on Twitter: "Real Talk with Zuby Podcast Ep. 263 - Elon Musk
 <br><https://twitter.com/ZubyMusic/status/1670098987037208577>
 * Enduro2 vs fēnix 7X – Sapphire Solar Edition
