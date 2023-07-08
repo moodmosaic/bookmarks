@@ -1935,6 +1935,8 @@ Rekt - The dark web of DeFi journalism
 <br><https://rekt.news>
 * Meet NOVA: The Convertible Duffle Garment Luggage w/ Wheels
 <br><https://www.kickstarter.com/profile/woolandoak/created>
+* Nextra - Make beautiful websites with Next.js & MDX
+<br><https://nextra.site>
 * ZUBY: on Twitter: "Real Talk with Zuby Podcast Ep. 263 - Elon Musk
 <br><https://twitter.com/ZubyMusic/status/1670098987037208577>
 * Enduro2 vs fēnix 7X – Sapphire Solar Edition
