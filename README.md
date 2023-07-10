@@ -1937,6 +1937,8 @@ Rekt - The dark web of DeFi journalism
 <br><https://www.kickstarter.com/profile/woolandoak/created>
 * Nextra - Make beautiful websites with Next.js & MDX
 <br><https://nextra.site>
+* cotes2020/chirpy-starter - The startup template for Chirpy
+<br><https://github.com/cotes2020/chirpy-starter>
 * ZUBY: on Twitter: "Real Talk with Zuby Podcast Ep. 263 - Elon Musk
 <br><https://twitter.com/ZubyMusic/status/1670098987037208577>
 * Enduro2 vs fēnix 7X – Sapphire Solar Edition
