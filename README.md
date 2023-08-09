@@ -1931,6 +1931,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* LUMI Keys & App - The brightest way to learn piano
+<br><https://playlumi.com/eu/lumi-keys>
 * Rekt - The dark web of DeFi journalism
 <br><https://rekt.news>
 * Meet NOVA: The Convertible Duffle Garment Luggage w/ Wheels
