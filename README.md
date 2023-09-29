@@ -1934,7 +1934,7 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 ## Further
 
 * Open notepad in browser - make browser look like notepad
-<br><data:text/html,<html contenteditable>>
+<br><pre>data:text/html,<html contenteditable></pre>
 * LUMI Keys & App - The brightest way to learn piano
 <br><https://playlumi.com/eu/lumi-keys>
 * Rekt - The dark web of DeFi journalism
