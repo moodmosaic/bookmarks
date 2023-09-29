@@ -1412,6 +1412,10 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Tasker - A minimal keeper service for Charm Alpha Vault on OP Mainnet
+<br><https://github.com/gunboatsss/Tasker>
+* Benchmarking the Performance of Automated Liquidity Vault Strategies
+<br><https://crocswap.medium.com/benchmarking-the-performance-of-automated-liquidity-vault-strategies-81a6facf617b>
 * AMPL - Technical: Implementation of the Rebase Operation
 <br><https://forum.ampleforth.org/t/technical-implementation-of-the-rebase-operation/578>
 * AMPL - Orchestrator | Address 0x6fb00a180781e75f87e2b690af0196baa77c7e7c | Etherscan
