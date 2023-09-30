@@ -1937,12 +1937,20 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* Little Snitch - Makes the invisible visible!
+<br><https://www.obdev.at/products/littlesnitch/index.html>
+* Create, Remix and Run Magical AI Generators
+<br><https://glif.app/glifs>
 * Open notepad in browser - make browser look like notepad
 <br><pre>data:text/html,<html contenteditable></pre>
 * LUMI Keys & App - The brightest way to learn piano
 <br><https://playlumi.com/eu/lumi-keys>
 * Rekt - The dark web of DeFi journalism
 <br><https://rekt.news>
+* VUARNET MATTE BLACK / POLARIZED GREEN PC 2000 SUNGLASSES VL 1308 0001 1721
+<br><https://www.sunraycity.com/sunglasses-for-men/vuarnet-matte-black/polarized-green-pc-2000-sunglasses-vl-1308-0001-1721>
+* tapni.com - #1 Digital Business Cards for Networking – Tapni
+<br><https://tapni.com>
 * Meet NOVA: The Convertible Duffle Garment Luggage w/ Wheels
 <br><https://www.kickstarter.com/profile/woolandoak/created>
 * Nextra - Make beautiful websites with Next.js & MDX
