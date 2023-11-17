@@ -1412,6 +1412,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Solidity Interview Questions - Over 140 interview questions for Ethereum Developers
+<br><https://www.rareskills.io/post/solidity-interview-questions>
 * Tasker - A minimal keeper service for Charm Alpha Vault on OP Mainnet
 <br><https://github.com/gunboatsss/Tasker>
 * Benchmarking the Performance of Automated Liquidity Vault Strategies
