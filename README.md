@@ -1354,6 +1354,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Go
 
+* Charm - We make the command line glamorous
+<br><https://charm.sh>
+<br><https://github.com/charmbracelet>
 * Go By Example
 <br><https://github.com/mmcgrana/gobyexample>
 * Building a secure note sharing service in Go
