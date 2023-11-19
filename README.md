@@ -1417,6 +1417,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* The Casino on Mars
+<br><https://www.paradigm.xyz/2023/09/casino-on-mars>
 * Solidity Interview Questions - Over 140 interview questions for Ethereum Developers
 <br><https://www.rareskills.io/post/solidity-interview-questions>
 * Tasker - A minimal keeper service for Charm Alpha Vault on OP Mainnet
