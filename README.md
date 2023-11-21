@@ -1946,8 +1946,6 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
-* Little Snitch - Makes the invisible visible!
-<br><https://www.obdev.at/products/littlesnitch/index.html>
 * Create, Remix and Run Magical AI Generators
 <br><https://glif.app/glifs>
 * Open notepad in browser - make browser look like notepad
