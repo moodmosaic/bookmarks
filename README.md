@@ -1948,6 +1948,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 * Whimsical - Where great ideas take shape. Whimsical combines whiteboards and docs in an all-in-one collaboration hub
 <br><https://whimsical.com>
+* tapni - Your Digital Business Cards for Networking
+<br><https://tapni.com>
 * Create, Remix and Run Magical AI Generators
 <br><https://glif.app/glifs>
 * Open notepad in browser - make browser look like notepad
