@@ -1941,6 +1941,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://github.com/DeviaVir/zenbot>
 * Luca Zanolini - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
 <br><https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md>
+* MeadowSuite/Meadow - Written completely in cross-platform C# with .NET Core - Integrated Ethereum implementation and tool suite focused on Solidity testing and development.
+<br><https://github.com/MeadowSuite/Meadow>
 
 [Back to top](#)
 
