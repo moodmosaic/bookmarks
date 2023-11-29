@@ -146,6 +146,7 @@
 <br><https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh>
 * This is a simple introduction to model checking, written in literate Haskell
 <br><https://github.com/benjaminselfridge/model-checking>
+<br><https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html>
 * trailofbits/umberto - poststructural fuzzing
 <br><https://github.com/trailofbits/umberto>
 * Haskell to-do list
