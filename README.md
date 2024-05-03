@@ -92,6 +92,10 @@
 
 ## Haskell
 
+* Graham Hutton - Interested in learning Haskell? The full set of 16 videos from my introductory course based on the book "Programming in Haskell" is now freely available.
+<br><https://twitter.com/haskellhutt/status/1769368961479516569>
+* Kleidukos/get-tested - A CLI tool that retrieves the tested-with stanza of a cabal file and formats it in such a way that GitHub Actions can use it.
+<br><https://github.com/Kleidukos/get-tested>
 * falsify: Hypothesis-inspired shrinking for Haskell
 <br><https://well-typed.com/blog/2023/04/falsify>
 <br><https://hackage.haskell.org/package/falsify>
@@ -1418,6 +1422,24 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Our Bitcoin Thesis: The Panda Renaissance - Portal Ventures
+<br><https://portal.vc/bitcoin>
+* Like many others, I've seen Mintscan's Heartbeat page and thought: "Woah, that's pretty cool". Unlike others, I was crazy enough to try to replicate that for the Ethereum ecosystem.
+<br><https://twitter.com/destinerx/status/1742354459470995835>
+* I'm starting a series of articles about memory in Solidity / EVM: a topic that's more complex and messy than it looks at the first glance. - Atis Elsts
+<br><https://atise.medium.com/solidity-memory-types-in-depth-part-1-persistence-492a6e504518>
+* Stacks is the only digital asset with a native #BTC yield by consensus.
+<br><https://twitter.com/leatherbtc/status/1785397537668493351>
+* [Charm Finance] LTIPP Application - FINAL
+<br><https://forum.arbitrum.foundation/t/charm-finance-ltipp-application-final/21625>
+* crystalscript/crystalscript - Compiler for Stacks smart contracts
+<br><https://github.com/crystalscript/crystalscript>
+* How to Soft Fork Bitcoin - Hell Money Podcast
+<br><https://www.youtube.com/watch?v=yT8PkQZLaLs>
+* Here are 5️ things that Clarity does differently than Solidity.
+<br><https://twitter.com/zxarcs/status/1758268286897369444>
+* Is Stacks a Bitcoin L2?
+<br><https://github.com/stacks-network/stacks/blob/master/stacks-l2.md>
 * The Casino on Mars
 <br><https://www.paradigm.xyz/2023/09/casino-on-mars>
 * Solidity Interview Questions - Over 140 interview questions for Ethereum Developers
@@ -1949,6 +1971,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* Steve Jobs sent himself this email in 2010.
+<br><https://twitter.com/jonerlichman/status/1775298622977872282>
 * Whimsical - Where great ideas take shape. Whimsical combines whiteboards and docs in an all-in-one collaboration hub
 <br><https://whimsical.com>
 * tapni - Your Digital Business Cards for Networking
