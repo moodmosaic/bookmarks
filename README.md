@@ -73,6 +73,8 @@
 
 ## Python
 
+* Life is short, I use Python.
+<br><https://x.com/qcompounding/status/1796489299954966731>
 * kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts
 <br><https://github.com/kellyjonbrazil/jc>
 * Python Design Patterns
