@@ -1422,6 +1422,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Following a transaction from L2 -> L1
+<br><https://x.com/jarrodwattsdev/status/1796456174780600635>
 * Our Bitcoin Thesis: The Panda Renaissance - Portal Ventures
 <br><https://portal.vc/bitcoin>
 * Like many others, I've seen Mintscan's Heartbeat page and thought: "Woah, that's pretty cool". Unlike others, I was crazy enough to try to replicate that for the Ethereum ecosystem.
