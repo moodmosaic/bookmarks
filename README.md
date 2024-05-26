@@ -1971,6 +1971,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* My wife and I may have gone too far... Adios @slackhq, it's been real.
+<br><https://x.com/benln/status/1796189855602360814>
 * Steve Jobs sent himself this email in 2010.
 <br><https://twitter.com/jonerlichman/status/1775298622977872282>
 * Whimsical - Where great ideas take shape. Whimsical combines whiteboards and docs in an all-in-one collaboration hub
