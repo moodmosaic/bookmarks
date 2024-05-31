@@ -1235,6 +1235,9 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* The best™ ASCII table
+<br><https://github.com/arp242/bestasciitable>
+<br><https://bestasciitable.com>
 * How to manage Wi-Fi with Terminal commands on macOS
 <br><https://www.techrepublic.com/article/pro-tip-manage-wi-fi-with-terminal-commands-on-os-x>
 * airport: a hidden Wi-Fi tool in macOS Sierra
