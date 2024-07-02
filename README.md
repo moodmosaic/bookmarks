@@ -1416,6 +1416,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Rust
 
+* Running `cargo afl fuzz` does not interpret panics as crashes
+<br><https://github.com/rust-fuzz/afl.rs/issues/499>
 * LGUG2Z/komorebi - A tiling window manager for Windows
 <br><https://github.com/LGUG2Z/komorebi>
 * Easy Rust
