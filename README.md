@@ -1990,6 +1990,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Further
 
+* asciinema - Record and share your terminal sessions, the simple way.
+<br><https://asciinema.org>
 * Thread of crazy painting details
 <br><https://x.com/jameslucasit/status/1827034862735204380>
 * My wife and I may have gone too far... Adios @slackhq, it's been real.
