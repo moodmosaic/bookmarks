@@ -1994,6 +1994,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://asciinema.org>
 * browserleaks - A suite of tools that offers a range of tests to evaluate the security and privacy of your web browser.
 <br><https://browserleaks.com>
+* mntruell - Ultra-minimal blog
+<br><https://mntruell.com>
 * Thread of crazy painting details
 <br><https://x.com/jameslucasit/status/1827034862735204380>
 * My wife and I may have gone too far... Adios @slackhq, it's been real.
