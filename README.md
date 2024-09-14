@@ -94,6 +94,8 @@
 
 ## Haskell
 
+* GHC and Cabal: the big picture
+<br><https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968>
 * Graham Hutton - Interested in learning Haskell? The full set of 16 videos from my introductory course based on the book "Programming in Haskell" is now freely available.
 <br><https://twitter.com/haskellhutt/status/1769368961479516569>
 * Kleidukos/get-tested - A CLI tool that retrieves the tested-with stanza of a cabal file and formats it in such a way that GitHub Actions can use it.
