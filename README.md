@@ -1427,6 +1427,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* whoabuddy/clarity-master
+<br><https://github.com/whoabuddy/clarity-master>
 * Following a transaction from L2 -> L1
 <br><https://x.com/jarrodwattsdev/status/1796456174780600635>
 * Our Bitcoin Thesis: The Panda Renaissance - Portal Ventures
