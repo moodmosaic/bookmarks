@@ -94,6 +94,8 @@
 
 ## Haskell
 
+* A Deep Dive into Architecture, Functional Programming, and Dependency Injection with Mark Seemann
+<br><https://www.youtube.com/watch?v=K4V_36ZyoDw>
 * GHC and Cabal: the big picture
 <br><https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968>
 * Graham Hutton - Interested in learning Haskell? The full set of 16 videos from my introductory course based on the book "Programming in Haskell" is now freely available.
