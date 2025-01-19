@@ -772,6 +772,8 @@
 
 ## Category theory
 
+* abuseofnotation/category-theory-illustrated - Category Theory Illustrated
+<br><https://github.com/abuseofnotation/category-theory-illustrated>
 * I got a bit carried away with a Stack Overflow answer, but if you're curious about fundamentals of monoids and what they can do, you might find this interesting. Examples are in Haskell, but should be understandable by looking at the examples. - Functional programming pattern for performing a function once after fold/reduce?
 <br><https://twitter.com/ploeh/status/1631211852687458304>
 <br><https://stackoverflow.com/questions/75611318/functional-programming-pattern-for-performing-a-function-once-after-fold-reduce/75612931#75612931>
