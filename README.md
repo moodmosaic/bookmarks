@@ -1241,6 +1241,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Unix-like
 
+* lambdaclass/lambdaclass_hacking_learning_path - LambdaClass Hobby Club, hacking learning path handbook.
+<br><https://github.com/lambdaclass/lambdaclass_hacking_learning_path>
 * The best™ ASCII table
 <br><https://github.com/arp242/bestasciitable>
 <br><https://bestasciitable.com>
