@@ -1435,6 +1435,19 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 [Back to top](#)
 
+## AI
+
+* Chainlit/chainlit - Build Conversational AI in minutes
+<br><https://github.com/Chainlit/chainlit>
+* Meta Movie Gen - Learn about the research for the most advanced media foundation AI models.
+<br><https://ai.meta.com/research/movie-gen>
+* Runway - Tools for human imagination.
+<br><https://runwayml.com>
+* Pika.art - The idea-to-video platform that sets your creativity in motion.
+<br><https://pika.art>
+
+[Back to top](#)
+
 ## Blockchains
 
 * whoabuddy/clarity-master
