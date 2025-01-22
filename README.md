@@ -1450,6 +1450,21 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 
 ## Blockchains
 
+* Introducing: "What's The Problem?"
+<br><https://x.com/satsvsfiat/status/1876630536652771406>
+* Rendezvous Presentation Dark
+<br><https://ooo.mmhmm.app/z_BuO1QWRRI6nzO6m72pqK?shareToken=zGRDkNP16ej5xOTi>
+* Fuzzing smart-contracts practical aspects: Echidna
+<br><https://mixbytes.io/blog/fuzzing-smart-contracts-practical-aspects-echidna>
+* Uniswap V3 ticks - dive into concentrated liquidity
+<br><https://mixbytes.io/blog/uniswap-v3-ticks-dive-into-concentrated-liquidity>
+* Crew: smart contract analysis and fuzzing
+<br><https://github.com/aibtcdev/ai-agent-crew/issues/5>
+* 0x - Embed swaps in your onchain app
+<br><https://0x.org>
+* We need more green dots on http://SaylorTracker.com.
+<br><https://x.com/saylor/status/1860670006612095133>
+<br><https://saylortracker.com>
 * whoabuddy/clarity-master
 <br><https://github.com/whoabuddy/clarity-master>
 * Following a transaction from L2 -> L1
@@ -1500,6 +1515,8 @@ Model = 20 lines, Update = 35 lines, View = 40 lines
 <br><https://ethereum.stackexchange.com/a/2928>
 * V3Utils is back! - Revert
 <br><https://mirror.xyz/revertfinance.eth/d3Fn5KJZ3xeg0NSZadSyP6mkLWHRbbftURH2iBariS0>
+* Very good explanation of Uniswap V3's concentrated liquidity by RareSkills_io
+<br><https://www.rareskills.io/post/uniswap-v3-concentrated-liquidity>
 * Uniswap V3: what does price mean at a given tick?
 <br><https://stackoverflow.com/q/74555451>
 <br><https://stackoverflow.com/a/74619134>
